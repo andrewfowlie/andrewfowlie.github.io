@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Andrew Fowlie</title>
+    <link>https://andrewfowlie.github.io/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Andrew Fowlie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Andrew Fowlie</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Jeffreys-Lindley&#39;s paradox</title>
+      <link>https://andrewfowlie.github.io/talk/jl-paradox/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/talk/jl-paradox/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Andrew Fowlie</title>
+    <link>https://andrewfowlie.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Andrew Fowlie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Andrew Fowlie</copyright>
+    <lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Halo-independence with quantified maximum entropy at DAMA/LIBRA</title>
+      <link>https://andrewfowlie.github.io/publication/halo_independence/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/halo_independence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gravitational waves at aLIGO and vacuum stability with a scalar singlet extension of the Standard Model</title>
+      <link>https://andrewfowlie.github.io/publication/grav_waves/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/grav_waves/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
