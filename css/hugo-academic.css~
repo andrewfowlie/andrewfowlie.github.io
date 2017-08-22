@@ -28,7 +28,7 @@ html {
 }
 @media screen and (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 24px;
   }
 }
 
@@ -112,7 +112,7 @@ video {
   max-width: 500px;
   margin-left: auto;
   margin-right: auto;
-  margin-left: auto;
+  margin-top: 100px;
   display: block;
 }
 
@@ -213,7 +213,7 @@ blockquote p:last-child {
 }
 
 .home-section {
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(44, 179, 235);
   padding: 110px 0 110px 0;
   animation: intro 0.3s both;
   animation-delay: 0.15s;
@@ -225,6 +225,7 @@ blockquote p:last-child {
 
 .home-section:nth-of-type(even) {
   background-color: rgb(247, 247, 247);
+  color: #FFF8DC;
 }
 
 @media screen and (max-width: 768px) {
@@ -255,6 +256,7 @@ blockquote p:last-child {
   text-align: center;
   padding: 30px 10px;
   position: relative;
+  color: #FFF8DC;
 }
 
 #profile .portrait {
@@ -271,14 +273,14 @@ blockquote p:last-child {
 #profile .portrait-title h2 {
   font-size: 1.75em;
   font-weight: 300;
-  color: #000000;
+  color: #FFF8DC;
   margin: 20px 0 10px 0;
 }
 
 #profile .portrait-title h3 {
   font-size: 1.13em;
   font-weight: 300;
-  color: #AAAAAA;
+  color: #FFF8DC;
   margin: 0px 0 10px 0;
 }
 
@@ -309,10 +311,12 @@ blockquote p:last-child {
 
 ul.ul-interests li {
   font-size: 0.9rem;
+  color: #FFF8DC;
 }
 
 ul.ul-edu {
   list-style: none;
+  color: #FFF8DC;
 }
 
 ul.ul-edu li {
@@ -326,6 +330,7 @@ ul.ul-edu li .description p {
 
 ul.ul-edu li .description p.course {
   font-size: 0.9rem;
+  color: #FFF8DC;
 }
 
 ul.ul-edu li .description p.institution {
@@ -505,7 +510,7 @@ article {
  **************************************************/
 
 .pub-icon {
-  color: #03396c;
+  color: #FFF8DC;
   font-size: 0.81em;
   padding-top: 6px;
 }
