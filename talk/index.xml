@@ -11,11 +11,74 @@
     <atom:link href="/talk/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Naturalness of the relaxion mechanism</title>
+      <link>https://andrewfowlie.github.io/talk/cospa_relaxion/</link>
+      <pubDate>Tue, 29 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/talk/cospa_relaxion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian approach to naturalness</title>
+      <link>https://andrewfowlie.github.io/talk/bayes_naturalness/</link>
+      <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/talk/bayes_naturalness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Jeffreys-Lindley&#39;s paradox</title>
       <link>https://andrewfowlie.github.io/talk/jl-paradox/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>https://andrewfowlie.github.io/talk/jl-paradox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Naturalness of the relaxion mechanism</title>
+      <link>https://andrewfowlie.github.io/talk/susy_relaxion/</link>
+      <pubDate>Thu, 07 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/talk/susy_relaxion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian naturalness of Next-to-Minimal and Minimal Supersymmetric Models</title>
+      <link>https://andrewfowlie.github.io/talk/susy_bayes/</link>
+      <pubDate>Sat, 07 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/talk/susy_bayes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prospects for constrained supersymmetry at $\sqrt{s}=33$ TeV and $\sqrt{s}=100$ TeV proton-proton super-colliders</title>
+      <link>https://andrewfowlie.github.io/talk/dis_bayes/</link>
+      <pubDate>Tue, 29 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/talk/dis_bayes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Status of SUSY after LHC Run I</title>
+      <link>https://andrewfowlie.github.io/talk/iop_susy/</link>
+      <pubDate>Tue, 09 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/talk/iop_susy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Implications of Current LHC Limits for the Constrained MSSM</title>
+      <link>https://andrewfowlie.github.io/talk/ytf_susy/</link>
+      <pubDate>Tue, 13 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/talk/ytf_susy/</guid>
       <description></description>
     </item>
     
