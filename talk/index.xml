@@ -65,11 +65,56 @@
     </item>
     
     <item>
+      <title>Naturalness of the relaxion mechanism</title>
+      <link>https://andrewfowlie.github.io/talk/coepp_relaxion/</link>
+      <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/talk/coepp_relaxion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LHC and beyond in 10 minutes: A quick tour</title>
+      <link>https://andrewfowlie.github.io/talk/outreach/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/talk/outreach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CMSSM vs CNMSSM</title>
+      <link>https://andrewfowlie.github.io/talk/tallinn_2/</link>
+      <pubDate>Tue, 23 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/talk/tallinn_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Prospects for constrained supersymmetry at $\sqrt{s}=33$ TeV and $\sqrt{s}=100$ TeV proton-proton super-colliders</title>
       <link>https://andrewfowlie.github.io/talk/dis_bayes/</link>
       <pubDate>Tue, 29 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://andrewfowlie.github.io/talk/dis_bayes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayes vs chi-squared</title>
+      <link>https://andrewfowlie.github.io/talk/tallinn_1/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/talk/tallinn_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Reconstruction of SUSY parameters at $\sqrt{s} = 14\,\text{GeV}$ via the Golden Decay</title>
+      <link>https://andrewfowlie.github.io/talk/tmex/</link>
+      <pubDate>Sun, 06 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/talk/tmex/</guid>
       <description></description>
     </item>
     
@@ -83,11 +128,20 @@
     </item>
     
     <item>
-      <title>Bayesian Implications of Current LHC Limits for the Constrained MSSM</title>
-      <link>https://andrewfowlie.github.io/talk/ytf_susy/</link>
-      <pubDate>Tue, 13 Dec 2011 00:00:00 +0000</pubDate>
+      <title>The CMSSM Favoring New Territories: The Impact of New LHC Limits and a 125 GeV Higgs</title>
+      <link>https://andrewfowlie.github.io/talk/oxford/</link>
+      <pubDate>Thu, 22 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/talk/ytf_susy/</guid>
+      <guid>https://andrewfowlie.github.io/talk/oxford/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The CMSSM after 2 years of the LHC</title>
+      <link>https://andrewfowlie.github.io/talk/consort/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/talk/consort/</guid>
       <description></description>
     </item>
     

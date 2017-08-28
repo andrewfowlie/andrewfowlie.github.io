@@ -7,7 +7,7 @@ a:link {
 }
     
 a:visited {
-    color: #005181;
+    color: #63b8ea;
 }
     
 a:hover {
