@@ -74,29 +74,74 @@
     </item>
     
     <item>
-      <title>Dark matter and collider signatures of the MSSM</title>
-      <link>https://andrewfowlie.github.io/publication/pmssm/</link>
-      <pubDate>Thu, 06 Jun 2013 00:00:00 +0000</pubDate>
+      <title>LHCO_reader: A new code for reading and analyzing detector-level events  stored in LHCO format</title>
+      <link>https://andrewfowlie.github.io/publication/lhco/</link>
+      <pubDate>Sun, 25 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/publication/pmssm/</guid>
+      <guid>https://andrewfowlie.github.io/publication/lhco/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The CMSSM Favoring New Territories: The Impact of New LHC Limits and a 125 GeV Higgs</title>
-      <link>https://andrewfowlie.github.io/publication/cmssm_territories/</link>
-      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <title>The little-hierarchy problem is a little problem: understanding the  difference between the big- and little-hierarchy problems with Bayesian  probability</title>
+      <link>https://andrewfowlie.github.io/publication/hierarchy/</link>
+      <pubDate>Thu, 11 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/publication/cmssm_territories/</guid>
+      <guid>https://andrewfowlie.github.io/publication/hierarchy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bayesian Implications of Current LHC and XENON100 Search Limits for the Constrained MSSM</title>
-      <link>https://andrewfowlie.github.io/publication/cmssm_2011/</link>
-      <pubDate>Fri, 25 Nov 2011 00:00:00 +0000</pubDate>
+      <title>Examining a right-handed quark mixing matrix with $b$-tags at the LHC</title>
+      <link>https://andrewfowlie.github.io/publication/lr_2/</link>
+      <pubDate>Wed, 17 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/publication/cmssm_2011/</guid>
+      <guid>https://andrewfowlie.github.io/publication/lr_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing quark mixing in minimal left-right symmetric models with  $b$-tags at the LHC</title>
+      <link>https://andrewfowlie.github.io/publication/lr_1/</link>
+      <pubDate>Thu, 28 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/lr_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is the CNMSSM more credible than the CMSSM?</title>
+      <link>https://andrewfowlie.github.io/publication/cnmssm/</link>
+      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/cnmssm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CMSSM, naturalness and the fine-tuning price of the Very Large Hadron Collider</title>
+      <link>https://andrewfowlie.github.io/publication/naturalness/</link>
+      <pubDate>Thu, 13 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/naturalness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prospects for constrained supersymmetry at $\sqrt{s}=33$ TeV and  $\sqrt{s}=100$ TeV proton-proton super-colliders</title>
+      <link>https://andrewfowlie.github.io/publication/prospects/</link>
+      <pubDate>Fri, 21 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/prospects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Approach to Investigating Supersymmetric Models </title>
+      <link>https://andrewfowlie.github.io/publication/thesis/</link>
+      <pubDate>Wed, 20 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/thesis/</guid>
       <description></description>
     </item>
     

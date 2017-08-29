@@ -230,8 +230,53 @@
     
     <url>
     
+      <loc>https://andrewfowlie.github.io/publication/lhco/</loc>
+      <lastmod>2015-10-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://andrewfowlie.github.io/publication/hierarchy/</loc>
+      <lastmod>2015-06-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://andrewfowlie.github.io/publication/lr_2/</loc>
+      <lastmod>2014-12-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://andrewfowlie.github.io/talk/tallinn_2/</loc>
       <lastmod>2014-09-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://andrewfowlie.github.io/publication/lr_1/</loc>
+      <lastmod>2014-08-28T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://andrewfowlie.github.io/publication/cnmssm/</loc>
+      <lastmod>2014-07-28T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -248,6 +293,15 @@
     
     <url>
     
+      <loc>https://andrewfowlie.github.io/publication/naturalness/</loc>
+      <lastmod>2014-03-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://andrewfowlie.github.io/post/migrate-from-jekyll/</loc>
       <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     </url>
@@ -257,8 +311,26 @@
     
     <url>
     
+      <loc>https://andrewfowlie.github.io/publication/prospects/</loc>
+      <lastmod>2014-02-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://andrewfowlie.github.io/talk/tallinn_1/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://andrewfowlie.github.io/publication/thesis/</loc>
+      <lastmod>2013-11-20T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -356,8 +428,37 @@
     
     <url>
     
+      <loc>https://andrewfowlie.github.io/publication/golden_decay/</loc>
+      <lastmod>2011-06-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://andrewfowlie.github.io/publication_types/0/</loc>
+      <lastmod>2015-10-25T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://andrewfowlie.github.io/publication_types/2/</loc>
       <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://andrewfowlie.github.io/publication_types/7/</loc>
+      <lastmod>2013-11-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -436,7 +537,7 @@
     <url>
     
       <loc>https://andrewfowlie.github.io/publication_types/</loc>
-      <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+      <lastmod>2015-10-25T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
