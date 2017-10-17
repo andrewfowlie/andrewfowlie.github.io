@@ -11,6 +11,15 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Bayesian analysis and naturalness of (Next-to-)Minimal Supersymmetric  Models</title>
+      <link>https://andrewfowlie.github.io/publication/cnmssm_2/</link>
+      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/cnmssm_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Halo-independence with quantified maximum entropy at DAMA/LIBRA</title>
       <link>https://andrewfowlie.github.io/publication/dm/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Fri, 21 Feb 2014 00:00:00 +0000</pubDate>
       
       <guid>https://andrewfowlie.github.io/publication/prospects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian Approach to Investigating Supersymmetric Models </title>
-      <link>https://andrewfowlie.github.io/publication/thesis/</link>
-      <pubDate>Wed, 20 Nov 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/publication/thesis/</guid>
       <description></description>
     </item>
     
