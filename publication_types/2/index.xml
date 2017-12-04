@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Andrew Fowlie</copyright>
-    <lastBuildDate>Fri, 22 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Nov 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Model-independent analysis of the DAMPE excess</title>
+      <link>https://andrewfowlie.github.io/publication/dampe/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/dampe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Analyses of Higgs- and Z-Portal Dark Matter Models</title>
+      <link>https://andrewfowlie.github.io/publication/dm_portals/</link>
+      <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/dm_portals/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bayesian analysis and naturalness of (Next-to-)Minimal Supersymmetric  Models</title>
@@ -124,24 +142,6 @@
       <pubDate>Fri, 21 Feb 2014 00:00:00 +0000</pubDate>
       
       <guid>https://andrewfowlie.github.io/publication/prospects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dark matter and collider signatures of the MSSM</title>
-      <link>https://andrewfowlie.github.io/publication/pmssm/</link>
-      <pubDate>Thu, 06 Jun 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/publication/pmssm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The CMSSM Favoring New Territories: The Impact of New LHC Limits and a 125 GeV Higgs</title>
-      <link>https://andrewfowlie.github.io/publication/cmssm_territories/</link>
-      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/publication/cmssm_territories/</guid>
       <description></description>
     </item>
     

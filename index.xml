@@ -11,6 +11,33 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Model-independent analysis of the DAMPE excess</title>
+      <link>https://andrewfowlie.github.io/publication/dampe/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/dampe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relative plausibility of scientific theories: WIMP dark matter</title>
+      <link>https://andrewfowlie.github.io/talk/bayes_dm_portals/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/talk/bayes_dm_portals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Analyses of Higgs- and Z-Portal Dark Matter Models</title>
+      <link>https://andrewfowlie.github.io/publication/dm_portals/</link>
+      <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/dm_portals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Halo-independence with quantified maximum entropy at DAMA/LIBRA </title>
       <link>https://andrewfowlie.github.io/talk/dm_workshop/</link>
       <pubDate>Sat, 14 Oct 2017 13:30:00 +0000</pubDate>
@@ -115,33 +142,6 @@
       <pubDate>Fri, 22 Jul 2016 00:00:00 +0000</pubDate>
       
       <guid>https://andrewfowlie.github.io/publication/diphoton/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reconstruction of the Higgs mass in events with Higgs bosons decaying into a pair of $\tau$ leptons using matrix element techniques</title>
-      <link>https://andrewfowlie.github.io/publication/higgs/</link>
-      <pubDate>Fri, 22 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/publication/higgs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Naturalness of the relaxion mechanism</title>
-      <link>https://andrewfowlie.github.io/talk/susy_relaxion/</link>
-      <pubDate>Thu, 07 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/talk/susy_relaxion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian naturalness of Next-to-Minimal and Minimal Supersymmetric Models</title>
-      <link>https://andrewfowlie.github.io/talk/susy_bayes/</link>
-      <pubDate>Sat, 07 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/talk/susy_bayes/</guid>
       <description></description>
     </item>
     

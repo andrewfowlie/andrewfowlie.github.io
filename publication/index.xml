@@ -11,6 +11,24 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Model-independent analysis of the DAMPE excess</title>
+      <link>https://andrewfowlie.github.io/publication/dampe/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/dampe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Analyses of Higgs- and Z-Portal Dark Matter Models</title>
+      <link>https://andrewfowlie.github.io/publication/dm_portals/</link>
+      <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/dm_portals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bayesian analysis and naturalness of (Next-to-)Minimal Supersymmetric  Models</title>
       <link>https://andrewfowlie.github.io/publication/cnmssm_2/</link>
       <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
@@ -124,24 +142,6 @@
       <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
       
       <guid>https://andrewfowlie.github.io/publication/cnmssm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CMSSM, naturalness and the fine-tuning price of the Very Large Hadron Collider</title>
-      <link>https://andrewfowlie.github.io/publication/naturalness/</link>
-      <pubDate>Thu, 13 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/publication/naturalness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prospects for constrained supersymmetry at $\sqrt{s}=33$ TeV and  $\sqrt{s}=100$ TeV proton-proton super-colliders</title>
-      <link>https://andrewfowlie.github.io/publication/prospects/</link>
-      <pubDate>Fri, 21 Feb 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/publication/prospects/</guid>
       <description></description>
     </item>
     
