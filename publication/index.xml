@@ -11,6 +11,15 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>DAMPE squib? Significance of the 1.4 TeV DAMPE excess</title>
+      <link>https://andrewfowlie.github.io/publication/dampe_significance/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/dampe_significance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Model-independent analysis of the DAMPE excess</title>
       <link>https://andrewfowlie.github.io/publication/dampe/</link>
       <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Thu, 28 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>https://andrewfowlie.github.io/publication/lr_1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Is the CNMSSM more credible than the CMSSM?</title>
-      <link>https://andrewfowlie.github.io/publication/cnmssm/</link>
-      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/publication/cnmssm/</guid>
       <description></description>
     </item>
     

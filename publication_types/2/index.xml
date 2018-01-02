@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Andrew Fowlie</copyright>
-    <lastBuildDate>Thu, 30 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Dec 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DAMPE squib? Significance of the 1.4 TeV DAMPE excess</title>
+      <link>https://andrewfowlie.github.io/publication/dampe_significance/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/dampe_significance/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Model-independent analysis of the DAMPE excess</title>
@@ -133,15 +142,6 @@
       <pubDate>Thu, 13 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>https://andrewfowlie.github.io/publication/naturalness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prospects for constrained supersymmetry at $\sqrt{s}=33$ TeV and  $\sqrt{s}=100$ TeV proton-proton super-colliders</title>
-      <link>https://andrewfowlie.github.io/publication/prospects/</link>
-      <pubDate>Fri, 21 Feb 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/publication/prospects/</guid>
       <description></description>
     </item>
     
