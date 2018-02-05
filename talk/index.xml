@@ -6,9 +6,11 @@
     <description>Recent content in Recent &amp; Upcoming Talks on Andrew Fowlie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Andrew Fowlie</copyright>
+    <copyright>&amp;copy; 2018 Andrew Fowlie</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://andrewfowlie.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Relative plausibility of scientific theories: WIMP dark matter</title>
@@ -142,6 +144,69 @@
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>https://andrewfowlie.github.io/talk/tallinn_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Reconstruction of SUSY parameters at $\sqrt{s} = 14\,\text{GeV}$ via the Golden Decay</title>
+      <link>https://andrewfowlie.github.io/talk/tmex/</link>
+      <pubDate>Sun, 06 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/talk/tmex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Status of SUSY after LHC Run I</title>
+      <link>https://andrewfowlie.github.io/talk/iop_susy/</link>
+      <pubDate>Tue, 09 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/talk/iop_susy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The CMSSM Favoring New Territories: The Impact of New LHC Limits and a 125 GeV Higgs</title>
+      <link>https://andrewfowlie.github.io/talk/oxford/</link>
+      <pubDate>Thu, 22 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/talk/oxford/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The CMSSM after 2 years of the LHC</title>
+      <link>https://andrewfowlie.github.io/talk/consort/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/talk/consort/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Implications of Current LHC and XENON100 Search Limits for the Constrained MSSM</title>
+      <link>https://andrewfowlie.github.io/talk/yeti/</link>
+      <pubDate>Tue, 10 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/talk/yeti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Implications of Current LHC Limits for the Constrained MSSM</title>
+      <link>https://andrewfowlie.github.io/talk/ytf/</link>
+      <pubDate>Tue, 13 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/talk/ytf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supersymmetry and the LHC: A Bayesian Approach</title>
+      <link>https://andrewfowlie.github.io/talk/sheffield/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/talk/sheffield/</guid>
       <description></description>
     </item>
     
