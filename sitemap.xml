@@ -122,6 +122,33 @@
     
     <url>
     
+      <loc>https://andrewfowlie.github.io/project/bayes_factors/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://andrewfowlie.github.io/project/susy_fits/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://andrewfowlie.github.io/project/fine-tuning/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://andrewfowlie.github.io/project/gambit/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
@@ -342,7 +369,27 @@
     
     <url>
     
+      <loc>https://andrewfowlie.github.io/tags/bayes-factors/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://andrewfowlie.github.io/talk/tallinn_1/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://andrewfowlie.github.io/tags/bayesian/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -399,6 +446,16 @@
     <url>
     
       <loc>https://andrewfowlie.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://andrewfowlie.github.io/tags/dm/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -503,6 +560,16 @@
     
     <url>
     
+      <loc>https://andrewfowlie.github.io/tags/np/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://andrewfowlie.github.io/project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -555,6 +622,16 @@
     
     <url>
     
+      <loc>https://andrewfowlie.github.io/tags/susy/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://andrewfowlie.github.io/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -582,6 +659,16 @@
     <url>
     
       <loc>https://andrewfowlie.github.io/talk/jl-paradox/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://andrewfowlie.github.io/tags/tuning/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   

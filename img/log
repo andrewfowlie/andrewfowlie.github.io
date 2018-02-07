@@ -1,0 +1,127 @@
+Ign http://au.archive.ubuntu.com trusty InRelease
+Hit http://au.archive.ubuntu.com trusty-updates InRelease
+Hit http://au.archive.ubuntu.com trusty-backports InRelease
+Hit http://au.archive.ubuntu.com trusty Release.gpg
+Hit http://au.archive.ubuntu.com trusty-updates/main Sources
+Hit http://au.archive.ubuntu.com trusty-updates/restricted Sources
+Hit http://au.archive.ubuntu.com trusty-updates/universe Sources
+Hit http://au.archive.ubuntu.com trusty-updates/multiverse Sources
+Hit http://au.archive.ubuntu.com trusty-updates/main amd64 Packages
+Hit http://au.archive.ubuntu.com trusty-updates/restricted amd64 Packages
+Hit http://au.archive.ubuntu.com trusty-updates/universe amd64 Packages
+Hit http://au.archive.ubuntu.com trusty-updates/multiverse amd64 Packages
+Hit http://au.archive.ubuntu.com trusty-updates/main i386 Packages
+Hit http://au.archive.ubuntu.com trusty-updates/restricted i386 Packages
+Hit http://au.archive.ubuntu.com trusty-updates/universe i386 Packages
+Hit http://au.archive.ubuntu.com trusty-updates/multiverse i386 Packages
+Hit http://au.archive.ubuntu.com trusty-updates/main Translation-en
+Hit http://au.archive.ubuntu.com trusty-updates/multiverse Translation-en
+Hit http://au.archive.ubuntu.com trusty-updates/restricted Translation-en
+Hit http://au.archive.ubuntu.com trusty-updates/universe Translation-en
+Hit http://au.archive.ubuntu.com trusty-backports/main Sources
+Hit http://au.archive.ubuntu.com trusty-backports/restricted Sources
+Ign http://dl.google.com stable InRelease
+Hit http://au.archive.ubuntu.com trusty-backports/universe Sources
+Hit http://au.archive.ubuntu.com trusty-backports/multiverse Sources
+Hit http://au.archive.ubuntu.com trusty-backports/main amd64 Packages
+Hit http://au.archive.ubuntu.com trusty-backports/restricted amd64 Packages
+Hit http://au.archive.ubuntu.com trusty-backports/universe amd64 Packages
+Hit http://au.archive.ubuntu.com trusty-backports/multiverse amd64 Packages
+Hit http://au.archive.ubuntu.com trusty-backports/main i386 Packages
+Hit http://au.archive.ubuntu.com trusty-backports/restricted i386 Packages
+Hit http://au.archive.ubuntu.com trusty-backports/universe i386 Packages
+Hit http://au.archive.ubuntu.com trusty-backports/multiverse i386 Packages
+Hit http://au.archive.ubuntu.com trusty-backports/main Translation-en
+Hit http://au.archive.ubuntu.com trusty-backports/multiverse Translation-en
+Hit http://au.archive.ubuntu.com trusty-backports/restricted Translation-en
+Hit http://au.archive.ubuntu.com trusty-backports/universe Translation-en
+Hit http://au.archive.ubuntu.com trusty Release
+Ign http://linux.dropbox.com trusty InRelease
+Hit http://au.archive.ubuntu.com trusty/main Sources
+Hit http://au.archive.ubuntu.com trusty/restricted Sources
+Hit http://au.archive.ubuntu.com trusty/universe Sources
+Hit http://au.archive.ubuntu.com trusty/multiverse Sources
+Hit http://au.archive.ubuntu.com trusty/main amd64 Packages
+Hit http://au.archive.ubuntu.com trusty/restricted amd64 Packages
+Ign http://archive.canonical.com precise InRelease
+Hit http://au.archive.ubuntu.com trusty/universe amd64 Packages
+Hit http://au.archive.ubuntu.com trusty/multiverse amd64 Packages
+Hit http://au.archive.ubuntu.com trusty/main i386 Packages
+Hit http://au.archive.ubuntu.com trusty/restricted i386 Packages
+Hit http://au.archive.ubuntu.com trusty/universe i386 Packages
+Hit http://au.archive.ubuntu.com trusty/multiverse i386 Packages
+Hit http://au.archive.ubuntu.com trusty/main Translation-en_AU
+Hit http://au.archive.ubuntu.com trusty/main Translation-en
+Hit http://au.archive.ubuntu.com trusty/multiverse Translation-en_AU
+Hit http://au.archive.ubuntu.com trusty/multiverse Translation-en
+Hit http://au.archive.ubuntu.com trusty/restricted Translation-en_AU
+Hit http://linux.dropbox.com trusty Release.gpg
+Hit http://au.archive.ubuntu.com trusty/restricted Translation-en
+Hit http://security.ubuntu.com trusty-security InRelease
+Hit http://au.archive.ubuntu.com trusty/universe Translation-en_AU
+Hit http://au.archive.ubuntu.com trusty/universe Translation-en
+Ign http://extras.ubuntu.com trusty InRelease
+Hit http://archive.canonical.com precise Release.gpg
+Hit http://linux.dropbox.com trusty Release
+Hit http://security.ubuntu.com trusty-security/main Sources
+Hit http://linux.dropbox.com trusty/main amd64 Packages
+Hit http://extras.ubuntu.com trusty Release.gpg
+Hit http://archive.canonical.com precise Release
+Hit http://linux.dropbox.com trusty/main i386 Packages
+Hit http://dl.google.com stable Release.gpg
+Hit http://archive.canonical.com precise/partner amd64 Packages
+Hit http://security.ubuntu.com trusty-security/restricted Sources
+Hit http://extras.ubuntu.com trusty Release
+Hit http://archive.canonical.com precise/partner i386 Packages
+Hit http://dl.google.com stable Release
+Hit http://security.ubuntu.com trusty-security/universe Sources
+Hit http://extras.ubuntu.com trusty/main Sources
+Hit http://archive.canonical.com precise/partner Translation-en
+Hit http://security.ubuntu.com trusty-security/multiverse Sources
+Hit http://extras.ubuntu.com trusty/main amd64 Packages
+Ign http://ppa.launchpad.net trusty InRelease
+Hit http://security.ubuntu.com trusty-security/main amd64 Packages
+Hit http://extras.ubuntu.com trusty/main i386 Packages
+Hit http://dl.google.com stable/main amd64 Packages
+Hit http://security.ubuntu.com trusty-security/restricted amd64 Packages
+Hit http://ppa.launchpad.net trusty InRelease
+Hit http://security.ubuntu.com trusty-security/universe amd64 Packages
+Hit http://security.ubuntu.com trusty-security/multiverse amd64 Packages
+Hit http://ppa.launchpad.net trusty InRelease
+Ign http://linux.dropbox.com trusty/main Translation-en_AU
+Hit http://security.ubuntu.com trusty-security/main i386 Packages
+Ign http://linux.dropbox.com trusty/main Translation-en
+Hit http://security.ubuntu.com trusty-security/restricted i386 Packages
+Ign http://ppa.launchpad.net trusty InRelease
+Hit http://security.ubuntu.com trusty-security/universe i386 Packages
+Hit http://security.ubuntu.com trusty-security/multiverse i386 Packages
+Ign http://ppa.launchpad.net trusty Release.gpg
+Hit http://security.ubuntu.com trusty-security/main Translation-en
+Hit http://security.ubuntu.com trusty-security/multiverse Translation-en
+Ign http://extras.ubuntu.com trusty/main Translation-en_AU
+Hit http://ppa.launchpad.net trusty/main amd64 Packages
+Hit http://security.ubuntu.com trusty-security/restricted Translation-en
+Ign http://extras.ubuntu.com trusty/main Translation-en
+Hit http://security.ubuntu.com trusty-security/universe Translation-en
+Hit http://ppa.launchpad.net trusty/main i386 Packages
+Hit http://ppa.launchpad.net trusty/main Translation-en
+Hit http://ppa.launchpad.net trusty/main amd64 Packages
+Ign http://dl.google.com stable/main Translation-en_AU
+Hit http://ppa.launchpad.net trusty/main i386 Packages
+Hit http://ppa.launchpad.net trusty/main Translation-en
+Ign http://dl.google.com stable/main Translation-en
+Ign http://ppa.launchpad.net trusty Release.gpg
+Ign http://ppa.launchpad.net trusty Release
+Ign http://ppa.launchpad.net trusty Release
+Err http://ppa.launchpad.net trusty/main amd64 Packages
+  404  Not Found
+Err http://ppa.launchpad.net trusty/main i386 Packages
+  404  Not Found
+Ign http://ppa.launchpad.net trusty/main Translation-en_AU
+Ign http://ppa.launchpad.net trusty/main Translation-en
+Err http://ppa.launchpad.net trusty/main amd64 Packages
+  404  Not Found
+Err http://ppa.launchpad.net trusty/main i386 Packages
+  404  Not Found
+Ign http://ppa.launchpad.net trusty/main Translation-en_AU
+Ign http://ppa.launchpad.net trusty/main Translation-en
