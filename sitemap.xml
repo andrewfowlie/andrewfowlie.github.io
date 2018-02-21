@@ -77,15 +77,6 @@
     
     <url>
     
-      <loc>https://andrewfowlie.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://andrewfowlie.github.io/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -167,42 +158,6 @@
     
     <url>
     
-      <loc>https://andrewfowlie.github.io/post/getting-started/</loc>
-      <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://andrewfowlie.github.io/post/widgets/</loc>
-      <lastmod>2016-04-20T11:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://andrewfowlie.github.io/post/managing-content/</loc>
-      <lastmod>2016-04-20T11:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://andrewfowlie.github.io/post/writing-markdown-latex/</loc>
-      <lastmod>2016-04-20T10:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://andrewfowlie.github.io/publication/superplot/</loc>
       <lastmod>2016-03-01T00:00:00+00:00</lastmod>
     </url>
@@ -268,15 +223,6 @@
     
       <loc>https://andrewfowlie.github.io/publication/naturalness/</loc>
       <lastmod>2014-03-13T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://andrewfowlie.github.io/post/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -510,26 +456,6 @@
     <url>
     
       <loc>https://andrewfowlie.github.io/talk/dm_workshop/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://andrewfowlie.github.io/tags/hugo/</loc>
-      <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://andrewfowlie.github.io/tags/jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
