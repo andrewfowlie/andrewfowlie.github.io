@@ -50,5 +50,14 @@ Summarising Berger et al, 2001,
       <description></description>
     </item>
     
+    <item>
+      <title>Uncertainty in the Dark Matter Velocity Profile</title>
+      <link>https://andrewfowlie.github.io/project/max_entropy_dm_profile/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/project/max_entropy_dm_profile/</guid>
+      <description>Direct detection experiments search for dark matter in interactions with detectors on earth. The relative velocity of dark matter with respect to the detectors is, however, unknown. In [1], we pioneered the use of Quantified Maximum Entropy to model the uncertainty in the velocity distribution.</description>
+    </item>
+    
   </channel>
 </rss>
