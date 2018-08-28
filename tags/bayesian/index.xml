@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bayesian on Andrew Fowlie</title>
+    <link>https://andrewfowlie.github.io/tags/bayesian/</link>
+    <description>Recent content in Bayesian on Andrew Fowlie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewfowlie.github.io/tags/bayesian/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bayes factors</title>
+      <link>https://andrewfowlie.github.io/project/bayes_factors/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/project/bayes_factors/</guid>
+      <description>Anomalies in high-energy physics are almost always judged by (global) $p$-values and significances. I propose that we instead judge anomalies using so-called Bayes factors. I applied this to indirect searches for dark matter by DAMPE and the 750 GeV diphoton excess.
+Summarising Berger et al, 2001,
+ Bayes factors are easy to understand - p-values, on the other hand, are frequently misinterpreted, even by scientists. Bayes factors may be applied to more than two models, non-nested models and cases in which asymptotic formulae cannot apply.</description>
+    </item>
+    
+    <item>
+      <title>Fine-tuning and naturalness</title>
+      <link>https://andrewfowlie.github.io/project/fine-tuning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/project/fine-tuning/</guid>
+      <description>Fine-tuning of the weak-scale was traditionally measured by the Barbieri-Giudice measure $$ \Delta = \frac{\partial\ln M_Z^2}{\partial \ln m_{\textrm{soft}}} $$ In a series of papers [1, 2, 3, 4, 5], I have argued that our intuitve ideas about fine-tuning are captured formally in Bayesian statistics.</description>
+    </item>
+    
+    <item>
+      <title>Uncertainty in the Dark Matter Velocity Profile</title>
+      <link>https://andrewfowlie.github.io/project/max_entropy_dm_profile/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/project/max_entropy_dm_profile/</guid>
+      <description>Direct detection experiments search for dark matter in interactions with detectors on earth. The relative velocity of dark matter with respect to the detectors is, however, unknown. In [1], we pioneered the use of Quantified Maximum Entropy to model the uncertainty in the velocity distribution.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Susy on Andrew Fowlie</title>
+    <link>https://andrewfowlie.github.io/tags/susy/</link>
+    <description>Recent content in Susy on Andrew Fowlie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewfowlie.github.io/tags/susy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BayesFits (2009 - 2013)</title>
+      <link>https://andrewfowlie.github.io/project/susy_fits/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/project/susy_fits/</guid>
+      <description>During my PhD I was involved with BayesFits, lead by Prof. Roszkowski. We published high-impact analyses of simple SUSY models in light of LHC searches for SUSY and the Higgs discovery [1, 2, 3].</description>
+    </item>
+    
+    <item>
+      <title>Fine-tuning and naturalness</title>
+      <link>https://andrewfowlie.github.io/project/fine-tuning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/project/fine-tuning/</guid>
+      <description>Fine-tuning of the weak-scale was traditionally measured by the Barbieri-Giudice measure $$ \Delta = \frac{\partial\ln M_Z^2}{\partial \ln m_{\textrm{soft}}} $$ In a series of papers [1, 2, 3, 4, 5], I have argued that our intuitve ideas about fine-tuning are captured formally in Bayesian statistics.</description>
+    </item>
+    
+  </channel>
+</rss>

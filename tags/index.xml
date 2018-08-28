@@ -6,9 +6,11 @@
     <description>Recent content in Tags on Andrew Fowlie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Andrew Fowlie</copyright>
+    <copyright>&amp;copy; 2018 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://andrewfowlie.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
@@ -16,43 +18,78 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://andrewfowlie.github.io/tags/academic/</guid>
-      <description>&lt;p&gt;Here is a list of all the content that has been tagged as &lt;em&gt;academic&lt;/em&gt;.&lt;/p&gt;
-</description>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://andrewfowlie.github.io/tags/deep-learning/</link>
+      <title>Bayes Factors</title>
+      <link>https://andrewfowlie.github.io/tags/bayes-factors/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/tags/deep-learning/</guid>
+      <guid>https://andrewfowlie.github.io/tags/bayes-factors/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>https://andrewfowlie.github.io/tags/demo/</link>
+      <title>Bayesian</title>
+      <link>https://andrewfowlie.github.io/tags/bayesian/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/tags/demo/</guid>
+      <guid>https://andrewfowlie.github.io/tags/bayesian/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hugo</title>
-      <link>https://andrewfowlie.github.io/tags/hugo/</link>
-      <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
+      <title>Dm</title>
+      <link>https://andrewfowlie.github.io/tags/dm/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/tags/hugo/</guid>
+      <guid>https://andrewfowlie.github.io/tags/dm/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Jekyll</title>
-      <link>https://andrewfowlie.github.io/tags/jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      <title>Fits</title>
+      <link>https://andrewfowlie.github.io/tags/fits/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/tags/jekyll/</guid>
+      <guid>https://andrewfowlie.github.io/tags/fits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gambit</title>
+      <link>https://andrewfowlie.github.io/tags/gambit/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/tags/gambit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Np</title>
+      <link>https://andrewfowlie.github.io/tags/np/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/tags/np/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Susy</title>
+      <link>https://andrewfowlie.github.io/tags/susy/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/tags/susy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tuning</title>
+      <link>https://andrewfowlie.github.io/tags/tuning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/tags/tuning/</guid>
       <description></description>
     </item>
     
