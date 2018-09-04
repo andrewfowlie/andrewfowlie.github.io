@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Global analyses of Higgs portal singlet dark matter models using GAMBIT</title>
+      <link>https://andrewfowlie.github.io/publication/gambit_dm/</link>
+      <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/gambit_dm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A fast C&#43;&#43; implementation of thermal functions</title>
       <link>https://andrewfowlie.github.io/publication/thermal_funcs/</link>
       <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
@@ -162,17 +171,6 @@ In a series of papers [&lt;a href=&#34;https://andrewfowlie.github.io/publicatio
       
       <guid>https://andrewfowlie.github.io/project/gambit/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Uncertainty in the Dark Matter Velocity Profile</title>
-      <link>https://andrewfowlie.github.io/project/max_entropy_dm_profile/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/project/max_entropy_dm_profile/</guid>
-      <description>&lt;p&gt;Direct detection experiments search for dark matter in interactions with detectors on earth. The relative velocity of dark matter with respect to the detectors is,
-however, unknown. In &lt;a href=&#34;https://andrewfowlie.github.io/publication/dm&#34;&gt;[1]&lt;/a&gt;, we pioneered the use of Quantified Maximum Entropy to model the uncertainty in the velocity distribution.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
