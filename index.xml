@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Non-parametric uncertainties in the dark matter velocity distribution</title>
+      <link>https://andrewfowlie.github.io/publication/max_ent_2/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/max_ent_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Combined collider constraints on neutralinos and charginos</title>
       <link>https://andrewfowlie.github.io/publication/gambit_ewino/</link>
       <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
@@ -75,10 +84,10 @@
     
     <item>
       <title>Halo-independence with quantified maximum entropy at DAMA/LIBRA</title>
-      <link>https://andrewfowlie.github.io/publication/dm/</link>
+      <link>https://andrewfowlie.github.io/publication/max_ent_1/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/publication/dm/</guid>
+      <guid>https://andrewfowlie.github.io/publication/max_ent_1/</guid>
       <description></description>
     </item>
     
@@ -156,20 +165,6 @@ plausible relative to model $B$ than it was before our experiment.&lt;/p&gt;
       <guid>https://andrewfowlie.github.io/project/susy_fits/</guid>
       <description>&lt;p&gt;During my PhD I was involved with BayesFits, lead by Prof. Roszkowski. We published high-impact
 analyses of simple SUSY models in light of LHC searches for SUSY and the Higgs discovery [&lt;a href=&#34;https://andrewfowlie.github.io/publication/cmssm_2011&#34;&gt;1&lt;/a&gt;, &lt;a href=&#34;https://andrewfowlie.github.io/publication/cmssm_territories&#34;&gt;2&lt;/a&gt;, &lt;a href=&#34;https://andrewfowlie.github.io/publication/pmssm&#34;&gt;3&lt;/a&gt;].&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Fine-tuning and naturalness</title>
-      <link>https://andrewfowlie.github.io/project/fine-tuning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/project/fine-tuning/</guid>
-      <description>&lt;p&gt;Fine-tuning of the weak-scale was traditionally measured by the &lt;a href=&#34;https://doi.org/10.1016/0550-3213(88)90171-X&#34; target=&#34;_blank&#34;&gt;Barbieri-Giudice measure&lt;/a&gt;
-$$
-\Delta  = \frac{\partial\ln M_Z^2}{\partial \ln m_{\textrm{soft}}}
-$$
-In a series of papers [&lt;a href=&#34;https://andrewfowlie.github.io/publication/cnmssm_2&#34;&gt;1&lt;/a&gt;, &lt;a href=&#34;https://andrewfowlie.github.io/publication/cnmssm&#34;&gt;2&lt;/a&gt;, &lt;a href=&#34;https://andrewfowlie.github.io/publication/naturalness&#34;&gt;3&lt;/a&gt;, &lt;a href=&#34;https://andrewfowlie.github.io/publication/relaxion&#34;&gt;4&lt;/a&gt;, &lt;a href=&#34;hierarchy&#34; target=&#34;_blank&#34;&gt;5&lt;/a&gt;], I have argued that our intuitve ideas about fine-tuning are captured formally in Bayesian statistics.&lt;/p&gt;
 </description>
     </item>
     
