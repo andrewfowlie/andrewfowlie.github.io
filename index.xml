@@ -154,6 +154,8 @@ $$
 $$
 For example, a Bayes factor of ten in favour of model $A$ means that it is ten times more
 plausible relative to model $B$ than it was before our experiment.&lt;/p&gt;
+
+&lt;p&gt;There are many interesting discussions about the merits of Bayes factors at &lt;a href=&#34;https://www.bayesianspectacles.org/&#34; target=&#34;_blank&#34;&gt;Bayesian Spectacles&lt;/a&gt;. For an early discussion, see &lt;a href=&#34;stats.org.uk/statistical-inference/Rozeboom1960.pdf&#34; target=&#34;_blank&#34;&gt;Rozeboom, 1960&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
