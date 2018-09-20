@@ -175,7 +175,7 @@ performed the random experiment $N$ times and observed the sample populations $\
 \end{equation}
 Thus, $\chi_1^2$ summaries all the information in the sample that is relevant for testing hypothesis $H_1$ against any alternative in the same Bernoulli class.
 
-But \refeq{eq:1} is only an approximatinon valid when $\chi^2$ is sufficienylu small for both hypotheses. The exact equation is of the form \refnum{eq:1} with $\frac12\chi^2$ replaced by
+But \refeq{eq:1} is only an approximation valid when $\chi^2$ is sufficiently small for both hypotheses. The exact equation is of the form \refnum{eq:1} with $\frac12\chi^2$ replaced by
 \begin{equation}\label{eq:2}
 \psi = \sum_{I=1}^r n_I \log(n_I/N p_I) \ge 0
 \end{equation}
@@ -205,7 +205,7 @@ one less degree of freedom than we would otherwise have to deal with.
 But where is the connected argument giving it a theoretical justification?
 Again, to the best of my knowledge, only the Bayesian approach gives us
 this. One finds that the Neyman-Pearson decision rule is included as a
-special cas of the Bayesian, for particular prior probabilities and
+special case of the Bayesian, for particular prior probabilities and
 loss functions. The Bayesian approach, far from conflicting with the
 Neyman-Pearson method, completes that method by supplying what was
 previously missing; a clear statement of the class of problems for
@@ -246,17 +246,17 @@ comparing, say, Neyman's 90 percent confidence belts with the Bayesian
 inside the Neyman belts; the difference is visible graphically only for
 very wide belts for which, in any event, no accurate estimate was possible.
 
- After all philosophical arguments and polemics, there remains one simple mathematical fact, which anyone can verif for himself; stated more generally, \emph{the person who estimates a parameter and places limits of reasonable accuracy on that estimate by the method of Bayes and Laplace starting from a uniform prior probability density, arrives at final conclusions which are for all practical purposes identical to those obtained by confidence intervals; and he does this by a calculation that is an order of magnitude shorter.}
+ After all philosophical arguments and polemics, there remains one simple mathematical fact, which anyone can verify for himself; stated more generally, \emph{the person who estimates a parameter and places limits of reasonable accuracy on that estimate by the method of Bayes and Laplace starting from a uniform prior probability density, arrives at final conclusions which are for all practical purposes identical to those obtained by confidence intervals; and he does this by a calculation that is an order of magnitude shorter.}
 
 Even the ($+1$) and ($+2$) of Laplace's formula come back to haunt us if we take as our ``best'' estimates the centre of a confidence interval at the 84 percent confidence level (Ref.~\cite{cramer}, Eq.~34.2.5). The person who, once aware of these things, still persists in saying that it is wrong to use the Bayes-Laplace methods and right to use confidence intervals, places himself in a very curious logical position. From a purely pragmatic standpoint, it is just impossible to see what all the shouting is about.
 
-Of course, from another standpoint, we all understand perfectly well what the shouting is about. The person who wishes to attack the Bayesian methods very wisely refrains from comparison of final results. The objection to Bayesian methods, which have filled the statical literature for two generations, have nothing to do with their success or failure in applications, but instead attack their philosophical basis. If one wishes to argue this on the philosophical level, then I think there is by now an abundance of good arguments supporting the Bayesian view. But I don't think any argument on this level is ever
+Of course, from another standpoint, we all understand perfectly well what the shouting is about. The person who wishes to attack the Bayesian methods very wisely refrains from comparison of final results. The objection to Bayesian methods, which have filled the statistical literature for two generations, have nothing to do with their success or failure in applications, but instead attack their philosophical basis. If one wishes to argue this on the philosophical level, then I think there is by now an abundance of good arguments supporting the Bayesian view. But I don't think any argument on this level is ever
 going to convince anybody who doesn't want to be convinced. If we are
 ever to resolve this issue, we will have to stick to the more mundane level of comparing the mathematics.
 
 When we do this, we find many more interesting things. For
 example, perhaps the strangest but most persistent objection to the
-Bayesian methods concerns the assigment of prior probabilities $p(\theta|X)$ to
+Bayesian methods concerns the assignment of prior probabilities $p(\theta|X)$ to
 to a continuously variable parameter $\theta$, where $X$ stands for the prior
 information. Bayes suggested that, if we have no prior information
 about the value of $\theta$, we may express this fact by assigning a uniform
@@ -272,7 +272,7 @@ perspective. Our ultimate purpose in assigning prior probabilities
 to $\theta$ is, of course, to make some estimate of $\theta$ or some related
 quantity, and probability theory cannot give us the required posterior
 probability distribution $p(\theta|EX)$ conditional on the new evidence $E$,
-until we put in the prior probabilities. This is simply the mathematical expressionof an obvious common-sense fact: before you can answer the
+until we put in the prior probabilities. This is simply the mathematical expression of an obvious common-sense fact: before you can answer the
 question, ``what do you know about $\theta$ after observing evidence $E$?'' you
 have to be able to answer the question, ``What did you know about $\theta$ before observing $E$?'' Any principle of parameter estimation or
 hypothesis testing which refuses to acknowledge the relevant of prior information, or fails to provide any means of taking it into
@@ -283,13 +283,13 @@ to commit the most obvious inconsistency.
 
 In this connection, there is one ``normative axiom'' which I think will be generally accepted: \emph{If you reject method $B$ on the grounds that it has property $P$, then it would be utterly preposterous to advocate that it be replaced by another method which also has property $P$.} So,  before we have the full story about this problem of parameter changes, we must also examine the ``orthodox'' methods with this in mind.
 
-In order to avoid the use of prior probabilities, the orthodox statistician introduces new principles not contained in basic probability theory --- bias, efficiency, confidence intervals, likelihood, etc. But if you square an unbiased estimate of $\theta$, you will not have an unbiased estimate of $\theta^2$; there will be a positive bias equal to the variance of the estimator. If you ``correct'' for this bias in each case, your final conclusions will depend on how tou have defined your parameters.
+In order to avoid the use of prior probabilities, the orthodox statistician introduces new principles not contained in basic probability theory --- bias, efficiency, confidence intervals, likelihood, etc. But if you square an unbiased estimate of $\theta$, you will not have an unbiased estimate of $\theta^2$; there will be a positive bias equal to the variance of the estimator. If you ``correct'' for this bias in each case, your final conclusions will depend on how you have defined your parameters.
 Similarly, the square of an efficient estimate of $\theta$ is not an efficient estimate of $\theta^2$; indeed, the very definition of efficiency\cite{cramer} is parameter dependent in such a way that if an efficient estimator of $\theta$ exists, then (Ref.~\cite{cramer} p.~481) an efficient estimator of $\theta^2$ does \emph{not} exist.
  If you find a shortest confidence interval for $\theta$, and
 a similar one for $\theta^2$, the two procedures will end up placing $\theta$ in
 different intervals.
 
-By any at the criteria of estimation, the orthodox statistician's final conslusions are going to depend on how he has defined his parameters. If instead of $\theta$ he decides to work with $\theta^n$, then for sufficiently large $n$ his conclusions will be wildly different from those he gets by use of $\theta$. How are we to decide which is right? Who is to say? How
+By any at the criteria of estimation, the orthodox statistician's final conclusions are going to depend on how he has defined his parameters. If instead of $\theta$ he decides to work with $\theta^n$, then for sufficiently large $n$ his conclusions will be wildly different from those he gets by use of $\theta$. How are we to decide which is right? Who is to say? How
 can we use a theory which is ambiguous?
 
 In some fifteen years of studying the statistical literature, I have found perhaps fifty passages in which some orthodox statistician sneers at the Bayes uniform probability assignment because it is not invariant under a change of parameters, but fails to add that his own criteria of bias, efficiency, and shortest confidence interval suffer from exactly the same lack of invariance.
@@ -304,7 +304,7 @@ The same thing is found when we look at hypothesis testing. After many years of 
 It is this last fact, more than anything else, that has many of us to take another look at the whole situation and ask ourselves, ``All right, now just what is it that was so awful about the Bayesian approach? Can you really maintain that a viewpoint which leads in three lines to the same results that cost Wald several years of mathematical labour, is wrong? What are we to think of a doctrinaire school or thought which has denied to two generations of scientific workers the use of statistical methods which were finally proved to be the optimum ones after all? Gentlemen, \emph{shall we start talking sense?}
 
 The issue is not whether the Bayesian methods are 100 percent satisfactory --- of course, no methods are. Both camps still face many ambiguities and unresolved questions of principle. In particular,  the problem of invariance under parameter chances
-not resolved above --- I have only pointed out that this same problem permeates all of statistics, so that an honest man cannot use it as a club to beat do either theory in favour of the other. The only question of real substance at this time in not whhether the Bayesian methods are perfect, but only whether they are better or worse than the orthodox ones. I have tried to give here the bare outline of a comparative analysis\cite{jaynes} which considers not only the philosophical issues, but also the more important matter of their similarities and differences in actual practice.
+not resolved above --- I have only pointed out that this same problem permeates all of statistics, so that an honest man cannot use it as a club to beat do either theory in favour of the other. The only question of real substance at this time in not whether the Bayesian methods are perfect, but only whether they are better or worse than the orthodox ones. I have tried to give here the bare outline of a comparative analysis\cite{jaynes} which considers not only the philosophical issues, but also the more important matter of their similarities and differences in actual practice.
 
 We have by now same very compelling and ``connected'' arguments\cite{jaynes,cox,coxjaynes} supporting the view that there is a \emph{general} set of rules for consistent inductive inference, which includes all the procedures of orthodox statistics as special cases or good approximations thereto, and which can be applied in many problems (which are of great importance in current physics and engineering), where orthodox statistics has no procedures at all. This set of rules is just the original Bayes-Laplace theory, which orthodox statistics rejects. Although I personally find the arguments for the Bayesian approach entirely convincing, it is an empirical fact that orthodox statisticians are immune to them; so it is a waste of effort to repeat them. Also, these arguments are, admittedly, still heuristic from the mathematical side. In view of this, how can we keep future discussion an a constructive level where there is hope of making progress?
 
@@ -348,7 +348,7 @@ the use of Bayes' theorem.
 
 The engineer who has been taught Bayesian statistics and has
 seen their application in his problems, is incredulous when told that
-there exists a school of thought which condems all these methods without
+there exists a school of thought which condemns all these methods without
 bothering to examine their final results. It is particularly hard to
 understand how it is possible to reject the use of uniform prior
 probabilities to express ignorance, and then advocate the orthodox
