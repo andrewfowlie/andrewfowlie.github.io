@@ -32,5 +32,14 @@ Summarising Berger et al, 2001,
       <description>Fine-tuning of the weak-scale was traditionally measured by the Barbieri-Giudice measure $$ \Delta = \frac{\partial\ln M_Z^2}{\partial \ln m_{\textrm{soft}}} $$ In a series of papers [1, 2, 3, 4, 5], I have argued that our intuitve ideas about fine-tuning are captured formally in Bayesian statistics.</description>
     </item>
     
+    <item>
+      <title>Statistics</title>
+      <link>https://andrewfowlie.github.io/resources/statistics/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/resources/statistics/</guid>
+      <description>Bayesian statistics  Mackay, Information Theory, Inference, and Learning Algorithms Earman, Bayes or Bust Bayesian Spectacles  Fine-tuning and Occam&amp;rsquo;s razor  MacKay, Bayesian methods for adaptive models Jeffreys &amp;amp; Burger, Sharpening Ockam&amp;rsquo;s Razor on a Bayesian Strop [0903.4055] Which fine-tuning arguments are fine? [1204.4940] Quantified naturalness from Bayesian statistics Stanford Encyclopedia of Philosophy, William of Ockham Murray, A note on the evidence and Bayesian Occam’s razor  Frequentist statistics for the LHC  [1310.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General Relativity on Andrew Fowlie</title>
+    <link>https://andrewfowlie.github.io/tags/general-relativity/</link>
+    <description>Recent content in General Relativity on Andrew Fowlie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewfowlie.github.io/tags/general-relativity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>General relativity and Cosmology</title>
+      <link>https://andrewfowlie.github.io/resources/gr/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/resources/gr/</guid>
+      <description> General Relativity and Gravity  [gr-qc/9712019] Sean Caroll&amp;rsquo;s Lecture Notes on General Relativity Carroll, Lecture Notes on General Relativity Geroch, lecture course notes [0708.4231] TASI Lectures on the Cosmological Constant [0603249] The Cosmological Constant and the String Landscape Gibbon, Cambridge Part II Lecture Notes on General Relativity  Cosmology and Inflation  Kurki-Suonio, Cosmological Perturbation Theory [1404.2601] Inflation and String Theory [0503203] Particle Physics and Inflationary Cosmologyy Perepelitsa, Sakharov Conditions for Baryogenesis [0503195] Inflation and String Cosmology [0503203] Particle Physics and Inflationary Cosmology  </description>
+    </item>
+    
+  </channel>
+</rss>

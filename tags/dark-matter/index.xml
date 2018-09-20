@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dark Matter on Andrew Fowlie</title>
+    <link>https://andrewfowlie.github.io/tags/dark-matter/</link>
+    <description>Recent content in Dark Matter on Andrew Fowlie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewfowlie.github.io/tags/dark-matter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dark matter</title>
+      <link>https://andrewfowlie.github.io/resources/dm/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/resources/dm/</guid>
+      <description> [1703.00013] How Dark Matter Came to Matter [1305.1611] Matrix element analyses of dark matter scattering and annihilation [1702.02430] Review of LHC Dark Matter Searches [1703.07364] Waning of WIMP [1001.3651] Supersymmetric Dark Matter Candidates [1002.1912] Direct detection of WIMPs [1002.3828] Non-WIMP Candidates [1301.0021] On the likely dominance of WIMP annihilation to fermion pair + $W$/$Z$ (and implication for indirect detection) [1301.0952] TASI 2012 Lectures on Astrophysical Probes of Dark Matter [astro-ph/9904251] The Early History of Dark Matter [hep-ph/0301106]  Accurate relic densities with neutralino, chargino and sfermion coannihilations in mSUGRA [hep-ph/0404175] Particle Dark Matter: Evidence, Candidates and Constraints [hep-ph/9207234] The Neutralino Relic Density in Minimal $N=1$ Supergravity [hep-ph/9506380] Supersymmetric Dark Matter [hep-ph/9704361] Neutralino Relic Density including Coannihilations  </description>
+    </item>
+    
+  </channel>
+</rss>
