@@ -220,7 +220,7 @@
     
     <url>
     
-      <loc>https://andrewfowlie.github.io/project/max_entropy_dm_profile/</loc>
+      <loc>https://andrewfowlie.github.io/project/max_entropy_profile/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -376,25 +376,7 @@
     
     <url>
     
-      <loc>https://andrewfowlie.github.io/tags/bayes-factors/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://andrewfowlie.github.io/talk/tallinn_1/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://andrewfowlie.github.io/tags/bayesian/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -416,15 +398,6 @@
     <url>
     
       <loc>https://andrewfowlie.github.io/talk/tmex/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://andrewfowlie.github.io/tags/bayesian-statistics/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -453,51 +426,6 @@
     <url>
     
       <loc>https://andrewfowlie.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://andrewfowlie.github.io/tags/dark-matter/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://andrewfowlie.github.io/tags/dm/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://andrewfowlie.github.io/tags/fits/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://andrewfowlie.github.io/tags/gambit/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://andrewfowlie.github.io/tags/general-relativity/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -561,24 +489,6 @@
     
     <url>
     
-      <loc>https://andrewfowlie.github.io/tags/np/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://andrewfowlie.github.io/tags/particle-physics/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://andrewfowlie.github.io/talk/gambit_ml/</loc>
     </url>
     
@@ -604,24 +514,6 @@
     
       <loc>https://andrewfowlie.github.io/publication_types/</loc>
       <lastmod>2015-10-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://andrewfowlie.github.io/tags/qft/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://andrewfowlie.github.io/tags/quantum-mechanics/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -680,15 +572,6 @@
     
     <url>
     
-      <loc>https://andrewfowlie.github.io/tags/susy/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://andrewfowlie.github.io/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -713,15 +596,6 @@
     <url>
     
       <loc>https://andrewfowlie.github.io/talk/jl-paradox/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://andrewfowlie.github.io/tags/tuning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
