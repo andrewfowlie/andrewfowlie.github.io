@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +1300</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Non-parametric uncertainties in the dark matter velocity distribution</title>
+      <link>https://andrewfowlie.github.io/talk/auckland/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/talk/auckland/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Non-parametric uncertainties in the dark matter velocity distribution</title>
@@ -34,6 +43,42 @@
       <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://andrewfowlie.github.io/publication/gambit_dm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Analyses of Higgs- and Z-Portal Dark Matter Models</title>
+      <link>https://andrewfowlie.github.io/talk/ichep_2018/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/talk/ichep_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Analyses of Higgs- and Z-Portal Dark Matter Models</title>
+      <link>https://andrewfowlie.github.io/talk/nanjing_2018/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/talk/nanjing_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Potential applications of machine learning in particle physics</title>
+      <link>https://andrewfowlie.github.io/talk/gambit_ml/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/talk/gambit_ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Analyses of Higgs- and Z-Portal Dark Matter Models</title>
+      <link>https://andrewfowlie.github.io/talk/melbourne_dm/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/talk/melbourne_dm/</guid>
       <description></description>
     </item>
     
@@ -65,6 +110,15 @@
     </item>
     
     <item>
+      <title>Relative plausibility of scientific theories: WIMP dark matter</title>
+      <link>https://andrewfowlie.github.io/talk/bayes_dm_portals/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/talk/bayes_dm_portals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Statistical Analyses of Higgs- and Z-Portal Dark Matter Models</title>
       <link>https://andrewfowlie.github.io/publication/dm_portals/</link>
       <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
@@ -74,100 +128,21 @@
     </item>
     
     <item>
-      <title>Bayesian analysis and naturalness of (Next-to-)Minimal Supersymmetric  Models</title>
-      <link>https://andrewfowlie.github.io/publication/cnmssm_2/</link>
-      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
+      <title>Halo-independence with quantified maximum entropy at DAMA/LIBRA </title>
+      <link>https://andrewfowlie.github.io/talk/dm_workshop/</link>
+      <pubDate>Sat, 14 Oct 2017 00:00:00 +0800</pubDate>
       
-      <guid>https://andrewfowlie.github.io/publication/cnmssm_2/</guid>
+      <guid>https://andrewfowlie.github.io/talk/dm_workshop/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Halo-independence with quantified maximum entropy at DAMA/LIBRA</title>
-      <link>https://andrewfowlie.github.io/publication/max_ent_1/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <title>Halo-independence with quantified maximum entropy at DAMA/LIBRA </title>
+      <link>https://andrewfowlie.github.io/talk/dm_ntu/</link>
+      <pubDate>Thu, 12 Oct 2017 00:00:00 +0800</pubDate>
       
-      <guid>https://andrewfowlie.github.io/publication/max_ent_1/</guid>
+      <guid>https://andrewfowlie.github.io/talk/dm_ntu/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Minimal flavor-changing $Z^\prime$ models and muon $g−2$ after the $R_{K^\star}$ measurement</title>
-      <link>https://andrewfowlie.github.io/publication/bphys/</link>
-      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/publication/bphys/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gravitational waves at aLIGO and vacuum stability with a scalar singlet extension of the Standard Model</title>
-      <link>https://andrewfowlie.github.io/publication/grav_waves/</link>
-      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/publication/grav_waves/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayes factor of the ATLAS diphoton excess: Using Bayes factors to understand anomalies at the LHC</title>
-      <link>https://andrewfowlie.github.io/publication/diphoton/</link>
-      <pubDate>Fri, 22 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/publication/diphoton/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reconstruction of the Higgs mass in events with Higgs bosons decaying into a pair of $\tau$ leptons using matrix element techniques</title>
-      <link>https://andrewfowlie.github.io/publication/higgs/</link>
-      <pubDate>Fri, 22 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/publication/higgs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayes factors</title>
-      <link>https://andrewfowlie.github.io/project/bayes_factors/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/project/bayes_factors/</guid>
-      <description>&lt;p&gt;Anomalies in high-energy physics are almost always judged by (global) $p$-values and significances. I propose that we instead judge anomalies using so-called Bayes factors. I applied this to &lt;a href=&#34;https://andrewfowlie.github.io/publication/dampe_significance&#34;&gt;indirect searches for dark matter by DAMPE&lt;/a&gt; and the &lt;a href=&#34;https://andrewfowlie.github.io/publication/diphoton&#34;&gt;750 GeV diphoton excess&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Summarising &lt;a href=&#34;http://www.jstor.org/stable/4356165?seq=1#page_scan_tab_contents&#34; target=&#34;_blank&#34;&gt;Berger et al, 2001&lt;/a&gt;,&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Bayes factors are easy to understand - &lt;em&gt;p&lt;/em&gt;-values, on the other hand, are frequently misinterpreted, even by scientists.&lt;/li&gt;
-&lt;li&gt;Bayes factors may be applied to more than two models, non-nested models and cases in which asymptotic formulae cannot apply.&lt;/li&gt;
-&lt;li&gt;Bayes factors include an automatic Occam&amp;rsquo;s razor, punishing e.g., fine-tuning.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Bayes factors are ratios of evidences,
-$$
-\text{BF} = \frac{\text{Evidence for model $A$}}{\text{Evidence for model $B$}},
-$$
-where an evidence is the probability of our observed data given a particular model. Bayes factors
-update our relative belief in models in light of experimental data,
-$$
-\text{Relative belief after data} = \text{BF} \times \text{Relative belief before data}.
-$$
-For example, a Bayes factor of ten in favour of model $A$ means that it is ten times more
-plausible relative to model $B$ than it was before our experiment.&lt;/p&gt;
-
-&lt;p&gt;There are many interesting discussions about the merits of Bayes factors at &lt;a href=&#34;https://www.bayesianspectacles.org/&#34; target=&#34;_blank&#34;&gt;Bayesian Spectacles&lt;/a&gt;. For an early discussion, see &lt;a href=&#34;stats.org.uk/statistical-inference/Rozeboom1960.pdf&#34; target=&#34;_blank&#34;&gt;Rozeboom, 1960&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>BayesFits (2009 - 2013)</title>
-      <link>https://andrewfowlie.github.io/project/susy_fits/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/project/susy_fits/</guid>
-      <description>&lt;p&gt;During my PhD I was involved with BayesFits, lead by Prof. Roszkowski. We published high-impact
-analyses of simple SUSY models in light of LHC searches for SUSY and the Higgs discovery [&lt;a href=&#34;https://andrewfowlie.github.io/publication/cmssm_2011&#34;&gt;1&lt;/a&gt;, &lt;a href=&#34;https://andrewfowlie.github.io/publication/cmssm_territories&#34;&gt;2&lt;/a&gt;, &lt;a href=&#34;https://andrewfowlie.github.io/publication/pmssm&#34;&gt;3&lt;/a&gt;].&lt;/p&gt;
-</description>
     </item>
     
   </channel>
