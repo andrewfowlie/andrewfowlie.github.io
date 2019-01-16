@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
-    <lastBuildDate>Fri, 07 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewfowlie.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BubbleProfiler: finding the field profile and action for cosmological phase transitions</title>
+      <link>https://andrewfowlie.github.io/publication/bubbleprofiler/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/bubbleprofiler/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Non-parametric uncertainties in the dark matter velocity distribution</title>

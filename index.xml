@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>BubbleProfiler: finding the field profile and action for cosmological phase transitions</title>
+      <link>https://andrewfowlie.github.io/publication/bubbleprofiler/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/bubbleprofiler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Non-parametric uncertainties in the dark matter velocity distribution</title>
       <link>https://andrewfowlie.github.io/talk/auckland/</link>
       <pubDate>Mon, 10 Dec 2018 00:00:00 +0800</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Sat, 14 Oct 2017 00:00:00 +0800</pubDate>
       
       <guid>https://andrewfowlie.github.io/talk/dm_workshop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Halo-independence with quantified maximum entropy at DAMA/LIBRA </title>
-      <link>https://andrewfowlie.github.io/talk/dm_ntu/</link>
-      <pubDate>Thu, 12 Oct 2017 00:00:00 +0800</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/talk/dm_ntu/</guid>
       <description></description>
     </item>
     
