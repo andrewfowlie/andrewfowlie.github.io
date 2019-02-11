@@ -1,0 +1,151 @@
+\documentclass[12pt]{article}
+
+%
+% Preamble
+%
+
+\usepackage{authblk}
+\usepackage{enumitem}
+\usepackage{fullpage}
+\usepackage{amsmath}
+\usepackage{hyperref}
+\usepackage[T1]{fontenc}
+\usepackage{mathpazo}
+\usepackage[utf8]{inputenc}
+\usepackage{microtype}
+
+%
+% BibTeX file
+%
+
+
+\begin{filecontents}{refs.bib}
+@book{jaynes,
+    title={Probability Theory as Logic},
+    author = {Jaynes, E. T.},
+    year={1990},
+    editor={Fougère, P. F.},
+    publisher={Kluwer, Dordrecht},
+    series={Maximum-Entropy and Bayesian Methods}
+}
+\end{filecontents}
+
+%
+% Macros
+%
+
+\newcommand{\refcite}[1]{ref.~\cite{#1}}
+\newcommand{\given}{\, \middle| \,}
+\newcommand{\Prob}[2]{P\left(#1 \given #2 \right)}
+\newcommand{\refeq}[1]{Eq.~\ref{#1}}
+
+%
+% Title page
+%
+
+\title{Derivation of Poisson distribution from probability theory as logic}
+\author{Andrew Fowlie}
+\date{February 2019}
+\affil{Nanjing Normal University}
+
+\begin{document}
+\maketitle
+
+
+%
+% Matter
+%
+
+\section{What follows is an excerpt from \refcite{jaynes}.}
+
+
+The Poisson distribution is usually derived as a limiting ``low counting rate'' approximation to the
+binomial distribution, but it is instructive to derive it by using probability theory as logic, directly
+from the statement of independence of different time intervals, using only the primitive product
+and sum rules. Thus define the prior information:
+\begin{equation}
+I \equiv \text{\parbox[t][][t]{12.5cm}{There is a positive real number $\lambda$ such that, given $\lambda$, the probability that an event
+$A$, or count, will occur in the time interval $(t, t + dt)$ is $\Prob{A}{\lambda I} = \lambda dt$. Furthermore,
+knowledge of $\lambda$ makes any information $Q$ about the occurrence or nonoccurence
+of the event in any other time interval irrelevant to this probability: $\Prob{A}{Q \lambda I} =
+\Prob{A}{\lambda I}$.}}
+\end{equation}
+In orthodox statistics one would not want to say it this way, but instead would claim that $\lambda$ is
+the sole causative agent present; the occurrence of the event in any other time interval exerts no
+physical influence on what happens in the interval $dt$. Our statement is very different.
+Denote by $h(t)$ the probability there is no count in the time interval $(0, t)$. Now the proposition:
+\begin{equation}
+R \equiv \text{No count in $(0, t + dt)$} 
+\end{equation}
+is the conjunction of the two propositions:
+\begin{equation}
+R =  \text{No count in $(0,t)$} \cdot \text{No count in $(t, t + dt)$}
+\end{equation}
+and so, by the independence of different time intervals, the product rule gives:
+\begin{equation}
+h(t + dt) = h(t) \cdot \left[1 - \lambda dt \right]
+\end{equation}
+or $\partial h / \partial t + \lambda h(t) = 0$. The solution, with the evident initial condition $h(0) = 1$, is
+\begin{equation}
+h(t)= e^{-\lambda t}.
+\end{equation}
+Now consider the probability, given $A$ and $I$, of the proposition
+\begin{quote}
+$B \equiv$ In the interval $(0, t)$ there are exactly $n$ counts, which happen at the times
+$(t_1,\cdots,t_n)$ within tolerances $(dt_1,\cdots,dt_n)$, where $0 < t_1 < \cdots < t_n < t$.
+\end{quote}
+This is the conjunction of $(2n + 1)$ propositions:
+\begin{equation}
+\begin{split}
+B ={}&\text{No count in $(0, t_1)$} \cdot \text{Count in $dt_1$} \cdot\\
+     &\text{No count in $(t_1, t_2)$} \cdot \text{Count in $dt_2$} \cdot\\
+     &\cdots\\
+     &\text{No count in $(t_{n-1}, t_n)$} \cdot \text{Count in $dt_n$} \cdot\\
+     &\text{No count in $(t_n, t)$}
+\end{split}
+\end{equation}
+so by the product rule and the independence of different time intervals, the probability of this is
+the product of all their separate probabilities:
+\begin{equation}
+\begin{split}
+\Prob{B}{\lambda t I} ={}&e^{-\lambda t_1} \cdot \lambda dt_1 \cdot\\
+                          &e^{-\lambda (t_2 - t_1)} \cdot \lambda dt_2\cdot\\
+                          &\cdots\\
+                          &e^{-\lambda (t_n - t_{n-1})}  \cdot \lambda dt_n \cdot\\
+                          &e^{-\lambda (t - t_n)}
+\end{split}
+\end{equation}
+or, writing the proposition $B$ now more explicitly as $B = dt_1 \cdots dt_n$,
+\begin{equation}
+\Prob{dt_1 \cdots dt_n}{\lambda t I} = e^{-\lambda t} \lambda^n dt_1 \cdots dt_n, \quad (0 < t_1 < \cdots < t_n < t)
+\end{equation}
+Then what is the probability, given $\lambda$, that in the interval $(0, t)$ there are exactly $n$ counts, whatever
+the times? Since different choices of the count times represent mutually exclusive propositions, the
+continuous form of the sum rule applies:
+\begin{equation}
+\Prob{n}{\lambda t I} = \int_0^t dt_n \cdots \int_0^{t_3} dt_2 \int_0^{t_2} dt_1 e^{-\lambda t} \lambda^n
+\end{equation}
+or,
+\begin{equation}\label{eq:six}
+\Prob{n}{\lambda t I} = e^{-\lambda t} \frac{(\lambda t)^n}{n!}
+\end{equation}
+the usual Poisson distribution. Without the time ordering in our definition of $B$, different choices
+of count times would not all be mutually exclusive events, so the sum rule would not apply in the
+above way.
+
+As noted, conventional theory obtains this same formula from the premise that events in
+disjoint time intervals exert no physical influences on each other; the only causative agent operating
+is $\lambda$. Some authors have turned this around, and supposed that if we verify \refeq{eq:six} in the frequency
+sense, that proves that the events were indeed causally independent!
+
+This is an astonishing conclusion, when we note that one could design a hundred different
+mechanisms (or write a hundred different computer programs), which in various ways that are
+completely deterministic, generate the seemingly ``random'' data. That is, the time of the next
+event is completely determined by the times of the previous events by some complicated rule. Yet
+all of them could constrain the long-run frequencies to agree with \refeq{eq:six}  without showing any signs
+of correlations.
+
+\bibliographystyle{unsrt}
+\bibliography{refs}
+
+\end{document}
