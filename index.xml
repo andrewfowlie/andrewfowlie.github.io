@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Bayesian and frequentist approaches to resonance searches</title>
+      <link>https://andrewfowlie.github.io/publication/bayes_versus_freq/</link>
+      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/bayes_versus_freq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>BubbleProfiler: finding the field profile and action for cosmological phase transitions</title>
       <link>https://andrewfowlie.github.io/publication/bubbleprofiler/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://andrewfowlie.github.io/publication/dm_portals/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Halo-independence with quantified maximum entropy at DAMA/LIBRA </title>
-      <link>https://andrewfowlie.github.io/talk/dm_workshop/</link>
-      <pubDate>Sat, 14 Oct 2017 00:00:00 +0800</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/talk/dm_workshop/</guid>
       <description></description>
     </item>
     
