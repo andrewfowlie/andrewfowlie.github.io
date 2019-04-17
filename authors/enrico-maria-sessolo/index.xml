@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Enrico Maria Sessolo on Andrew Fowlie</title>
+    <link>https://andrewfowlie.github.io/authors/enrico-maria-sessolo/</link>
+    <description>Recent content in Enrico Maria Sessolo on Andrew Fowlie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
+    <lastBuildDate>Thu, 06 Jun 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewfowlie.github.io/authors/enrico-maria-sessolo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dark matter and collider signatures of the MSSM</title>
+      <link>https://andrewfowlie.github.io/publication/pmssm/</link>
+      <pubDate>Thu, 06 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/pmssm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The CMSSM Favoring New Territories: The Impact of New LHC Limits and a 125 GeV Higgs</title>
+      <link>https://andrewfowlie.github.io/publication/cmssm_territories/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/cmssm_territories/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

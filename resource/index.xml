@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on Andrew Fowlie</title>
+    <link>https://andrewfowlie.github.io/resource/</link>
+    <description>Recent content in Resources on Andrew Fowlie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewfowlie.github.io/resource/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dark matter</title>
+      <link>https://andrewfowlie.github.io/resource/dm/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/resource/dm/</guid>
+      <description> [1703.00013] How Dark Matter Came to Matter [1305.1611] Matrix element analyses of dark matter scattering and annihilation [1702.02430] Review of LHC Dark Matter Searches [1703.07364] Waning of WIMP [1001.3651] Supersymmetric Dark Matter Candidates [1002.1912] Direct detection of WIMPs [1002.3828] Non-WIMP Candidates [1301.0021] On the likely dominance of WIMP annihilation to fermion pair + $W$/$Z$ (and implication for indirect detection) [1301.0952] TASI 2012 Lectures on Astrophysical Probes of Dark Matter [astro-ph/9904251] The Early History of Dark Matter [hep-ph/0301106]  Accurate relic densities with neutralino, chargino and sfermion coannihilations in mSUGRA [hep-ph/0404175] Particle Dark Matter: Evidence, Candidates and Constraints [hep-ph/9207234] The Neutralino Relic Density in Minimal $N=1$ Supergravity [hep-ph/9506380] Supersymmetric Dark Matter [hep-ph/9704361] Neutralino Relic Density including Coannihilations  </description>
+    </item>
+    
+    <item>
+      <title>Future colliders</title>
+      <link>https://andrewfowlie.github.io/resource/future-collider/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/resource/future-collider/</guid>
+      <description>I support the construction of a new particle collider. I am collecting semi-popular articles about it.
+ [1902.07964] On Future High-Energy Colliders, Gian Giudice [1810.11263] The Future of High-Energy Collider Physics, John Ellis [1809.10426] Future colliders - Linear and circular Siegel, The Simple Case For Why Physics Needs A Particle Collider Beyond The LHC Prescod-Weinstein &amp;amp; Tait, Particle Physics Is Doing Just Fine Castelvecchi, Physicists Lay Out Plans for a New Supercollider Yifang, Inside the plans for Chinese mega-collider that will dwarf the LHC Dorigo, Why We Need A New Collider [1703.</description>
+    </item>
+    
+    <item>
+      <title>General relativity and Cosmology</title>
+      <link>https://andrewfowlie.github.io/resource/gr/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/resource/gr/</guid>
+      <description> General Relativity and Gravity  [gr-qc/9712019] Sean Caroll&amp;rsquo;s Lecture Notes on General Relativity Carroll, Lecture Notes on General Relativity Geroch, lecture course notes [0708.4231] TASI Lectures on the Cosmological Constant [0603249] The Cosmological Constant and the String Landscape Gibbon, Cambridge Part II Lecture Notes on General Relativity  Cosmology and Inflation  Kurki-Suonio, Cosmological Perturbation Theory [1404.2601] Inflation and String Theory [0503203] Particle Physics and Inflationary Cosmologyy Perepelitsa, Sakharov Conditions for Baryogenesis [0503195] Inflation and String Cosmology [0503203] Particle Physics and Inflationary Cosmology  </description>
+    </item>
+    
+    <item>
+      <title>Jaynes</title>
+      <link>https://andrewfowlie.github.io/resource/jaynes/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/resource/jaynes/</guid>
+      <description>Typset copies of unpublished works and links.</description>
+    </item>
+    
+    <item>
+      <title>Particle physics</title>
+      <link>https://andrewfowlie.github.io/resource/particle/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/resource/particle/</guid>
+      <description>Background  Biographies of hundreds of mathematicians and physicists Preskill, collection of handwritten lecture notes Tong, lecture notes Geroch, collection of handwritten lecture notes and problems Feynman, The Feynman lectures on Physics Poincaré, Science and hypothesis Einstein, Relativity: The Special and General Theory Einstein, The Meaning of Relativity Lorentz, The Einstein Theory of Relativity Newton, Philosophiae Naturalis Principia Mathematica  Particle physics  [0810.3328] A Simple Introduction to Particle Physics [0908.</description>
+    </item>
+    
+    <item>
+      <title>Quantum Field Theory</title>
+      <link>https://andrewfowlie.github.io/resource/qft/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/resource/qft/</guid>
+      <description>QFT  Kachelreiss, Quantum Field Theory: Lecture Notes Cvitanovic, Field Theory Srednicki, Quantum Field Theory Luty, Physics 851 Notes [hep-th/9912205] Fields Coleman, Video Lectures for Physics 253a [1110.5013] Notes from Sidney Coleman&amp;rsquo;s Physics 253a Serone, Notes on Quantum Field Theory Bourjaily, Symmetry factors [0607239] Topics in particle physics and cosmology beyond the standard model [1308.0025] Higgs mass naturalness and scale invariance in the UV Leibrandt, Introduction to the technique of dimensional regularization Lehnert, CPT and Lorentz symmetry breaking Furman, The Moller Luminosity Factor Gudrun, Introduction to Loop Calculations Abel, Anomalies course  Supersymmetry  [hep-ph/0505105] Supersymmetry and the MSSM: An Elementary Introduction [hep-ph/9510287] Supersymmetry: Where it is and how to find it [hep-ph/0108236] Supersymmetry Structure and Phenomena [hep-ph/0012288]  Beyond the Standard Model (In Search of Supersymmetry) [hep-ph/9612389] Supersymmetry Phenomenology With a Broad Brush Sohnius, Introducing Supersymmetry [hep-ph/9709356] A Supersymmetry Primer [hep-th/0509029] 2004 TASI Lectures on Supersymmetry Breaking [hep-ph/9604232] Weak-Scale Supersymmetry: Theory and Practice [hep-th/9612114] Introduction to Supersymmetry [hep-ph/9604339]  The Experimental Investigation of Supersymmetry Breaking [hep-ph/9611409] An Introduction to Supersymmetry [1010.</description>
+    </item>
+    
+    <item>
+      <title>Quantum mechanics</title>
+      <link>https://andrewfowlie.github.io/resource/qm/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/resource/qm/</guid>
+      <description> [01212.5214] A simple proof of Bell&amp;rsquo;s inequality Mermin, Bringing home the atomic world: Quantum mysteries for anybody [1111.2189] Decoherence and Ontology, or: How I Learned To Stop Worrying And Love FAPP Aaronson, PHYS771 Lecture 9: Quantum Coleman, Quantum Mechanics in Your Face (video)  </description>
+    </item>
+    
+    <item>
+      <title>Statistics</title>
+      <link>https://andrewfowlie.github.io/resource/statistics/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/resource/statistics/</guid>
+      <description>Biographies  Life and Work of Statisticians Interview with Dennis Lindley  Bayesian statistics  Mackay, Information Theory, Inference, and Learning Algorithms Earman, Bayes or Bust Bayesian Spectacles Kass &amp;amp; Rafferty, Bayes factors Lavine, Introduction to Statistical Thought Lindley, Comment on Harold Jeffreys&amp;rsquo;s Theory of Probability Lindley, Philosophy of Statistics Berger, Selected works Brewer, Lecture notes and videos Loredo, Introduction to Bayesian Inference Bernardo, An Introduction to Objective Bayesian Statistics [1708.</description>
+    </item>
+    
+  </channel>
+</rss>

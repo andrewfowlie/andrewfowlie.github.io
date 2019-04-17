@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://andrewfowlie.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bayesian and frequentist approaches to resonance searches</title>
+      <link>https://andrewfowlie.github.io/talk/nanjing_2019/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/talk/nanjing_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian and frequentist approaches to resonance searches</title>
+      <link>https://andrewfowlie.github.io/talk/pmo/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/talk/pmo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Non-parametric uncertainties in the dark matter velocity distribution</title>

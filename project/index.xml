@@ -18,9 +18,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://andrewfowlie.github.io/project/bayes_factors/</guid>
-      <description>Is it permitted for a physicist to join the fun in this Neo-Bayesian vs. orthodox fight? Anomalies in high-energy physics are almost always judged by (global) $p$-values and significances. I propose that we instead judge anomalies using so-called Bayes factors. I applied this to indirect searches for dark matter by DAMPE and the 750 GeV diphoton excess.
-Summarising Berger et al, 2001,
- Bayes factors are easy to understand - $p$-values, on the other hand, are frequently misinterpreted, even by scientists.</description>
+      <description>Anomalies in high-energy physics with Bayes factors</description>
     </item>
     
     <item>
@@ -29,7 +27,7 @@ Summarising Berger et al, 2001,
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://andrewfowlie.github.io/project/susy_fits/</guid>
-      <description>During my PhD I was involved with BayesFits, lead by Prof. Roszkowski. We published high-impact analyses of simple SUSY models in light of LHC searches for SUSY and the Higgs discovery [1, 2, 3].</description>
+      <description>Fits of SUSY models, such as the CMSSM, in light of LHC data.</description>
     </item>
     
     <item>
@@ -38,7 +36,7 @@ Summarising Berger et al, 2001,
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://andrewfowlie.github.io/project/fine-tuning/</guid>
-      <description>Fine-tuning of the weak-scale was traditionally measured by the Barbieri-Giudice measure $$ \Delta = \frac{\partial\ln M_Z^2}{\partial \ln m_{\textrm{soft}}} $$ In a series of papers [1, 2, 3, 4, 5], I have argued that our intuitve ideas about fine-tuning are captured formally in Bayesian statistics.</description>
+      <description>Fine-tuning in physics with Bayesian statistics</description>
     </item>
     
     <item>
@@ -47,7 +45,7 @@ Summarising Berger et al, 2001,
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://andrewfowlie.github.io/project/gambit/</guid>
-      <description></description>
+      <description>I am a member of GAMBIT - The Global And Modular BSM Inference Tool - lead by Dr. Pat Scott.</description>
     </item>
     
     <item>
@@ -56,8 +54,7 @@ Summarising Berger et al, 2001,
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://andrewfowlie.github.io/project/max_entropy_profile/</guid>
-      <description>Direct detection experiments search for dark matter in interactions with detectors on earth. The relative velocity of dark matter with respect to the detectors is, however, unknown. In [1], we pioneered the use of Quantified Maximum Entropy (see e.g., Skilling) to model the uncertainty in the velocity distribution and applied it to DAMA/LIBRA. In [2] we developed a novel numerical approximation and applied it to XENON1T.
-In both works, we constructed an entropic prior for the velocity distribution, $$ p(f) \propto e^{\beta S[f, m]}, $$ where $\beta$ is a hyperparameter governing the strength of our belief in the default distribution, $m$, and $$ S[f, m] = \int f(v) \ln\left(\frac{f(v)}{m(v)}\right) dv $$ is the relative entropy between the distributions $f$ and $m$.</description>
+      <description>Using Quantified Maximum Entropy to model uncertainty in the dark matter velocity profile.</description>
     </item>
     
   </channel>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Athron on Andrew Fowlie</title>
+    <link>https://andrewfowlie.github.io/authors/peter-athron/</link>
+    <description>Recent content in Peter Athron on Andrew Fowlie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
+    <lastBuildDate>Fri, 11 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewfowlie.github.io/authors/peter-athron/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BubbleProfiler: finding the field profile and action for cosmological phase transitions</title>
+      <link>https://andrewfowlie.github.io/publication/bubbleprofiler/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/bubbleprofiler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combined collider constraints on neutralinos and charginos</title>
+      <link>https://andrewfowlie.github.io/publication/gambit_ewino/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/gambit_ewino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global analyses of Higgs portal singlet dark matter models using GAMBIT</title>
+      <link>https://andrewfowlie.github.io/publication/gambit_dm/</link>
+      <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/gambit_dm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-independent analysis of the DAMPE excess</title>
+      <link>https://andrewfowlie.github.io/publication/dampe/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/dampe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian analysis and naturalness of (Next-to-)Minimal Supersymmetric  Models</title>
+      <link>https://andrewfowlie.github.io/publication/cnmssm_2/</link>
+      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/cnmssm_2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

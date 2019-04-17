@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luca Marzola on Andrew Fowlie</title>
+    <link>https://andrewfowlie.github.io/authors/luca-marzola/</link>
+    <description>Recent content in Luca Marzola on Andrew Fowlie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
+    <lastBuildDate>Mon, 27 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewfowlie.github.io/authors/luca-marzola/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Statistical Analyses of Higgs- and Z-Portal Dark Matter Models</title>
+      <link>https://andrewfowlie.github.io/publication/dm_portals/</link>
+      <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/dm_portals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimal flavor-changing $Z^\prime$ models and muon $g−2$ after the $R_{K^\star}$ measurement</title>
+      <link>https://andrewfowlie.github.io/publication/bphys/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/bphys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstruction of the Higgs mass in events with Higgs bosons decaying into a pair of $\tau$ leptons using matrix element techniques</title>
+      <link>https://andrewfowlie.github.io/publication/higgs/</link>
+      <pubDate>Fri, 22 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/higgs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Naturalness of the relaxion mechanism</title>
+      <link>https://andrewfowlie.github.io/publication/relaxion/</link>
+      <pubDate>Thu, 11 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/relaxion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Examining a right-handed quark mixing matrix with $b$-tags at the LHC</title>
+      <link>https://andrewfowlie.github.io/publication/lr_2/</link>
+      <pubDate>Wed, 17 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/lr_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing quark mixing in minimal left-right symmetric models with  $b$-tags at the LHC</title>
+      <link>https://andrewfowlie.github.io/publication/lr_1/</link>
+      <pubDate>Thu, 28 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/lr_1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

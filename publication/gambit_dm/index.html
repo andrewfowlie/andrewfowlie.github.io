@@ -5,11 +5,24 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 3.3.0">
-  <meta name="generator" content="Hugo 0.54.0" />
-  <meta name="author" content="Andrew Fowlie">
+  <meta name="generator" content="Source Themes Academic 4.2.0">
+  <meta name="generator" content="Hugo 0.55.1" />
 
   
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Andrew Fowlie">
+
   
   
   
@@ -56,6 +69,14 @@
     
       
     
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
     
 
     
@@ -113,7 +134,7 @@
   <meta property="og:site_name" content="Andrew Fowlie">
   <meta property="og:url" content="https://andrewfowlie.github.io/publication/gambit_dm/">
   <meta property="og:title" content="Global analyses of Higgs portal singlet dark matter models using GAMBIT | Andrew Fowlie">
-  <meta property="og:description" content="We present global analyses of effective Higgs portal dark matter models in the frequentist and Bayesian statistical frameworks. Complementing earlier studies of the scalar Higgs portal, we use GAMBIT to determine the preferred mass and coupling ranges for models with vector, Majorana and Dirac fermion dark matter. We also assess the relative plausibility of all four models using Bayesian model comparison. Our analysis includes up-to-date likelihood functions for the dark matter relic density, invisible Higgs decays, and direct and indirect searches for weakly-interacting dark matter including the latest XENON1T data. We also account for important uncertainties arising from the local density and velocity distribution of dark matter, nuclear matrix elements relevant to direct detection, and Standard Model masses and couplings. In all Higgs portal models, we find parameter regions that can explain all of dark matter and give a good fit to all data. The case of vector dark matter requires the most tuning and is therefore slightly disfavoured from a Bayesian point of view. In the case of fermionic dark matter, we find a strong preference for including a CP-violating phase that allows suppression of constraints from direct detection experiments, with odds in favour of CP violation of the order of 100:1. Finally, we present DDCalc 2.0.0, a tool for calculating direct detection observables and likelihoods for arbitrary non-relativistic effective operators."><meta property="og:image" content="https://andrewfowlie.github.io/img/portrait.jpg">
+  <meta property="og:description" content="We present global analyses of effective Higgs portal dark matter models in the frequentist and Bayesian statistical frameworks. Complementing earlier studies of the scalar Higgs portal, we use GAMBIT to determine the preferred mass and coupling ranges for models with vector, Majorana and Dirac fermion dark matter. We also assess the relative plausibility of all four models using Bayesian model comparison. Our analysis includes up-to-date likelihood functions for the dark matter relic density, invisible Higgs decays, and direct and indirect searches for weakly-interacting dark matter including the latest XENON1T data. We also account for important uncertainties arising from the local density and velocity distribution of dark matter, nuclear matrix elements relevant to direct detection, and Standard Model masses and couplings. In all Higgs portal models, we find parameter regions that can explain all of dark matter and give a good fit to all data. The case of vector dark matter requires the most tuning and is therefore slightly disfavoured from a Bayesian point of view. In the case of fermionic dark matter, we find a strong preference for including a CP-violating phase that allows suppression of constraints from direct detection experiments, with odds in favour of CP violation of the order of 100:1. Finally, we present DDCalc 2.0.0, a tool for calculating direct detection observables and likelihoods for arbitrary non-relativistic effective operators."><meta property="og:image" content="https://andrewfowlie.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2018-08-30T00:00:00&#43;00:00">
@@ -178,7 +199,7 @@
 
       
       
-      <ul class="navbar-nav ml-auto">
+      <ul class="navbar-nav mr-auto">
         
 
         
@@ -209,7 +230,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link" href="/#publications_selected">
+          <a class="nav-link" href="/#featured">
             
             <span>Publications</span>
             
@@ -287,7 +308,7 @@
         <li class="nav-item">
           <a class="nav-link" href="/#teaching">
             
-            <span>Teaching</span>
+            <span>Outreach & Teaching</span>
             
           </a>
         </li>
@@ -304,24 +325,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link" href="/#outreach">
-            
-            <span>Outreach</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-
-        <li class="nav-item">
-          <a class="nav-link" href="/#cv">
+          <a class="nav-link" href="/files/cv.pdf">
             
             <span>CV</span>
             
@@ -342,7 +346,7 @@
         <li class="nav-item">
           <a class="nav-link" href="/#contact">
             
-            <span>Contact me</span>
+            <span>Contact</span>
             
           </a>
         </li>
@@ -350,6 +354,9 @@
         
         
 
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
       
 
         
@@ -362,6 +369,10 @@
 
         
 
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
         
 
       </ul>
@@ -398,87 +409,170 @@
   
     
 
+
+
+<meta content="2018-08-30 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2018-08-30 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
 <div class="article-metadata">
 
   
   
   
+  
   <div>
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Peter Athron</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Csaba Balázs</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Ankit Beniwal</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Sanjay Bloor</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">José Eliel Camargo-Molina</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Jonathan M. Cornell</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Ben Farmer</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Andrew Fowlie</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Tomás E. Gonzalo</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Felix Kahlhoefer</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Anders Kvellestad</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Gregory D. Martinez</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Pat Scott</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Aaron C. Vincent</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Sebastian Wild</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Martin White</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Anthony G. Williams</span>
-    </span>
     
+
+
+
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Peter Athron</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Csaba Balázs</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Ankit Beniwal</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Sanjay Bloor</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">José Eliel Camargo-Molina</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Jonathan M. Cornell</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Ben Farmer</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Andrew Fowlie</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Tomás E. Gonzalo</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Felix Kahlhoefer</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Anders Kvellestad</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Gregory D. Martinez</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Pat Scott</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Aaron C. Vincent</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Sebastian Wild</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Martin White</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Anthony G. Williams</a></span></span>
+  
+
+
+
   </div>
   
+  
 
+  
   <span class="article-date">
     
-    <meta content="2018-08-30 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-    <time datetime="2018-08-30 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-      Thu, Aug 30, 2018
-    </time>
+    
+      
+    
+    <time>August 2018</time>
   </span>
-  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Andrew Fowlie">
-  </span>
-
   
 
-  
   
 
   
 
   
   
+
+  
+
+  
+    
 
   
 
@@ -491,6 +585,8 @@
 
 
 
+
+  
 
 
 
@@ -509,9 +605,11 @@
 
 
 
+
   
     
   
+
 
 
 <a class="btn btn-outline-primary my-1 mr-1" href="http://arxiv.org/pdf/1808.10465" target="_blank" rel="noopener">
@@ -577,8 +675,11 @@
           <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
             
+
+            
+            
             <a href="/publication/#2">
-              Journal
+              Journal article
             </a>
             
           </div>
@@ -590,20 +691,18 @@
     
 
     
-
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Date</div>
-          <div class="col-12 col-md-9" itemprop="datePublished">
-            August, 2018
-          </div>
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">Eur.Phys.J. C79 (2019) no.1, 38</div>
         </div>
       </div>
       <div class="col-md-1"></div>
     </div>
-    <div class="d-sm-none space-below"></div>
+    <div class="d-md-none space-below"></div>
+    
 
     <div class="space-below"></div>
 
@@ -615,7 +714,15 @@
 
 
 
+
+
+
   
+  
+    
+  
+  
+
 
 
 
@@ -691,11 +798,15 @@
     
     
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha512-+NqPlbbtM1QqiK8ZAo4Yrj2c4lNQoGv8P79DPtKzj++l5jnN39rHA/xsqn8zE9l0uSoxaCdrOgFs6yjyfbBxSg==" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
 
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        
       
 
       
@@ -712,6 +823,8 @@
     
 
     
+    
+    <script>hljs.initHighlightingOnLoad();</script>
     
 
     
@@ -770,9 +883,8 @@
     
     
     
-    <script src="/js/academic.min.07fbebbbf71b021c8836e1d7ecffa489.js"></script>
-
     
+    <script src="/js/academic.min.9c79bd36ad5b530cf8825d78d951c339.js"></script>
 
   </body>
 </html>

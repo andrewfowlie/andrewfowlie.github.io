@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leszek Roszkowski on Andrew Fowlie</title>
+    <link>https://andrewfowlie.github.io/authors/leszek-roszkowski/</link>
+    <description>Recent content in Leszek Roszkowski on Andrew Fowlie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
+    <lastBuildDate>Thu, 06 Jun 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewfowlie.github.io/authors/leszek-roszkowski/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dark matter and collider signatures of the MSSM</title>
+      <link>https://andrewfowlie.github.io/publication/pmssm/</link>
+      <pubDate>Thu, 06 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/pmssm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The CMSSM Favoring New Territories: The Impact of New LHC Limits and a 125 GeV Higgs</title>
+      <link>https://andrewfowlie.github.io/publication/cmssm_territories/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/cmssm_territories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Implications of Current LHC and XENON100 Search Limits for the Constrained MSSM</title>
+      <link>https://andrewfowlie.github.io/publication/cmssm_2011/</link>
+      <pubDate>Fri, 25 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/cmssm_2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstructing CMSSM parameters at the LHC with $\sqrt{s}=14$ TeV via  the golden decay channel</title>
+      <link>https://andrewfowlie.github.io/publication/golden_decay/</link>
+      <pubDate>Sat, 25 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/golden_decay/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

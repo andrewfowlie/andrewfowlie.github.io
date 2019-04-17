@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artur Kalinowski on Andrew Fowlie</title>
+    <link>https://andrewfowlie.github.io/authors/artur-kalinowski/</link>
+    <description>Recent content in Artur Kalinowski on Andrew Fowlie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
+    <lastBuildDate>Fri, 25 Nov 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewfowlie.github.io/authors/artur-kalinowski/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bayesian Implications of Current LHC and XENON100 Search Limits for the Constrained MSSM</title>
+      <link>https://andrewfowlie.github.io/publication/cmssm_2011/</link>
+      <pubDate>Fri, 25 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/cmssm_2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

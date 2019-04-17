@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martin White on Andrew Fowlie</title>
+    <link>https://andrewfowlie.github.io/authors/martin-white/</link>
+    <description>Recent content in Martin White on Andrew Fowlie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
+    <lastBuildDate>Thu, 06 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewfowlie.github.io/authors/martin-white/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Combined collider constraints on neutralinos and charginos</title>
+      <link>https://andrewfowlie.github.io/publication/gambit_ewino/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/gambit_ewino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global analyses of Higgs portal singlet dark matter models using GAMBIT</title>
+      <link>https://andrewfowlie.github.io/publication/gambit_dm/</link>
+      <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/gambit_dm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
