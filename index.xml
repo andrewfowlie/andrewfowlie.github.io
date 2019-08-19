@@ -6,8 +6,17 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
-    <lastBuildDate>Wed, 31 Jul 2019 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2019 00:00:00 +0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Combined collider constraints on neutralinos and charginos</title>
+      <link>https://andrewfowlie.github.io/talk/weihai_2019/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/talk/weihai_2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bayesian and frequentist approaches to discoveries</title>
@@ -132,15 +141,6 @@
       <pubDate>Mon, 25 Jun 2018 00:00:00 +0800</pubDate>
       
       <guid>https://andrewfowlie.github.io/talk/nanjing_2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Potential applications of machine learning in particle physics</title>
-      <link>https://andrewfowlie.github.io/talk/gambit_ml/</link>
-      <pubDate>Mon, 19 Mar 2018 00:00:00 +0800</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/talk/gambit_ml/</guid>
       <description></description>
     </item>
     
