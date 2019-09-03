@@ -6,8 +6,17 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
-    <lastBuildDate>Wed, 14 Aug 2019 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Strong first-order phase transitions in the NMSSM — a comprehensive survey</title>
+      <link>https://andrewfowlie.github.io/publication/nmssm_pts/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/nmssm_pts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Combined collider constraints on neutralinos and charginos</title>
@@ -132,15 +141,6 @@
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0800</pubDate>
       
       <guid>https://andrewfowlie.github.io/talk/ichep_2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Statistical Analyses of Higgs- and Z-Portal Dark Matter Models</title>
-      <link>https://andrewfowlie.github.io/talk/nanjing_2018/</link>
-      <pubDate>Mon, 25 Jun 2018 00:00:00 +0800</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/talk/nanjing_2018/</guid>
       <description></description>
     </item>
     

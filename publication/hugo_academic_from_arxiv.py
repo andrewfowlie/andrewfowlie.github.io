@@ -45,10 +45,7 @@ url_pdf = {url_pdf}
 url_project = ""
 url_slides = ""
 url_video = ""
-
-[[url_custom]]
-name = "DOI"
-url = {url_doi}
+doi = {url_doi}
 +++
 """
 
@@ -64,6 +61,7 @@ def parse_date(date):
     :returns: Date in format for Hugo academic theme
     """
     prefix = '(Submitted on'
+    date = date.strip()
     date = date[len(prefix):].strip("() ")
     date = datetime.datetime.strptime(date, DATE_ARXIV).strftime(DATE_MD)
     return wrap_quote(date)

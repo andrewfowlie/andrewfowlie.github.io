@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
-    <lastBuildDate>Fri, 08 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewfowlie.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,54 @@
     <item>
       <title>Andrew Fowlie</title>
       <link>https://andrewfowlie.github.io/authors/andrew-fowlie/</link>
-      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://andrewfowlie.github.io/authors/andrew-fowlie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Csaba Balazs</title>
+      <link>https://andrewfowlie.github.io/authors/csaba-balazs/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/authors/csaba-balazs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Giancarlo Pozzo</title>
+      <link>https://andrewfowlie.github.io/authors/giancarlo-pozzo/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/authors/giancarlo-pozzo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graham White</title>
+      <link>https://andrewfowlie.github.io/authors/graham-white/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/authors/graham-white/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Athron</title>
+      <link>https://andrewfowlie.github.io/authors/peter-athron/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/authors/peter-athron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yang Zhang</title>
+      <link>https://andrewfowlie.github.io/authors/yang-zhang/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/authors/yang-zhang/</guid>
       <description></description>
     </item>
     
@@ -40,29 +85,11 @@
     </item>
     
     <item>
-      <title>Graham White</title>
-      <link>https://andrewfowlie.github.io/authors/graham-white/</link>
-      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/authors/graham-white/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Michael Bardsley</title>
       <link>https://andrewfowlie.github.io/authors/michael-bardsley/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://andrewfowlie.github.io/authors/michael-bardsley/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peter Athron</title>
-      <link>https://andrewfowlie.github.io/authors/peter-athron/</link>
-      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/authors/peter-athron/</guid>
       <description></description>
     </item>
     
@@ -207,15 +234,6 @@
       <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://andrewfowlie.github.io/authors/tom%C3%A1s-e.-gonzalo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yang Zhang</title>
-      <link>https://andrewfowlie.github.io/authors/yang-zhang/</link>
-      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/authors/yang-zhang/</guid>
       <description></description>
     </item>
     
