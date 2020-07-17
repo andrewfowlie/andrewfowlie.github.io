@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>admin on Andrew Fowlie</title>
+    <title>admin | Andrew Fowlie</title>
     <link>https://andrewfowlie.github.io/authors/admin/</link>
-    <description>Recent content in admin on Andrew Fowlie</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
-    
-	<atom:link href="https://andrewfowlie.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>https://andrewfowlie.github.io/author/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/author/admin/</guid>
-      <description>I am Andrew Fowlie, a junior faculty member at Nanjing Normal University - here is our group photo. My research interests include beyond the standard model phenomenology, LHC physics, dark matter and Bayesian statistics.</description>
-    </item>
+      <atom:link href="https://andrewfowlie.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>admin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
+    <image>
+      <url>https://andrewfowlie.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>admin</title>
+      <link>https://andrewfowlie.github.io/authors/admin/</link>
+    </image>
     
   </channel>
 </rss>

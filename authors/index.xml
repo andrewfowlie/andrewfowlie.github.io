@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
-    <lastBuildDate>Fri, 30 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewfowlie.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,16 +15,160 @@
     <item>
       <title>Andrew Fowlie</title>
       <link>https://andrewfowlie.github.io/authors/andrew-fowlie/</link>
-      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://andrewfowlie.github.io/authors/andrew-fowlie/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Ankit Beniwal</title>
+      <link>https://andrewfowlie.github.io/authors/ankit-beniwal/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/authors/ankit-beniwal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Csaba Balázs</title>
+      <link>https://andrewfowlie.github.io/authors/csaba-bal%C3%A1zs/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/authors/csaba-bal%C3%A1zs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David J. E. Marsh</title>
+      <link>https://andrewfowlie.github.io/authors/david-j.-e.-marsh/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/authors/david-j.-e.-marsh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Felix Kahlhoefer</title>
+      <link>https://andrewfowlie.github.io/authors/felix-kahlhoefer/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/authors/felix-kahlhoefer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Eliel Camargo-Molina</title>
+      <link>https://andrewfowlie.github.io/authors/j.-eliel-camargo-molina/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/authors/j.-eliel-camargo-molina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lei Wu</title>
+      <link>https://andrewfowlie.github.io/authors/lei-wu/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/authors/lei-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markus Tobias Prim</title>
+      <link>https://andrewfowlie.github.io/authors/markus-tobias-prim/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/authors/markus-tobias-prim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martin White</title>
+      <link>https://andrewfowlie.github.io/authors/martin-white/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/authors/martin-white/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pat Scott</title>
+      <link>https://andrewfowlie.github.io/authors/pat-scott/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/authors/pat-scott/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Athron</title>
+      <link>https://andrewfowlie.github.io/authors/peter-athron/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/authors/peter-athron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastian Hoof</title>
+      <link>https://andrewfowlie.github.io/authors/sebastian-hoof/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/authors/sebastian-hoof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomás E. Gonzalo</title>
+      <link>https://andrewfowlie.github.io/authors/tom%C3%A1s-e.-gonzalo/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/authors/tom%C3%A1s-e.-gonzalo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wei Su</title>
+      <link>https://andrewfowlie.github.io/authors/wei-su/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/authors/wei-su/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yang Zhang</title>
+      <link>https://andrewfowlie.github.io/authors/yang-zhang/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/authors/yang-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liangliang Su</title>
+      <link>https://andrewfowlie.github.io/authors/liangliang-su/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/authors/liangliang-su/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Will Handley</title>
+      <link>https://andrewfowlie.github.io/authors/will-handley/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/authors/will-handley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Csaba Balazs</title>
       <link>https://andrewfowlie.github.io/authors/csaba-balazs/</link>
-      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://andrewfowlie.github.io/authors/csaba-balazs/</guid>
       <description></description>
@@ -45,33 +189,6 @@
       <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://andrewfowlie.github.io/authors/graham-white/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peter Athron</title>
-      <link>https://andrewfowlie.github.io/authors/peter-athron/</link>
-      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/authors/peter-athron/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yang Zhang</title>
-      <link>https://andrewfowlie.github.io/authors/yang-zhang/</link>
-      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/authors/yang-zhang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Csaba Balázs</title>
-      <link>https://andrewfowlie.github.io/authors/csaba-bal%C3%A1zs/</link>
-      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/authors/csaba-bal%C3%A1zs/</guid>
       <description></description>
     </item>
     
@@ -184,29 +301,11 @@
     </item>
     
     <item>
-      <title>Martin White</title>
-      <link>https://andrewfowlie.github.io/authors/martin-white/</link>
-      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/authors/martin-white/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Matthias Danninger</title>
       <link>https://andrewfowlie.github.io/authors/matthias-danninger/</link>
       <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://andrewfowlie.github.io/authors/matthias-danninger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pat Scott</title>
-      <link>https://andrewfowlie.github.io/authors/pat-scott/</link>
-      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/authors/pat-scott/</guid>
       <description></description>
     </item>
     
@@ -229,15 +328,6 @@
     </item>
     
     <item>
-      <title>Tomás E. Gonzalo</title>
-      <link>https://andrewfowlie.github.io/authors/tom%C3%A1s-e.-gonzalo/</link>
-      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/authors/tom%C3%A1s-e.-gonzalo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Aaron C. Vincent</title>
       <link>https://andrewfowlie.github.io/authors/aaron-c.-vincent/</link>
       <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
@@ -247,29 +337,11 @@
     </item>
     
     <item>
-      <title>Ankit Beniwal</title>
-      <link>https://andrewfowlie.github.io/authors/ankit-beniwal/</link>
-      <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/authors/ankit-beniwal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Anthony G. Williams</title>
       <link>https://andrewfowlie.github.io/authors/anthony-g.-williams/</link>
       <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://andrewfowlie.github.io/authors/anthony-g.-williams/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Felix Kahlhoefer</title>
-      <link>https://andrewfowlie.github.io/authors/felix-kahlhoefer/</link>
-      <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrewfowlie.github.io/authors/felix-kahlhoefer/</guid>
       <description></description>
     </item>
     

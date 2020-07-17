@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
-    <lastBuildDate>Thu, 06 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewfowlie.github.io/authors/tom%C3%A1s-e.-gonzalo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Global fits of axion-like particles to XENON1T and astrophysical data</title>
+      <link>https://andrewfowlie.github.io/publication/alp/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewfowlie.github.io/publication/alp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Combined collider constraints on neutralinos and charginos</title>
