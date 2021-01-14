@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peter Athron on Andrew Fowlie</title>
-    <link>https://andrewfowlie.github.io/authors/peter-athron/</link>
+    <link>/authors/peter-athron/</link>
     <description>Recent content in Peter Athron on Andrew Fowlie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
     <lastBuildDate>Thu, 17 Dec 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://andrewfowlie.github.io/authors/peter-athron/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/peter-athron/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Simple and statistically sound strategies for analysing physical theories</title>
-      <link>https://andrewfowlie.github.io/publication/nrp/</link>
+      <link>/publication/nrp/</link>
       <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/publication/nrp/</guid>
+      <guid>/publication/nrp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global fits of axion-like particles to XENON1T and astrophysical data</title>
-      <link>https://andrewfowlie.github.io/publication/alp/</link>
+      <link>/publication/alp/</link>
       <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/publication/alp/</guid>
+      <guid>/publication/alp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PhaseTracer: tracing cosmological phases and calculating transition properties</title>
-      <link>https://andrewfowlie.github.io/publication/phasetracer/</link>
+      <link>/publication/phasetracer/</link>
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/publication/phasetracer/</guid>
+      <guid>/publication/phasetracer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Strong first-order phase transitions in the NMSSM — a comprehensive survey</title>
-      <link>https://andrewfowlie.github.io/publication/nmssm_pts/</link>
+      <link>/publication/nmssm_pts/</link>
       <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/publication/nmssm_pts/</guid>
+      <guid>/publication/nmssm_pts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BubbleProfiler: finding the field profile and action for cosmological phase transitions</title>
-      <link>https://andrewfowlie.github.io/publication/bubbleprofiler/</link>
+      <link>/publication/bubbleprofiler/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/publication/bubbleprofiler/</guid>
+      <guid>/publication/bubbleprofiler/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Combined collider constraints on neutralinos and charginos</title>
-      <link>https://andrewfowlie.github.io/publication/gambit_ewino/</link>
+      <link>/publication/gambit_ewino/</link>
       <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/publication/gambit_ewino/</guid>
+      <guid>/publication/gambit_ewino/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global analyses of Higgs portal singlet dark matter models using GAMBIT</title>
-      <link>https://andrewfowlie.github.io/publication/gambit_dm/</link>
+      <link>/publication/gambit_dm/</link>
       <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/publication/gambit_dm/</guid>
+      <guid>/publication/gambit_dm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Model-independent analysis of the DAMPE excess</title>
-      <link>https://andrewfowlie.github.io/publication/dampe/</link>
+      <link>/publication/dampe/</link>
       <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/publication/dampe/</guid>
+      <guid>/publication/dampe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian analysis and naturalness of (Next-to-)Minimal Supersymmetric  Models</title>
-      <link>https://andrewfowlie.github.io/publication/cnmssm_2/</link>
+      <link>/publication/cnmssm_2/</link>
       <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/publication/cnmssm_2/</guid>
+      <guid>/publication/cnmssm_2/</guid>
       <description></description>
     </item>
     

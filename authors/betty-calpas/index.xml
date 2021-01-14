@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Betty Calpas on Andrew Fowlie</title>
-    <link>https://andrewfowlie.github.io/authors/betty-calpas/</link>
+    <link>/authors/betty-calpas/</link>
     <description>Recent content in Betty Calpas on Andrew Fowlie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
     <lastBuildDate>Fri, 22 Jul 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://andrewfowlie.github.io/authors/betty-calpas/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/betty-calpas/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Reconstruction of the Higgs mass in events with Higgs bosons decaying into a pair of $\tau$ leptons using matrix element techniques</title>
-      <link>https://andrewfowlie.github.io/publication/higgs/</link>
+      <link>/publication/higgs/</link>
       <pubDate>Fri, 22 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/publication/higgs/</guid>
+      <guid>/publication/higgs/</guid>
       <description></description>
     </item>
     

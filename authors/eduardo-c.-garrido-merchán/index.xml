@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eduardo C. Garrido-Merchán on Andrew Fowlie</title>
-    <link>https://andrewfowlie.github.io/authors/eduardo-c.-garrido-merch%C3%A1n/</link>
+    <link>/authors/eduardo-c.-garrido-merch%C3%A1n/</link>
     <description>Recent content in Eduardo C. Garrido-Merchán on Andrew Fowlie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
     <lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://andrewfowlie.github.io/authors/eduardo-c.-garrido-merch%C3%A1n/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/eduardo-c.-garrido-merch%C3%A1n/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A comparison of optimisation algorithms for high-dimensional particle and astrophysics applications</title>
-      <link>https://andrewfowlie.github.io/publication/dark_machines_optimisation/</link>
+      <link>/publication/dark_machines_optimisation/</link>
       <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/publication/dark_machines_optimisation/</guid>
+      <guid>/publication/dark_machines_optimisation/</guid>
       <description></description>
     </item>
     

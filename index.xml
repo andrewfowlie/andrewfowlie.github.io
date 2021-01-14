@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andrew Fowlie on Andrew Fowlie</title>
-    <link>https://andrewfowlie.github.io/</link>
+    <link>/</link>
     <description>Recent content in Andrew Fowlie on Andrew Fowlie</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
@@ -11,10 +11,10 @@
     
     <item>
       <title>Projects</title>
-      <link>https://andrewfowlie.github.io/project/</link>
+      <link>/project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/project/</guid>
+      <guid>/project/</guid>
       <description></description>
     </item>
     
@@ -29,37 +29,37 @@
     
     <item>
       <title>Authors</title>
-      <link>https://andrewfowlie.github.io/author/</link>
+      <link>/author/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/author/</guid>
+      <guid>/author/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://andrewfowlie.github.io/publication/</link>
+      <link>/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/publication/</guid>
+      <guid>/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://andrewfowlie.github.io/talk/</link>
+      <link>/talk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/talk/</guid>
+      <guid>/talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resources</title>
-      <link>https://andrewfowlie.github.io/resource/</link>
+      <link>/resource/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/resource/</guid>
+      <guid>/resource/</guid>
       <description></description>
     </item>
     

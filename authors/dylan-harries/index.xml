@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dylan Harries on Andrew Fowlie</title>
-    <link>https://andrewfowlie.github.io/authors/dylan-harries/</link>
+    <link>/authors/dylan-harries/</link>
     <description>Recent content in Dylan Harries on Andrew Fowlie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
     <lastBuildDate>Fri, 11 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://andrewfowlie.github.io/authors/dylan-harries/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/dylan-harries/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>BubbleProfiler: finding the field profile and action for cosmological phase transitions</title>
-      <link>https://andrewfowlie.github.io/publication/bubbleprofiler/</link>
+      <link>/publication/bubbleprofiler/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/publication/bubbleprofiler/</guid>
+      <guid>/publication/bubbleprofiler/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian analysis and naturalness of (Next-to-)Minimal Supersymmetric  Models</title>
-      <link>https://andrewfowlie.github.io/publication/cnmssm_2/</link>
+      <link>/publication/cnmssm_2/</link>
       <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/publication/cnmssm_2/</guid>
+      <guid>/publication/cnmssm_2/</guid>
       <description></description>
     </item>
     

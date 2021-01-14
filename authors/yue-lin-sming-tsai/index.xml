@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yue-Lin Sming Tsai on Andrew Fowlie</title>
-    <link>https://andrewfowlie.github.io/authors/yue-lin-sming-tsai/</link>
+    <link>/authors/yue-lin-sming-tsai/</link>
     <description>Recent content in Yue-Lin Sming Tsai on Andrew Fowlie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
     <lastBuildDate>Thu, 17 Dec 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://andrewfowlie.github.io/authors/yue-lin-sming-tsai/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/yue-lin-sming-tsai/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Simple and statistically sound strategies for analysing physical theories</title>
-      <link>https://andrewfowlie.github.io/publication/nrp/</link>
+      <link>/publication/nrp/</link>
       <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/publication/nrp/</guid>
+      <guid>/publication/nrp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dark matter and collider signatures of the MSSM</title>
-      <link>https://andrewfowlie.github.io/publication/pmssm/</link>
+      <link>/publication/pmssm/</link>
       <pubDate>Thu, 06 Jun 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/publication/pmssm/</guid>
+      <guid>/publication/pmssm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The CMSSM Favoring New Territories: The Impact of New LHC Limits and a 125 GeV Higgs</title>
-      <link>https://andrewfowlie.github.io/publication/cmssm_territories/</link>
+      <link>/publication/cmssm_territories/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/publication/cmssm_territories/</guid>
+      <guid>/publication/cmssm_territories/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian Implications of Current LHC and XENON100 Search Limits for the Constrained MSSM</title>
-      <link>https://andrewfowlie.github.io/publication/cmssm_2011/</link>
+      <link>/publication/cmssm_2011/</link>
       <pubDate>Fri, 25 Nov 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/publication/cmssm_2011/</guid>
+      <guid>/publication/cmssm_2011/</guid>
       <description></description>
     </item>
     

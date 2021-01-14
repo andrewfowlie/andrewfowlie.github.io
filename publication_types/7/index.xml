@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>7 on Andrew Fowlie</title>
-    <link>https://andrewfowlie.github.io/publication_types/7/</link>
+    <link>/publication_types/7/</link>
     <description>Recent content in 7 on Andrew Fowlie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
     <lastBuildDate>Wed, 20 Nov 2013 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://andrewfowlie.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bayesian Approach to Investigating Supersymmetric Models </title>
-      <link>https://andrewfowlie.github.io/publication/thesis/</link>
+      <link>/publication/thesis/</link>
       <pubDate>Wed, 20 Nov 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/publication/thesis/</guid>
+      <guid>/publication/thesis/</guid>
       <description></description>
     </item>
     

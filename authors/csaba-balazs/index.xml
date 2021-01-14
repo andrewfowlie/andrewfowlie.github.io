@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Csaba Balazs on Andrew Fowlie</title>
-    <link>https://andrewfowlie.github.io/authors/csaba-balazs/</link>
+    <link>/authors/csaba-balazs/</link>
     <description>Recent content in Csaba Balazs on Andrew Fowlie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
     <lastBuildDate>Thu, 05 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://andrewfowlie.github.io/authors/csaba-balazs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/csaba-balazs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PhaseTracer: tracing cosmological phases and calculating transition properties</title>
-      <link>https://andrewfowlie.github.io/publication/phasetracer/</link>
+      <link>/publication/phasetracer/</link>
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/publication/phasetracer/</guid>
+      <guid>/publication/phasetracer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Strong first-order phase transitions in the NMSSM — a comprehensive survey</title>
-      <link>https://andrewfowlie.github.io/publication/nmssm_pts/</link>
+      <link>/publication/nmssm_pts/</link>
       <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/publication/nmssm_pts/</guid>
+      <guid>/publication/nmssm_pts/</guid>
       <description></description>
     </item>
     

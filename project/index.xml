@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Andrew Fowlie</title>
-    <link>https://andrewfowlie.github.io/project/</link>
+    <link>/project/</link>
     <description>Recent content in Projects on Andrew Fowlie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://andrewfowlie.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bayes factors</title>
-      <link>https://andrewfowlie.github.io/project/bayes_factors/</link>
+      <link>/project/bayes_factors/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/project/bayes_factors/</guid>
+      <guid>/project/bayes_factors/</guid>
       <description>Anomalies in high-energy physics with Bayes factors</description>
     </item>
     
     <item>
       <title>BayesFits (2009 - 2013)</title>
-      <link>https://andrewfowlie.github.io/project/susy_fits/</link>
+      <link>/project/susy_fits/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/project/susy_fits/</guid>
+      <guid>/project/susy_fits/</guid>
       <description>Fits of SUSY models, such as the CMSSM, in light of LHC data.</description>
     </item>
     
     <item>
       <title>Fine-tuning and naturalness</title>
-      <link>https://andrewfowlie.github.io/project/fine-tuning/</link>
+      <link>/project/fine-tuning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/project/fine-tuning/</guid>
+      <guid>/project/fine-tuning/</guid>
       <description>Fine-tuning in physics with Bayesian statistics</description>
     </item>
     
     <item>
       <title>GAMBIT</title>
-      <link>https://andrewfowlie.github.io/project/gambit/</link>
+      <link>/project/gambit/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/project/gambit/</guid>
+      <guid>/project/gambit/</guid>
       <description>I am a member of GAMBIT - The Global And Modular BSM Inference Tool - lead by Dr. Pat Scott.</description>
     </item>
     
     <item>
       <title>Uncertainty in the Dark Matter Velocity Profile</title>
-      <link>https://andrewfowlie.github.io/project/max_entropy_profile/</link>
+      <link>/project/max_entropy_profile/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/project/max_entropy_profile/</guid>
+      <guid>/project/max_entropy_profile/</guid>
       <description>Using Quantified Maximum Entropy to model uncertainty in the dark matter velocity profile.</description>
     </item>
     

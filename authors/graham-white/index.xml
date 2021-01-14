@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Graham White on Andrew Fowlie</title>
-    <link>https://andrewfowlie.github.io/authors/graham-white/</link>
+    <link>/authors/graham-white/</link>
     <description>Recent content in Graham White on Andrew Fowlie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
     <lastBuildDate>Fri, 30 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://andrewfowlie.github.io/authors/graham-white/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/graham-white/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Strong first-order phase transitions in the NMSSM — a comprehensive survey</title>
-      <link>https://andrewfowlie.github.io/publication/nmssm_pts/</link>
+      <link>/publication/nmssm_pts/</link>
       <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/publication/nmssm_pts/</guid>
+      <guid>/publication/nmssm_pts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BubbleProfiler: finding the field profile and action for cosmological phase transitions</title>
-      <link>https://andrewfowlie.github.io/publication/bubbleprofiler/</link>
+      <link>/publication/bubbleprofiler/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/publication/bubbleprofiler/</guid>
+      <guid>/publication/bubbleprofiler/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gravitational waves at aLIGO and vacuum stability with a scalar singlet extension of the Standard Model</title>
-      <link>https://andrewfowlie.github.io/publication/grav_waves/</link>
+      <link>/publication/grav_waves/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/publication/grav_waves/</guid>
+      <guid>/publication/grav_waves/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Naturalness of the relaxion mechanism</title>
-      <link>https://andrewfowlie.github.io/publication/relaxion/</link>
+      <link>/publication/relaxion/</link>
       <pubDate>Thu, 11 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewfowlie.github.io/publication/relaxion/</guid>
+      <guid>/publication/relaxion/</guid>
       <description></description>
     </item>
     
