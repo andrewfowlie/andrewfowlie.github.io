@@ -73,7 +73,10 @@ def parse_author(author):
     """
     names = author.split(",")
     names = [n.strip() for n in names]
-    author = r"{} {}".format(*names[::-1])
+    try:
+        author = r"{} {}".format(*names[::-1])
+    except IndexError:
+        author = names[0]
     return author
 
 def parse_tex(tex):
