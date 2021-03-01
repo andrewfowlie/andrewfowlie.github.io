@@ -2,6 +2,18 @@
   
     <url>
     
+      <loc>/</loc>
+      <lastmod>2021-03-01T10:10:23+08:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/talk/reinterp_2021/</loc>
+      <lastmod>2021-03-01T10:10:23+08:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>/publication_types/2/</loc>
       <lastmod>2021-01-14T12:50:33+08:00</lastmod>
     </url>
@@ -15,12 +27,6 @@
     <url>
     
       <loc>/authors/adam-leinweber/</loc>
-      <lastmod>2021-01-14T12:50:33+08:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/</loc>
       <lastmod>2021-01-14T12:50:33+08:00</lastmod>
     </url>
   
