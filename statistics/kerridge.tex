@@ -98,7 +98,7 @@ since we are summing over only part of the sampling space. Combing the \refeqs{e
 \end{equation}
 and so 
 \begin{equation}
-\sum^\star \prob{D}{T} \le \left(\frac{1 - p}{p}\right) \cdot\frac{\pi(F)}{\pi(T)} 
+\sum^\star \prob{D}{T} \le \left(\frac{p}{1 - p}\right) \cdot\frac{\pi(F)}{\pi(T)} 
 \end{equation}
 If there are $k$ equally plausibly hypothesis, $k-1$ of which are false, the prior odds factor would be $k-1$, recovering the result of Kerridge.
 
@@ -106,14 +106,14 @@ Finally, note again that $\sum^\star$ denotes a sum or integral over parts of th
 \begin{equation}
 \begin{split}
 &\Prob{\text{Sampling stopped and posterior probability of true hypothesis less than $p$}}{\text{true hypothesis}} \\
-&\le \left(\frac{1 - p}{p}\right) \cdot (\text{Prior odds in favour of set of false hypotheses})
+&\le \left(\frac{p}{1 - p}\right) \cdot (\text{Prior odds in favour of set of false hypotheses})
 \end{split}
 \end{equation}
 In physics, we often don't consider optional stopping or stopping rules, in which case we can simply write
 \begin{equation}
 \begin{split}
 &\Prob{\text{Posterior probability of true hypothesis less than $p$}}{\text{true hypothesis}} \\
-&\le \left(\frac{1 - p}{p}\right) \cdot (\text{Prior odds in favour of set of false hypotheses})
+&\le \left(\frac{p}{1 - p}\right) \cdot (\text{Prior odds in favour of set of false hypotheses})
 \end{split}
 \end{equation}
 
@@ -121,7 +121,7 @@ Kerridge's law gives a bound on the rate of misleading inferences in Bayesian mo
 
 Here, you cannot sample to a foregone conclusion. Your stopping rule could be that you stop only if the posterior probability of true hypothesis is less than $p$. But the probability that you ever stop would be bounded by Kerridge's law. i.e., by 
 \begin{equation}
-\left(\frac{1 - p}{p}\right) \cdot (\text{Prior odds in favour of set of false hypotheses})
+\left(\frac{p}{1 - p}\right) \cdot (\text{Prior odds in favour of set of false hypotheses})
 \end{equation}
 You could very well be sampling forever.
 
