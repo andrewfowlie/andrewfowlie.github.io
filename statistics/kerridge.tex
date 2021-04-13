@@ -1,0 +1,131 @@
+\documentclass[12pt]{article}
+
+%
+% Preamble
+%
+
+\usepackage{authblk}
+\usepackage{enumitem}
+\usepackage{fullpage}
+\usepackage{amsmath}
+\usepackage{hyperref}
+\usepackage[T1]{fontenc}
+\usepackage{mathpazo}
+\usepackage[utf8]{inputenc}
+\usepackage{microtype}
+
+%
+% BibTeX file
+%
+
+
+\begin{filecontents}{refs.bib}
+@article{kerridge1963,
+    author = "Kerridge, D.",
+    fjournal = "The Annals of Mathematical Statistics",
+    journal = "Ann. Math. Statist.",
+    month = "09",
+    number = "3",
+    pages = "1109--1110",
+    publisher = "The Institute of Mathematical Statistics",
+    title = "Bounds for the Frequency of Misleading Bayes Inferences",
+    doi = "{10.1214/aoms/1177704038}",
+    volume = "34",
+    year = "1963"
+}
+\end{filecontents}
+
+%
+% Macros
+%
+
+\newcommand{\refcite}[1]{ref.~\cite{#1}}
+\newcommand{\given}{\, \middle| \,}
+\newcommand{\Prob}[2]{P\left(#1 \given #2 \right)}
+\newcommand{\prob}[2]{p\left(#1 \given #2 \right)}
+\newcommand{\refeq}[1]{Eq.~\ref{#1}}
+\newcommand{\refeqs}[2]{Eqs.~\ref{#1} and \ref{#2}}
+
+%
+% Title page
+%
+
+\title{Derivation of Kerridge's law}
+\author{Andrew Fowlie}
+\date{April 2021}
+\affil{Nanjing Normal University}
+
+\begin{document}
+\maketitle
+
+
+%
+% Matter
+%
+
+The notation and presentation of \refcite{kerridge1963} make the proof and its implication hard for me to follow. Here I present a proof with missing steps filled in and without assuming equal prior plausibility of the models.
+
+Let us suppose we have $k$ hypotheses. The $k = 1$ hypothesis is true and the remaining $k - 1$ are false. They have prior probabilities $\pi_i$ for $i = 1 \cdots k$. We can in fact reduce the scenario two two models: the true model with prior probability $\pi(T)$ and a mixture model of the false models, with prior probability $\pi(F) = \sum_{i=2}^k \pi_i$, so we proceed from that point.
+
+First, consider the Bayes factor, $B$, in favour of the false model,
+\begin{equation}\label{eq:bf}
+B = \frac{\prob{D}{F}}{\prob{D}{T}}.
+\end{equation}
+Consider the constraint that the posterior of the true model is less than $p$, $\prob{T}{D} \le p$. By Bayes theorem alone, this implies
+\begin{equation}\label{eq:bf_gt}
+B \ge \left(\frac{1 - p}{p}\right) \cdot \frac{\pi(T)}{\pi(F)}
+\end{equation}
+Now consider a sum or integral over the region of sampling space in which
+\begin{enumerate}
+    \item Sampling has stopped and
+    \item The posterior of the true model is less than $p$, $\prob{T}{D} \le p$. 
+\end{enumerate}
+We denote that sum or integral by $\sum^\star$. We perform that sum in
+\begin{equation}
+\sum^\star B \prob{D}{T}
+\end{equation}
+By \refeq{eq:bf_gt} we must have 
+\begin{equation}\label{eq:ge}
+\sum^\star B \prob{D}{T} \ge  \left(\frac{1 - p}{p}\right) \cdot \frac{\pi(T)}{\pi(F)} \cdot  \sum^\star \prob{D}{T}
+\end{equation}
+By simply rewriting it using the definition of the Bayes factor in \refeq{eq:bf} though we must have
+\begin{equation}\label{eq:le}
+\sum^\star B \prob{D}{T} = \sum^\star \prob{D}{F} \le 1
+\end{equation}
+since we are summing over only part of the sampling space. Combing the \refeqs{eq:ge}{eq:le},
+\begin{equation}
+\left(\frac{1 - p}{p}\right) \cdot \frac{\pi(T)}{\pi(F)} \cdot \sum^\star \prob{D}{T} \le \sum^\star B \prob{D}{T} \le 1
+\end{equation}
+and so 
+\begin{equation}
+\sum^\star \prob{D}{T} \le \left(\frac{1 - p}{p}\right) \cdot\frac{\pi(F)}{\pi(T)} 
+\end{equation}
+If there are $k$ equally plausibly hypothesis, $k-1$ of which are false, the prior odds factor would be $k-1$, recovering the result of Kerridge.
+
+Finally, note again that $\sum^\star$ denotes a sum or integral over parts of the sampling space in which \emph{i)} sampling has stopped and \emph{ii)} $\prob{T}{D} \le p$. This means that we can write it in words as
+\begin{equation}
+\begin{split}
+&\Prob{\text{Sampling stopped and posterior probability of true hypothesis less than $p$}}{\text{true hypothesis}} \\
+&\le \left(\frac{1 - p}{p}\right) \cdot (\text{Prior odds in favour of set of false hypotheses})
+\end{split}
+\end{equation}
+In physics, we often don't consider optional stopping or stopping rules, in which case we can simply write
+\begin{equation}
+\begin{split}
+&\Prob{\text{Posterior probability of true hypothesis less than $p$}}{\text{true hypothesis}} \\
+&\le \left(\frac{1 - p}{p}\right) \cdot (\text{Prior odds in favour of set of false hypotheses})
+\end{split}
+\end{equation}
+
+Kerridge's law gives a bound on the rate of misleading inferences in Bayesian model selection. Remarkably, the bound doesn't depend on the stopping rules. With $p$-values, you can sample until by (the law of the iterated logarithm) you reach an arbitrarily small $p$-value and stop. 
+
+Here, you cannot sample to a foregone conclusion. Your stopping rule could be that you stop only if the posterior probability of true hypothesis is less than $p$. But the probability that you ever stop would be bounded by Kerridge's law. i.e., by 
+\begin{equation}
+\left(\frac{1 - p}{p}\right) \cdot (\text{Prior odds in favour of set of false hypotheses})
+\end{equation}
+You could very well be sampling forever.
+
+\bibliographystyle{unsrt}
+\bibliography{refs}
+
+\end{document}
