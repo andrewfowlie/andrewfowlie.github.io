@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2021 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
-    <lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Thermal WIMPs and the Scale of New Physics: Global Fits of Dirac Dark Matter Effective Field Theories</title>
+      <link>/publication/dmeft/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dmeft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nested sampling for frequentist computation: fast estimation of small $p$-values</title>
+      <link>/publication/ns_for_p/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ns_for_p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comment on &#34;Reproducibility and Replication of Experimental Particle Physics Results&#34;</title>
+      <link>/publication/hdsr/</link>
+      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/hdsr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A comparison of optimisation algorithms for high-dimensional particle and astrophysics applications</title>
