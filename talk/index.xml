@@ -6,10 +6,19 @@
     <description>Recent content in Recent &amp; Upcoming Talks on Andrew Fowlie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2021 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
+    <copyright>&amp;copy; 2021 Andrew Fowlie</copyright>
     
 	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Getting the most out of particle physics experiments</title>
+      <link>/talk/nanjing_hadron_2021/</link>
+      <pubDate>Wed, 27 Oct 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/talk/nanjing_hadron_2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Nested sampling for frequentist computation: fast estimation of small $p$-values</title>

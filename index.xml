@@ -5,8 +5,8 @@
     <description>Recent content in Andrew Fowlie on Andrew Fowlie</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2021 Andrew Fowlie. Image from [starsandspirals](https://www.flickr.com/photos/becca02/6727193557) under [CC license](https://creativecommons.org/licenses/by-sa/2.0/)</copyright>
-    <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0800</lastBuildDate>
+    <copyright>&amp;copy; 2021 Andrew Fowlie</copyright>
+    <lastBuildDate>Wed, 27 Oct 2021 00:00:00 +0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -28,20 +28,30 @@
     </item>
     
     <item>
+      <title></title>
+      <link>/preprints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/preprints/</guid>
+      <description>&lt;p&gt;&lt;script th:inline=&#34;javascript&#34;&gt;
+    var maxArticles=0;
+    var showAbstract=1;
+    var showDates=1;
+    var showLinkAll=0;
+&lt;/script&gt;
+&lt;script type = &#34;text/javascript&#34; src=&#34;./js/arxiv_widget.js&#34;&gt;&lt;/script&gt;
+&lt;div class=&#34;universal-wrapper&#34;&gt;
+&lt;div class=&#34;article-style&#34; itemprop=&#34;articleBody&#34;&gt;&lt;div id=&#34;arxivfeed&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Authors</title>
       <link>/author/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/author/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>/publication/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/</guid>
       <description></description>
     </item>
     
