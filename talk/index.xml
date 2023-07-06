@@ -6,10 +6,28 @@
     <description>Recent content in Recent &amp; Upcoming Talks on Andrew Fowlie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2021 Andrew Fowlie</copyright>
+    <copyright>&amp;copy; 2023 Andrew Fowlie</copyright>
     
 	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Origins of parameters in adimensional models</title>
+      <link>/talk/invariant_maxent_2022/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0800</pubDate>
+      
+      <guid>/talk/invariant_maxent_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opening up Nested Sampling</title>
+      <link>/talk/nested_sampling_maxent_2022/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0800</pubDate>
+      
+      <guid>/talk/nested_sampling_maxent_2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Origins of parameters in adimensional models</title>

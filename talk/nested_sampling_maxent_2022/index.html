@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="QFT  Kachelreiss, Quantum Field Theory: Lecture Notes Cvitanovic, Field Theory Srednicki, Quantum Field Theory Luty, Physics 851 Notes [hep-th/9912205] Fields Coleman, Video Lectures for Physics 253a [1110.5013] Notes from Sidney Coleman&rsquo;s Physics 253a Serone, Notes on Quantum Field Theory Bourjaily, Symmetry factors [0607239] Topics in particle physics and cosmology beyond the standard model [1308.0025] Higgs mass naturalness and scale invariance in the UV Leibrandt, Introduction to the technique of dimensional regularization Lehnert, CPT and Lorentz symmetry breaking Furman, The Moller Luminosity Factor Gudrun, Introduction to Loop Calculations Abel, Anomalies course  Supersymmetry  [hep-ph/0505105] Supersymmetry and the MSSM: An Elementary Introduction [hep-ph/9510287] Supersymmetry: Where it is and how to find it [hep-ph/0108236] Supersymmetry Structure and Phenomena [hep-ph/0012288]  Beyond the Standard Model (In Search of Supersymmetry) [hep-ph/9612389] Supersymmetry Phenomenology With a Broad Brush Sohnius, Introducing Supersymmetry [hep-ph/9709356] A Supersymmetry Primer [hep-th/0509029] 2004 TASI Lectures on Supersymmetry Breaking [hep-ph/9604232] Weak-Scale Supersymmetry: Theory and Practice [hep-th/9612114] Introduction to Supersymmetry [hep-ph/9604339]  The Experimental Investigation of Supersymmetry Breaking [hep-ph/9611409] An Introduction to Supersymmetry [1010.">
+  <meta name="description" content="We open up nested sampling (NS) to new applications by viewing NS as a general algorithm for tackling compression. We demonstrate this through two non-traditional applications of NS to problems in likelihood-free and frequentist computation that suffer from compression. We then discuss advances in diagnostics for NS runs. We describe how we can test sampling from the constrained prior by opening up individual NS runs and analyzing the insertion indexes of new live points. Lastly, we open up the heuristic formula for NS errors based on information, and show that when the sums are carefully expanded it matches an expression based on an analysis of the moments of the compression factors.">
 
   
-  <link rel="alternate" hreflang="en-us" href="../../resource/qft/">
+  <link rel="alternate" hreflang="en-us" href="../../talk/nested_sampling_maxent_2022/">
 
   
 
@@ -106,32 +106,33 @@
   <link rel="icon" type="image/png" href="../../img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="../../img/icon-192.png">
 
-  <link rel="canonical" href="../../resource/qft/">
+  <link rel="canonical" href="../../talk/nested_sampling_maxent_2022/">
 
   
   
   
   
     
+    
   
-  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Andrew Fowlie">
-  <meta property="og:url" content="/resource/qft/">
-  <meta property="og:title" content="Quantum Field Theory | Andrew Fowlie">
-  <meta property="og:description" content="QFT  Kachelreiss, Quantum Field Theory: Lecture Notes Cvitanovic, Field Theory Srednicki, Quantum Field Theory Luty, Physics 851 Notes [hep-th/9912205] Fields Coleman, Video Lectures for Physics 253a [1110.5013] Notes from Sidney Coleman&rsquo;s Physics 253a Serone, Notes on Quantum Field Theory Bourjaily, Symmetry factors [0607239] Topics in particle physics and cosmology beyond the standard model [1308.0025] Higgs mass naturalness and scale invariance in the UV Leibrandt, Introduction to the technique of dimensional regularization Lehnert, CPT and Lorentz symmetry breaking Furman, The Moller Luminosity Factor Gudrun, Introduction to Loop Calculations Abel, Anomalies course  Supersymmetry  [hep-ph/0505105] Supersymmetry and the MSSM: An Elementary Introduction [hep-ph/9510287] Supersymmetry: Where it is and how to find it [hep-ph/0108236] Supersymmetry Structure and Phenomena [hep-ph/0012288]  Beyond the Standard Model (In Search of Supersymmetry) [hep-ph/9612389] Supersymmetry Phenomenology With a Broad Brush Sohnius, Introducing Supersymmetry [hep-ph/9709356] A Supersymmetry Primer [hep-th/0509029] 2004 TASI Lectures on Supersymmetry Breaking [hep-ph/9604232] Weak-Scale Supersymmetry: Theory and Practice [hep-th/9612114] Introduction to Supersymmetry [hep-ph/9604339]  The Experimental Investigation of Supersymmetry Breaking [hep-ph/9611409] An Introduction to Supersymmetry [1010."><meta property="og:image" content="/resource/qft/featured.jpg">
+  <meta property="og:url" content="/talk/nested_sampling_maxent_2022/">
+  <meta property="og:title" content="Opening up Nested Sampling | Andrew Fowlie">
+  <meta property="og:description" content="We open up nested sampling (NS) to new applications by viewing NS as a general algorithm for tackling compression. We demonstrate this through two non-traditional applications of NS to problems in likelihood-free and frequentist computation that suffer from compression. We then discuss advances in diagnostics for NS runs. We describe how we can test sampling from the constrained prior by opening up individual NS runs and analyzing the insertion indexes of new live points. Lastly, we open up the heuristic formula for NS errors based on information, and show that when the sums are carefully expanded it matches an expression based on an analysis of the moments of the compression factors."><meta property="og:image" content="/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2016-04-27T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2023-07-06T00:00:00&#43;08:00">
   
-  <meta property="article:modified_time" content="2019-06-19T15:31:35&#43;08:00">
-  
-
+  <meta property="article:modified_time" content="2023-07-06T11:41:08&#43;08:00">
   
 
   
 
-  <title>Quantum Field Theory | Andrew Fowlie</title>
+  
+
+  <title>Opening up Nested Sampling | Andrew Fowlie</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -366,8 +367,7 @@
   </div>
 </nav>
 
-
-<article class="article" itemscope itemtype="http://schema.org/Article">
+<div class="pub" itemscope itemtype="http://schema.org/Event">
 
   
 
@@ -382,27 +382,23 @@
 
 
 
+  
 
-<div class="article-header d-xl-none">
-  <div class="featured-image" style="background-image: url('/resource/qft/featured_hu2804a3464d93f0abacf729dc579bc0ae_29174_800x0_resize_q90_lanczos.jpg');"></div>
-  <span class="article-header-caption">Image from <a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Feynman%27sDiagram.JPG" target="_blank">wiki</a> under <a href="https://creativecommons.org/licenses/by-sa/2.5/deed.en" target="_blank">CC license</a></span>
-</div>
+  
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">Opening up Nested Sampling</h1>
 
+  
 
-<div class="container-fluid split-header d-none d-xl-block">
-  <div class="row">
-    <div class="col-6">
-      <div class="split-header-content">
-        <h1 itemprop="name">Quantum Field Theory</h1>
-
-        
-
-        
+  
+    
 
 
 
-<meta content="2016-04-27 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2019-06-19 15:31:35 &#43;0800 CST" itemprop="dateModified">
+<meta content="2023-07-06 00:00:00 &#43;0800 CST" itemprop="datePublished">
+<meta content="2023-07-06 11:41:08 &#43;0800 CST" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -410,91 +406,6 @@
   
 
   
-  <span class="article-date">
-    
-    
-      
-          Last updated on
-      
-    
-    <time>Jun 19, 2019</time>
-  </span>
-  
-
-  
-
-  
-
-  
-  
-
-  
-
-  
-
-</div>
-
-
-        
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-        
-
-      </div>
-    </div>
-    <div class="col-6">
-      <div class="split-header-image">
-        <img src="../../resource/qft/featured_hu2804a3464d93f0abacf729dc579bc0ae_29174_680x500_fill_q90_lanczos_smart1.jpg" itemprop="image" alt="">
-        <span class="article-header-caption">Image from <a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Feynman%27sDiagram.JPG" target="_blank">wiki</a> under <a href="https://creativecommons.org/licenses/by-sa/2.5/deed.en" target="_blank">CC license</a></span>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="article-container d-xl-none">
-  <h1 itemprop="name">Quantum Field Theory</h1>
-
-  
-
-  
-
-
-
-<meta content="2016-04-27 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2019-06-19 15:31:35 &#43;0800 CST" itemprop="dateModified">
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-          Last updated on
-      
-    
-    <time>Jun 19, 2019</time>
-  </span>
-  
 
   
 
@@ -512,7 +423,7 @@
 
 </div>
 
-  
+    
 
 
 
@@ -529,81 +440,120 @@
 
 
 
+<div class="btn-links mb-3">
+  
+  
 
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="../../nested_sampling_maxent_2023.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+</div>
+
+
+  
 </div>
 
 
 
   <div class="article-container">
 
-    <div class="article-style" itemprop="articleBody">
+    
+      <h3>Abstract</h3>
+      <p class="pub-abstract" itemprop="text">We open up nested sampling (NS) to new applications by viewing NS as a general algorithm for tackling compression. We demonstrate this through two non-traditional applications of NS to problems in likelihood-free and frequentist computation that suffer from compression. We then discuss advances in diagnostics for NS runs. We describe how we can test sampling from the constrained prior by opening up individual NS runs and analyzing the insertion indexes of new live points. Lastly, we open up the heuristic formula for NS errors based on information, and show that when the sums are carefully expanded it matches an expression based on an analysis of the moments of the compression factors.</p>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9" itemprop="datePublished">
+            
+            Jul 6, 2023
+            <div class="talk-time">
+              
+                 
+                
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Event</div>
+          <div class="col-12 col-md-9">
+            <a href="https://www.ipp.mpg.de/maxent2023" target="_blank" rel="noopener">
+            MaxEnt2023
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Location</div>
+          <div class="col-12 col-md-9">Online</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style">
       
-
-<h2 id="qft">QFT</h2>
-
-<ul>
-<li><a href="http://web.phys.ntnu.no/~mika/lect1.pdf" target="_blank">Kachelreiss</a>, Quantum Field Theory: Lecture Notes</li>
-<li><a href="http://www.cns.gatech.edu/FieldTheory/" target="_blank">Cvitanovic</a>, Field Theory</li>
-<li><a href="http://web.physics.ucsb.edu/~mark/qft.html" target="_blank">Srednicki</a>, Quantum Field Theory</li>
-<li><a href="http://www.physics.umd.edu/courses/Phys851/Luty/notes.html" target="_blank">Luty</a>, Physics 851 Notes</li>
-<li><a href="http://arxiv.org/abs/hep-th/9912205" target="_blank">[hep-th/9912205]</a> Fields</li>
-<li><a href="https://www.physics.harvard.edu/events/videos/Phys253" target="_blank">Coleman</a>, Video Lectures for Physics 253a</li>
-<li><a href="http://arxiv.org/abs/1110.5013" target="_blank">[1110.5013]</a> Notes from Sidney Coleman&rsquo;s Physics 253a</li>
-<li><a href="www.sissa.it/tpp/phdsection/download.php?ID=1&amp;filename=QFT_Review_Aug_27_2018.pdf" target="_blank">Serone</a>, Notes on Quantum Field Theory</li>
-<li><a href="http://www-personal.umich.edu/~jbourj/peskin/homework%201-7.pdf" target="_blank">Bourjaily</a>, Symmetry factors</li>
-<li><a href="http://arxiv.org/abs/hep-th/0607239" target="_blank">[0607239]</a> Topics in particle physics and cosmology beyond the standard model</li>
-<li><a href="http://arxiv.org/abs/1308.0025" target="_blank">[1308.0025]</a> Higgs mass naturalness and scale invariance in the UV</li>
-<li><a href="http://einrichtungen.ph.tum.de/T30f/lec/QFT2/RevModPhys.47.849.pdf" target="_blank">Leibrandt</a>, Introduction to the technique of dimensional regularization</li>
-<li><a href="http://www.roma1.infn.it/people/didomenico/roadmap/handbook/05_lehnert.pdf" target="_blank">Lehnert</a>, CPT and Lorentz symmetry breaking</li>
-<li><a href="http://mafurman.lbl.gov/LBNL-53553.pdf" target="_blank">Furman</a>, The Moller Luminosity Factor</li>
-<li><a href="http://www.ippp.dur.ac.uk/~gudrun/teaching/ILC.pdf" target="_blank">Gudrun</a>, Introduction to Loop Calculations</li>
-<li><a href="http://www.maths.dur.ac.uk/~dma0saa/lecture_notes.pdf" target="_blank">Abel</a>, Anomalies course</li>
-</ul>
-
-<h2 id="supersymmetry">Supersymmetry</h2>
-
-<ul>
-<li><a href="http://arxiv.org/abs/hep-ph/0505105" target="_blank">[hep-ph/0505105]</a> Supersymmetry and the MSSM: An Elementary Introduction</li>
-<li><a href="http://arxiv.org/abs/hep-ph/9510287" target="_blank">[hep-ph/9510287] </a>Supersymmetry: Where it is and how to find it</li>
-<li><a href="http://arxiv.org/abs/hep-ph/0108236" target="_blank">[hep-ph/0108236]</a> Supersymmetry Structure and Phenomena</li>
-<li><a href="http://arxiv.org/abs/hep-ph/0012288" target="_blank">[hep-ph/0012288] </a> Beyond the Standard Model (In Search of Supersymmetry)</li>
-<li><a href="http://arxiv.org/abs/hep--ph/9612389" target="_blank">[hep-ph/9612389]</a> Supersymmetry Phenomenology With a Broad Brush</li>
-<li><a href="http://iktp.tu-dresden.de/Lehre/SS2010/SUSY/literatur/sohnius_article.pdf" target="_blank">Sohnius</a>, Introducing Supersymmetry</li>
-<li><a href="http://arxiv.org/abs/hep-ph/9709356" target="_blank">[hep-ph/9709356]</a> A Supersymmetry Primer</li>
-<li><a href="http://arxiv.org/abs/hep-th/0509029" target="_blank">[hep-th/0509029]</a> 2004 TASI Lectures on Supersymmetry Breaking</li>
-<li><a href="http://arxiv.org/abs/hep-ph/9604232" target="_blank">[hep-ph/9604232]</a> Weak-Scale Supersymmetry: Theory and Practice</li>
-<li><a href="http://arxiv.org/abs/hep-th/9612114" target="_blank">[hep-th/9612114]</a> Introduction to Supersymmetry</li>
-<li><a href="http://arxiv.org/abs/hep-ph/9604339" target="_blank">[hep-ph/9604339] </a> The Experimental Investigation of Supersymmetry Breaking</li>
-<li><a href="http://arxiv.org/abs/hep-ph/9611409" target="_blank">[hep-ph/9611409]</a> An Introduction to Supersymmetry</li>
-<li><a href="http://arxiv.org/abs/arXiv:1010.5419" target="_blank">[1010.5419]</a> Supersymmetry on the Run: LHC and Dark Matter</li>
-<li><a href="http://arxiv.org/abs/arXiv:0910.1785" target="_blank">[0910.1785]</a> The Next-to-Minimal Supersymmetric Standard Model</li>
-<li><a href="http://arxiv.org/abs/arXiv:0906.0777" target="_blank">[0906.0777]</a> The Next-to-Minimal Supersymmetric extension of the Standard Model reviewed</li>
-<li><a href="http://arxiv.org/abs/hep-ph/0510419" target="_blank">[hep-ph/0510419]</a> Theory and Phenomenology of an Exceptional Supersymmetric Standard Model</li>
-<li><a href="http://pos.sissa.it/archive/conferences/001/011/corfu98_011.pdf" target="_blank">Cerdeño &amp; Muñoz</a>, An Introduction to Supergravity</li>
-</ul>
-
-<h2 id="ghosts">Ghosts</h2>
-
-<ul>
-<li><a href="http://arxiv.org/abs/1406.4550" target="_blank">[1406.4550]</a> Classical and quantum ghosts</li>
-<li><a href="http://arxiv.org/abs/1209.0583" target="_blank">[1209.0583]</a> Higher derivative theories with constraints : Exorcising Ostrogradski&rsquo;s Ghost</li>
-</ul>
-
-<h2 id="gravitational-waves-from-first-order-phase-transitions">Gravitational waves from first-order phase transitions</h2>
-
-<ul>
-<li><a href="https://arxiv.org/abs/1004.4187" target="_blank">[1004.4187]</a> Energy Budget ofCosmological First-order Phase Transitions</li>
-<li><a href="https://arxiv.org/abs/1705.01783" target="_blank">[1705.01783]</a> Gravitational waves from a first order electroweak phase transition: a brief review</li>
-<li><a href="https://arxiv.org/abs/1206.2942" target="_blank">[1206.2942]</a> Electroweak baryogenesis</li>
-</ul>
-
     </div>
 
     
 
-
     
-      
 
 
 
@@ -715,17 +665,11 @@
 
 
 
-      
-      
-    
-
-    
-
-    
-
 
   </div>
-</article>
+</div>
+
+
 
 <div class="container">
   <footer class="site-footer">
