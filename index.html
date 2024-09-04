@@ -867,16 +867,20 @@
       
     </div>
     <div class="col-12 col-lg-8">
-      <p><script th:inline="javascript">
+      <script th:inline="javascript">
     var maxArticles=8;
     var showAbstract=0;
     var showDates=1;
     var showLinkAll=1;
 </script>
-<script type = "text/javascript" src="./js/arxiv_widget.js"></script>
+
+<script type="text/javascript" src="./js/arxiv_widget.js"></script>
+
 <div class="universal-wrapper">
-<div class="article-style" itemprop="articleBody"><div id="arxivfeed"></div>
-</div></p>
+  <div class="article-style" itemprop="articleBody">
+    <div id="arxivfeed"></div>
+  </div>
+</div>
 
     </div>
   

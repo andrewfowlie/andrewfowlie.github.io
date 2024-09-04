@@ -23,11 +23,13 @@ function processAuthorID() {
 }
 
 // https://stackoverflow.com/a/43733087/2855071
-function setHTML(o, html, clear) {
-    if (clear) o.innerHTML = "";
+function setInnerHtml(o, html, clear) {
+    if (clear) {
+        o.innerHTML = "";
+    }
 
     // Generate a parseable object with the html:
-    var dv = document.createElement("div");
+    let dv = document.createElement("div");
     dv.innerHTML = html;
 
     // Handle edge case where innerHTML contains no tags, just text:
@@ -36,15 +38,16 @@ function setHTML(o, html, clear) {
         return;
     }
 
-    for (var i = 0; i < dv.children.length; i++) {
-        var c = dv.children[i];
+    for (let i = 0; i < dv.children.length; i++) {
+        let c = dv.children[i];
 
         // n: new node with the same type as c
-        var n = document.createElement(c.nodeName);
+        let n = document.createElement(c.nodeName);
 
         // copy all attributes from c to n
-        for (var j = 0; j < c.attributes.length; j++)
+        for (let j = 0; j < c.attributes.length; j++) {
             n.setAttribute(c.attributes[j].nodeName, c.attributes[j].nodeValue);
+        }
 
         // If current node is a leaf, just copy the appropriate property (text or innerHTML)
         if (c.children.length == 0) {
@@ -53,12 +56,14 @@ function setHTML(o, html, clear) {
                     if (c.text) n.text = c.text;
                     break;
                 default:
-                    if (c.innerHTML) n.innerHTML = c.innerHTML;
+                    if (c.innerHTML) n.innerHTML = addUrl(c.innerHTML);
                     break;
             }
-        }
         // If current node has sub nodes, call itself recursively:
-        else setHTML(n, c.innerHTML, false);
+        } else {
+            setInnerHtml(n, c.innerHTML, false);
+        }
+
         o.appendChild(n);
     }
 }
@@ -72,6 +77,7 @@ function setHtml(articleHtml) {
     }
 
     html += '<div id="arxivcontainer">\n';
+
     let thisYear = 0;
     let thisMonth = 0;
     let months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
@@ -104,11 +110,11 @@ function setHtml(articleHtml) {
     if (showLinkAll) {
         url = 'preprints';
         html += '<div class="see-all"><a href=' + url + '>';
-        html += '    SEE ALL PREPRINTS';
+        html += '<span>SEE ALL PREPRINTS </span>';
         html += '<i class="fas fa-angle-right"></i></a></div>';
     }
 
-    setHTML(document.getElementById('arxivfeed'), html, true)
+    setInnerHtml(document.getElementById('arxivfeed'), html, true)
 
     MathJax.typesetPromise();
 }
@@ -128,8 +134,8 @@ function json2Html(arxiv_authorid) {
 
 // https://stackoverflow.com/a/48151864/2855071
 function escapeHtml(str) {
-    var div = document.createElement('div');
-    var text = document.createTextNode(str);
+    let div = document.createElement('div');
+    let text = document.createTextNode(str);
     div.appendChild(text);
     return div.innerHTML.replace(/"/g, '&quot;').replace(/'/g, '&#39;');
 }
@@ -186,7 +192,7 @@ function jsonarXivFeed(feed) {
 
         // Now put in the summary
         if (showAbstract != 0) {
-            html += '<div class="card-text">' + addUrl(escapeHtml(snippet.summary)) + '</div>\n';
+            html += '<div class="card-text">' + escapeHtml(snippet.summary) + '</div>\n';
         }
 
         html += '</div>\n </div>\n';
