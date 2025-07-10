@@ -6,15 +6,24 @@
     <description>Recent content in Recent &amp; Upcoming Talks on Andrew Fowlie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2023 Andrew Fowlie</copyright>
+    <copyright>&amp;copy; 2025 Andrew Fowlie</copyright>
     
 	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Fitting — statistical modeling and analysis for physics</title>
+      <link>/talk/tools_2025/</link>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 +0800</pubDate>
+      
+      <guid>/talk/tools_2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Instructional Skills Workshop Mini-Lessons</title>
       <link>/talk/isw_2025/</link>
-      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0800</pubDate>
       
       <guid>/talk/isw_2025/</guid>
       <description></description>
@@ -23,7 +32,7 @@
     <item>
       <title>The Bayes factor surface</title>
       <link>/talk/sz_forum_2024/</link>
-      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0800</pubDate>
       
       <guid>/talk/sz_forum_2024/</guid>
       <description></description>
@@ -32,7 +41,7 @@
     <item>
       <title>Presenting results from experimental searches for new physics</title>
       <link>/talk/cepc_hz_2024/</link>
-      <pubDate>Wed, 23 Oct 2024 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0800</pubDate>
       
       <guid>/talk/cepc_hz_2024/</guid>
       <description></description>
@@ -41,7 +50,7 @@
     <item>
       <title>A cry of distress from Nature? Fine tuning in scientific theories</title>
       <link>/talk/chips_2024/</link>
-      <pubDate>Wed, 09 Oct 2024 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0800</pubDate>
       
       <guid>/talk/chips_2024/</guid>
       <description></description>
@@ -50,7 +59,7 @@
     <item>
       <title>The status of fine-tuning arguments in the CEPC era</title>
       <link>/talk/cepc_2024/</link>
-      <pubDate>Sat, 31 Aug 2024 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0800</pubDate>
       
       <guid>/talk/cepc_2024/</guid>
       <description></description>
@@ -59,7 +68,7 @@
     <item>
       <title>Cosmological phase transitions: From perturbative particle physics to gravitational waves</title>
       <link>/talk/school_re_2024/</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0800</pubDate>
       
       <guid>/talk/school_re_2024/</guid>
       <description></description>
@@ -68,7 +77,7 @@
     <item>
       <title>Testing fundamental theories with global fits</title>
       <link>/talk/duke_2024/</link>
-      <pubDate>Fri, 10 May 2024 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0800</pubDate>
       
       <guid>/talk/duke_2024/</guid>
       <description></description>
@@ -77,7 +86,7 @@
     <item>
       <title>Testing fundamental theories with global fits</title>
       <link>/talk/suda_2024/</link>
-      <pubDate>Fri, 26 Apr 2024 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0800</pubDate>
       
       <guid>/talk/suda_2024/</guid>
       <description></description>
@@ -86,7 +95,7 @@
     <item>
       <title>The Bayes factor surface for searches for new physics</title>
       <link>/talk/nanograv_2024/</link>
-      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0800</pubDate>
       
       <guid>/talk/nanograv_2024/</guid>
       <description></description>
@@ -95,7 +104,7 @@
     <item>
       <title>Origins of parameters in adimensional models</title>
       <link>/talk/fudan_2023/</link>
-      <pubDate>Fri, 20 Oct 2023 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0800</pubDate>
       
       <guid>/talk/fudan_2023/</guid>
       <description></description>
@@ -104,7 +113,7 @@
     <item>
       <title>Origins of parameters in adimensional models</title>
       <link>/talk/xjtlu_seminar_2023/</link>
-      <pubDate>Thu, 28 Sep 2023 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0800</pubDate>
       
       <guid>/talk/xjtlu_seminar_2023/</guid>
       <description></description>
@@ -113,7 +122,7 @@
     <item>
       <title>From first order phase transitions to gravitational waves</title>
       <link>/talk/spcs_2023/</link>
-      <pubDate>Sat, 23 Sep 2023 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0800</pubDate>
       
       <guid>/talk/spcs_2023/</guid>
       <description></description>
@@ -122,7 +131,7 @@
     <item>
       <title>New physics in the garden of forking paths</title>
       <link>/talk/anomalies_2023/</link>
-      <pubDate>Thu, 21 Sep 2023 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 21 Sep 2023 00:00:00 +0800</pubDate>
       
       <guid>/talk/anomalies_2023/</guid>
       <description></description>
@@ -131,7 +140,7 @@
     <item>
       <title>Origins of parameters in adimensional models</title>
       <link>/talk/invariant_maxent_2022/</link>
-      <pubDate>Fri, 07 Jul 2023 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0800</pubDate>
       
       <guid>/talk/invariant_maxent_2022/</guid>
       <description></description>
@@ -140,7 +149,7 @@
     <item>
       <title>Opening up Nested Sampling</title>
       <link>/talk/nested_sampling_maxent_2022/</link>
-      <pubDate>Thu, 06 Jul 2023 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0800</pubDate>
       
       <guid>/talk/nested_sampling_maxent_2022/</guid>
       <description></description>
@@ -149,7 +158,7 @@
     <item>
       <title>Origins of parameters in adimensional models</title>
       <link>/talk/hangzhou_2023/</link>
-      <pubDate>Fri, 02 Jun 2023 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0800</pubDate>
       
       <guid>/talk/hangzhou_2023/</guid>
       <description></description>
@@ -158,7 +167,7 @@
     <item>
       <title>Origins of parameters in adimensional models</title>
       <link>/talk/shandong_2023/</link>
-      <pubDate>Wed, 24 May 2023 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 24 May 2023 00:00:00 +0800</pubDate>
       
       <guid>/talk/shandong_2023/</guid>
       <description></description>
@@ -167,7 +176,7 @@
     <item>
       <title>Herding cats? — Bayesian and frequentist methods and compromises</title>
       <link>/talk/cats_2022/</link>
-      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0800</pubDate>
       
       <guid>/talk/cats_2022/</guid>
       <description></description>
@@ -176,7 +185,7 @@
     <item>
       <title>Nested sampling for frequentist computation: fast estimation of small $p$-values</title>
       <link>/talk/tools_2021/</link>
-      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 +0800</pubDate>
       
       <guid>/talk/tools_2021/</guid>
       <description></description>
@@ -185,7 +194,7 @@
     <item>
       <title>Getting the most out of particle physics experiments</title>
       <link>/talk/nanjing_hadron_2021/</link>
-      <pubDate>Wed, 27 Oct 2021 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 27 Oct 2021 00:00:00 +0800</pubDate>
       
       <guid>/talk/nanjing_hadron_2021/</guid>
       <description></description>
@@ -194,7 +203,7 @@
     <item>
       <title>Nested sampling for frequentist computation: fast estimation of small $p$-values</title>
       <link>/talk/atlas_2021/</link>
-      <pubDate>Thu, 29 Jul 2021 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0800</pubDate>
       
       <guid>/talk/atlas_2021/</guid>
       <description></description>
@@ -203,7 +212,7 @@
     <item>
       <title>Nested sampling for frequentist computation: fast estimation of small $p$-values</title>
       <link>/talk/pmo_2021/</link>
-      <pubDate>Fri, 09 Jul 2021 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 09 Jul 2021 00:00:00 +0800</pubDate>
       
       <guid>/talk/pmo_2021/</guid>
       <description></description>
@@ -212,7 +221,7 @@
     <item>
       <title>Pitfalls in likelihood land</title>
       <link>/talk/reinterp_2021/</link>
-      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0800</pubDate>
       
       <guid>/talk/reinterp_2021/</guid>
       <description></description>
@@ -221,7 +230,7 @@
     <item>
       <title>Evidence for axion-like particles from XENON1T and astrophysical data</title>
       <link>/talk/warsaw_2021/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0800</pubDate>
       
       <guid>/talk/warsaw_2021/</guid>
       <description></description>
@@ -230,7 +239,7 @@
     <item>
       <title>Nested sampling cross-checks using order statistics</title>
       <link>/talk/nuaa_2020/</link>
-      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0800</pubDate>
       
       <guid>/talk/nuaa_2020/</guid>
       <description></description>
@@ -239,7 +248,7 @@
     <item>
       <title>Nested sampling cross-checks using order statistics</title>
       <link>/talk/monash_2020/</link>
-      <pubDate>Tue, 21 Jul 2020 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0800</pubDate>
       
       <guid>/talk/monash_2020/</guid>
       <description></description>
@@ -248,7 +257,7 @@
     <item>
       <title>Nested sampling cross-checks using order statistics</title>
       <link>/talk/cambridge_20/</link>
-      <pubDate>Wed, 15 Jul 2020 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0800</pubDate>
       
       <guid>/talk/cambridge_20/</guid>
       <description></description>
@@ -257,7 +266,7 @@
     <item>
       <title>Strong first-order phase transitions in the NMSSM and methods for finding them</title>
       <link>/talk/shanghai_2019/</link>
-      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0800</pubDate>
       
       <guid>/talk/shanghai_2019/</guid>
       <description></description>
@@ -266,7 +275,7 @@
     <item>
       <title>Combined collider constraints on neutralinos and charginos</title>
       <link>/talk/weihai_2019/</link>
-      <pubDate>Wed, 14 Aug 2019 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0800</pubDate>
       
       <guid>/talk/weihai_2019/</guid>
       <description></description>
@@ -275,7 +284,7 @@
     <item>
       <title>Bayesian and frequentist approaches to discoveries</title>
       <link>/talk/phystat_dm_2019/</link>
-      <pubDate>Wed, 31 Jul 2019 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0800</pubDate>
       
       <guid>/talk/phystat_dm_2019/</guid>
       <description></description>
@@ -284,7 +293,7 @@
     <item>
       <title>Bayesian and frequentist approaches to discoveries</title>
       <link>/talk/epshep_2019/</link>
-      <pubDate>Mon, 15 Jul 2019 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0800</pubDate>
       
       <guid>/talk/epshep_2019/</guid>
       <description></description>
@@ -293,7 +302,7 @@
     <item>
       <title>Bayesian and frequentist approaches to discoveries</title>
       <link>/talk/pascos_2019/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0800</pubDate>
       
       <guid>/talk/pascos_2019/</guid>
       <description></description>
@@ -302,7 +311,7 @@
     <item>
       <title>Bayesian and frequentist approaches to resonance searches</title>
       <link>/talk/tev_2019/</link>
-      <pubDate>Sun, 21 Apr 2019 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 21 Apr 2019 00:00:00 +0800</pubDate>
       
       <guid>/talk/tev_2019/</guid>
       <description></description>
@@ -311,7 +320,7 @@
     <item>
       <title>Bayesian and frequentist approaches to resonance searches</title>
       <link>/talk/nanjing_2019/</link>
-      <pubDate>Wed, 17 Apr 2019 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0800</pubDate>
       
       <guid>/talk/nanjing_2019/</guid>
       <description></description>
@@ -320,7 +329,7 @@
     <item>
       <title>Bayesian and frequentist approaches to resonance searches</title>
       <link>/talk/pmo/</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0800</pubDate>
       
       <guid>/talk/pmo/</guid>
       <description></description>
@@ -329,7 +338,7 @@
     <item>
       <title>Non-parametric uncertainties in the dark matter velocity distribution</title>
       <link>/talk/auckland/</link>
-      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0800</pubDate>
       
       <guid>/talk/auckland/</guid>
       <description></description>
@@ -338,7 +347,7 @@
     <item>
       <title>Statistical Analyses of Higgs- and Z-Portal Dark Matter Models</title>
       <link>/talk/ichep_2018/</link>
-      <pubDate>Fri, 06 Jul 2018 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0800</pubDate>
       
       <guid>/talk/ichep_2018/</guid>
       <description></description>
@@ -347,7 +356,7 @@
     <item>
       <title>Statistical Analyses of Higgs- and Z-Portal Dark Matter Models</title>
       <link>/talk/nanjing_2018/</link>
-      <pubDate>Mon, 25 Jun 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0800</pubDate>
       
       <guid>/talk/nanjing_2018/</guid>
       <description></description>
@@ -356,7 +365,7 @@
     <item>
       <title>Potential applications of machine learning in particle physics</title>
       <link>/talk/gambit_ml/</link>
-      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0800</pubDate>
       
       <guid>/talk/gambit_ml/</guid>
       <description></description>
@@ -365,7 +374,7 @@
     <item>
       <title>Statistical Analyses of Higgs- and Z-Portal Dark Matter Models</title>
       <link>/talk/melbourne_dm/</link>
-      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0800</pubDate>
       
       <guid>/talk/melbourne_dm/</guid>
       <description></description>
@@ -374,7 +383,7 @@
     <item>
       <title>Relative plausibility of scientific theories: WIMP dark matter</title>
       <link>/talk/bayes_dm_portals/</link>
-      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0800</pubDate>
       
       <guid>/talk/bayes_dm_portals/</guid>
       <description></description>
@@ -383,7 +392,7 @@
     <item>
       <title>Halo-independence with quantified maximum entropy at DAMA/LIBRA </title>
       <link>/talk/dm_workshop/</link>
-      <pubDate>Sat, 14 Oct 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 14 Oct 2017 00:00:00 +0800</pubDate>
       
       <guid>/talk/dm_workshop/</guid>
       <description></description>
@@ -392,7 +401,7 @@
     <item>
       <title>Halo-independence with quantified maximum entropy at DAMA/LIBRA </title>
       <link>/talk/dm_ntu/</link>
-      <pubDate>Thu, 12 Oct 2017 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 12 Oct 2017 00:00:00 +0800</pubDate>
       
       <guid>/talk/dm_ntu/</guid>
       <description></description>
@@ -401,7 +410,7 @@
     <item>
       <title>Halo-independence with quantified maximum entropy at DAMA/LIBRA </title>
       <link>/talk/dm_ipmu/</link>
-      <pubDate>Wed, 04 Oct 2017 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 04 Oct 2017 00:00:00 +0800</pubDate>
       
       <guid>/talk/dm_ipmu/</guid>
       <description></description>
@@ -410,7 +419,7 @@
     <item>
       <title>Using Bayes factors to understand anomalies at the LHC</title>
       <link>/talk/bayes_factor/</link>
-      <pubDate>Sat, 30 Sep 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 30 Sep 2017 00:00:00 +0800</pubDate>
       
       <guid>/talk/bayes_factor/</guid>
       <description></description>
@@ -419,7 +428,7 @@
     <item>
       <title>Naturalness of the relaxion mechanism</title>
       <link>/talk/cospa_relaxion/</link>
-      <pubDate>Tue, 29 Nov 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 29 Nov 2016 00:00:00 +0800</pubDate>
       
       <guid>/talk/cospa_relaxion/</guid>
       <description></description>
@@ -428,7 +437,7 @@
     <item>
       <title>Bayesian approach to naturalness</title>
       <link>/talk/bayes_naturalness/</link>
-      <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 24 Nov 2016 00:00:00 +0800</pubDate>
       
       <guid>/talk/bayes_naturalness/</guid>
       <description></description>
@@ -437,7 +446,7 @@
     <item>
       <title>The Jeffreys-Lindley&#39;s paradox</title>
       <link>/talk/jl-paradox/</link>
-      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0800</pubDate>
       
       <guid>/talk/jl-paradox/</guid>
       <description></description>
@@ -446,7 +455,7 @@
     <item>
       <title>Naturalness of the relaxion mechanism</title>
       <link>/talk/susy_relaxion/</link>
-      <pubDate>Thu, 07 Jul 2016 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 07 Jul 2016 00:00:00 +0800</pubDate>
       
       <guid>/talk/susy_relaxion/</guid>
       <description></description>
@@ -455,7 +464,7 @@
     <item>
       <title>Bayesian naturalness of Next-to-Minimal and Minimal Supersymmetric Models</title>
       <link>/talk/susy_bayes/</link>
-      <pubDate>Tue, 05 Jul 2016 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 05 Jul 2016 00:00:00 +0800</pubDate>
       
       <guid>/talk/susy_bayes/</guid>
       <description></description>
@@ -464,7 +473,7 @@
     <item>
       <title>Naturalness of the relaxion mechanism</title>
       <link>/talk/coepp_relaxion/</link>
-      <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Feb 2016 00:00:00 +0800</pubDate>
       
       <guid>/talk/coepp_relaxion/</guid>
       <description></description>
@@ -473,7 +482,7 @@
     <item>
       <title>LHC and beyond in 10 minutes: A quick tour</title>
       <link>/talk/outreach/</link>
-      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0800</pubDate>
       
       <guid>/talk/outreach/</guid>
       <description></description>
@@ -482,7 +491,7 @@
     <item>
       <title>CMSSM vs CNMSSM</title>
       <link>/talk/tallinn_2/</link>
-      <pubDate>Tue, 23 Sep 2014 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 23 Sep 2014 00:00:00 +0800</pubDate>
       
       <guid>/talk/tallinn_2/</guid>
       <description></description>
@@ -491,7 +500,7 @@
     <item>
       <title>Prospects for constrained supersymmetry at $\sqrt{s}=33$ TeV and $\sqrt{s}=100$ TeV proton-proton super-colliders</title>
       <link>/talk/dis_bayes/</link>
-      <pubDate>Tue, 29 Apr 2014 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 29 Apr 2014 00:00:00 +0800</pubDate>
       
       <guid>/talk/dis_bayes/</guid>
       <description></description>
@@ -500,7 +509,7 @@
     <item>
       <title>Bayes vs chi-squared</title>
       <link>/talk/tallinn_1/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0800</pubDate>
       
       <guid>/talk/tallinn_1/</guid>
       <description></description>
@@ -509,7 +518,7 @@
     <item>
       <title>Bayesian Reconstruction of SUSY parameters at $\sqrt{s} = 14\,\text{GeV}$ via the Golden Decay</title>
       <link>/talk/tmex/</link>
-      <pubDate>Sun, 06 Oct 2013 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 06 Oct 2013 00:00:00 +0800</pubDate>
       
       <guid>/talk/tmex/</guid>
       <description></description>
@@ -518,7 +527,7 @@
     <item>
       <title>Status of SUSY after LHC Run I</title>
       <link>/talk/iop_susy/</link>
-      <pubDate>Tue, 09 Apr 2013 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 09 Apr 2013 00:00:00 +0800</pubDate>
       
       <guid>/talk/iop_susy/</guid>
       <description></description>
@@ -527,7 +536,7 @@
     <item>
       <title>The CMSSM Favoring New Territories: The Impact of New LHC Limits and a 125 GeV Higgs</title>
       <link>/talk/oxford/</link>
-      <pubDate>Thu, 22 Nov 2012 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 22 Nov 2012 00:00:00 +0800</pubDate>
       
       <guid>/talk/oxford/</guid>
       <description></description>
@@ -536,7 +545,7 @@
     <item>
       <title>The CMSSM after 2 years of the LHC</title>
       <link>/talk/consort/</link>
-      <pubDate>Mon, 01 Oct 2012 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0800</pubDate>
       
       <guid>/talk/consort/</guid>
       <description></description>
@@ -545,7 +554,7 @@
     <item>
       <title>Bayesian Implications of Current LHC and XENON100 Search Limits for the Constrained MSSM</title>
       <link>/talk/yeti/</link>
-      <pubDate>Tue, 10 Jan 2012 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 10 Jan 2012 00:00:00 +0800</pubDate>
       
       <guid>/talk/yeti/</guid>
       <description></description>
@@ -554,7 +563,7 @@
     <item>
       <title>Bayesian Implications of Current LHC Limits for the Constrained MSSM</title>
       <link>/talk/ytf/</link>
-      <pubDate>Tue, 13 Dec 2011 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Dec 2011 00:00:00 +0800</pubDate>
       
       <guid>/talk/ytf/</guid>
       <description></description>
@@ -563,7 +572,7 @@
     <item>
       <title>Supersymmetry and the LHC: A Bayesian Approach</title>
       <link>/talk/sheffield/</link>
-      <pubDate>Sat, 01 Oct 2011 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0800</pubDate>
       
       <guid>/talk/sheffield/</guid>
       <description></description>

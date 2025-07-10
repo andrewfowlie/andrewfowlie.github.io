@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="We explore the origins of parameters in adimensional theories -- fundamental theories with no classical massive scales. If the parameters originate as draws from a distribution, it should be possible to write a distribution for them that doesn&#39;t depend on or introduce any massive scales. These distributions are the invariant distributions for the renormalization group (RG). If there exist RG invariant combinations of parameters, the RG invariant distributions are specified up to arbitrary functions of the RG invariants. If such distributions can be constructed, adimensional theories could predict the values of their parameters through distributions that are constrained by the RG. If they can&#39;t be constructed, the parameters must originate in a different way. We demonstrate the RG invariant distributions in QCD, the Coleman-Weinberg model and a totally asymptotically free theory. ">
+  <meta name="description" content="I review aspects of statistical modeling and analysis, taking a pedagogical approach based on  [Lindley &amp; Phillips (1976)](https://www.jstor.org/stable/2683855). We tackle the problem using Markov Chain Monte Carlo tools, including `emcee`, `numpyro` and `pymc`.">
 
   
-  <link rel="alternate" hreflang="en-us" href="../../talk/hangzhou_2023/">
+  <link rel="alternate" hreflang="en-us" href="../../talk/tools_2025/">
 
   
 
@@ -106,7 +106,7 @@
   <link rel="icon" type="image/png" href="../../img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="../../img/icon-192.png">
 
-  <link rel="canonical" href="../../talk/hangzhou_2023/">
+  <link rel="canonical" href="../../talk/tools_2025/">
 
   
   
@@ -118,21 +118,21 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Andrew Fowlie">
-  <meta property="og:url" content="/talk/hangzhou_2023/">
-  <meta property="og:title" content="Origins of parameters in adimensional models | Andrew Fowlie">
-  <meta property="og:description" content="We explore the origins of parameters in adimensional theories -- fundamental theories with no classical massive scales. If the parameters originate as draws from a distribution, it should be possible to write a distribution for them that doesn&#39;t depend on or introduce any massive scales. These distributions are the invariant distributions for the renormalization group (RG). If there exist RG invariant combinations of parameters, the RG invariant distributions are specified up to arbitrary functions of the RG invariants. If such distributions can be constructed, adimensional theories could predict the values of their parameters through distributions that are constrained by the RG. If they can&#39;t be constructed, the parameters must originate in a different way. We demonstrate the RG invariant distributions in QCD, the Coleman-Weinberg model and a totally asymptotically free theory. "><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:url" content="/talk/tools_2025/">
+  <meta property="og:title" content="Fitting — statistical modeling and analysis for physics | Andrew Fowlie">
+  <meta property="og:description" content="I review aspects of statistical modeling and analysis, taking a pedagogical approach based on  [Lindley &amp; Phillips (1976)](https://www.jstor.org/stable/2683855). We tackle the problem using Markov Chain Monte Carlo tools, including `emcee`, `numpyro` and `pymc`."><meta property="og:image" content="/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2023-06-02T00:00:00&#43;08:00">
+  <meta property="article:published_time" content="2025-07-03T00:00:00&#43;08:00">
   
-  <meta property="article:modified_time" content="2023-09-28T13:40:38&#43;08:00">
-  
-
+  <meta property="article:modified_time" content="2025-07-10T10:35:24&#43;08:00">
   
 
   
 
-  <title>Origins of parameters in adimensional models | Andrew Fowlie</title>
+  
+
+  <title>Fitting — statistical modeling and analysis for physics | Andrew Fowlie</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -388,7 +388,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">Origins of parameters in adimensional models</h1>
+  <h1 itemprop="name">Fitting — statistical modeling and analysis for physics</h1>
 
   
 
@@ -397,8 +397,8 @@
 
 
 
-<meta content="2023-06-02 00:00:00 &#43;0800 CST" itemprop="datePublished">
-<meta content="2023-09-28 13:40:38 &#43;0800 CST" itemprop="dateModified">
+<meta content="2025-07-03 00:00:00 &#43;0800 CST" itemprop="datePublished">
+<meta content="2025-07-10 10:35:24 &#43;0800 CST" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -440,47 +440,6 @@
 
 
 
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1" href="../../talks/hangzhou_2023.pdf" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-
-
-
-
-</div>
-
 
   
 </div>
@@ -491,7 +450,7 @@
 
     
       <h3>Abstract</h3>
-      <p class="pub-abstract" itemprop="text">We explore the origins of parameters in adimensional theories &ndash; fundamental theories with no classical massive scales. If the parameters originate as draws from a distribution, it should be possible to write a distribution for them that doesn&rsquo;t depend on or introduce any massive scales. These distributions are the invariant distributions for the renormalization group (RG). If there exist RG invariant combinations of parameters, the RG invariant distributions are specified up to arbitrary functions of the RG invariants. If such distributions can be constructed, adimensional theories could predict the values of their parameters through distributions that are constrained by the RG. If they can&rsquo;t be constructed, the parameters must originate in a different way. We demonstrate the RG invariant distributions in QCD, the Coleman-Weinberg model and a totally asymptotically free theory.</p>
+      <p class="pub-abstract" itemprop="text">I review aspects of statistical modeling and analysis, taking a pedagogical approach based on  <a href="https://www.jstor.org/stable/2683855" target="_blank">Lindley &amp; Phillips (1976)</a>. We tackle the problem using Markov Chain Monte Carlo tools, including <code>emcee</code>, <code>numpyro</code> and <code>pymc</code>.</p>
     
 
     <div class="row">
@@ -501,7 +460,7 @@
           <div class="col-12 col-md-3 pub-row-heading">Date</div>
           <div class="col-12 col-md-9" itemprop="datePublished">
             
-            Jun 2, 2023
+            Jul 3, 2025
             <div class="talk-time">
               
                  
@@ -521,9 +480,9 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Event</div>
           <div class="col-12 col-md-9">
-            
-            
-            
+            <a href="https://indico.itp.ac.cn/event/337/" target="_blank" rel="noopener">
+            Third New Physical Numerical Numerical Computing and Simulation Frontier Workshop
+            </a>
           </div>
         </div>
       </div>
@@ -537,7 +496,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Location</div>
-          <div class="col-12 col-md-9">Zhejiang University</div>
+          <div class="col-12 col-md-9">Xinxiang</div>
         </div>
       </div>
       <div class="col-md-1"></div>
