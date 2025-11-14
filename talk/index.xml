@@ -587,5 +587,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title></title>
+      <link>/talk/talkmap/map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/talkmap/map/</guid>
+      <description>Leaflet debug page       Mouse over a cluster to see the bounds of its children and click a cluster to zoom to those bounds var tiles = L.tileLayer(&#39;http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}&#39;, { maxZoom: 18, attribution: &#39;Tiles &amp;copy; Esri &amp;mdash; Source: Esri, DeLorme, NAVTEQ, USGS, Intermap, iPC, NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, 2012&#39; }), latlng = L.latLng(30, 10); var map = L.</description>
+    </item>
+    
   </channel>
 </rss>
