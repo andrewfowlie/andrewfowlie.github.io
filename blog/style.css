@@ -57,7 +57,7 @@ h1 {
 }
 
 h1::after {
-  font-size: 2rem;
+  font-size: 3rem;
   content: '|';
   font-family: 'Fira Code', monospace;
   color: #4ecca3;

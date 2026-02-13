@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>/home/andrew$</title><link>http://andrew-fowlie.github.io/blog/index.html</link>
 <description>Some thoughts on physics, statistics, computing & technology</description><language>en</language>
-<lastBuildDate>Fri, 13 Feb 2026 14:48:49 +0800</lastBuildDate>
-<pubDate>Fri, 13 Feb 2026 14:48:49 +0800</pubDate>
+<lastBuildDate>Fri, 13 Feb 2026 14:54:57 +0800</lastBuildDate>
+<pubDate>Fri, 13 Feb 2026 14:54:57 +0800</pubDate>
 <atom:link href="http://andrew-fowlie.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Title on this line
@@ -11,6 +11,9 @@ Title on this line
 
 <p>The rest of the text file is an <b>html</b> blog post. The process will continue as soon
 as you exit your editor.</p>
+
+
+
 
 
 
