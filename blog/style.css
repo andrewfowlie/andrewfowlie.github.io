@@ -1,0 +1,72 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap');
+
+body {
+  font-family: 'Lora', serif; 
+  margin: 2em auto;
+  width: 80%;
+  font-style: normal;
+  font-size: 1.5em;
+}
+
+h1, h2, h3, h4, h5, h6, #all_posts {
+  font-weight: bold;
+}
+
+h3 {
+ font-size: 2rem;
+}
+
+.subtitle, #description {
+  font-style: italic;
+}
+
+
+a {
+  color: #0072C6;  
+  text-decoration: none;
+}
+
+
+#all_posts {
+  background: #f6f6f6;
+  padding: 0.75em 1em;
+  border-radius: 0 0 8px 8px;
+  box-shadow: 0 2px 8px rgba(76, 204, 163, 0.04);  
+  text-align: center;
+  display: flex;
+  align-items: center;        
+  justify-content: center;  
+  min-height: 60px;          
+  letter-spacing: 0.03em;
+}
+
+h1 {
+  font-family: 'Fira Code',sans-serif;
+  font-size: 3rem;
+  font-weight: bold;
+  color: #4ecca3;
+  background: #222831;
+  padding: 0.75em 1em;
+  border-radius: 8px 8px 0 0;
+  text-align: center;
+  letter-spacing: 0.03em;
+  box-shadow: 0 2px 8px rgba(76, 204, 163, 0.08); 
+
+}
+
+h1::after {
+  font-size: 2rem;
+  content: '|';
+  font-family: 'Fira Code', monospace;
+  color: #4ecca3;
+  animation: blink 1s steps(1) infinite;
+}
+
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+
