@@ -30,6 +30,7 @@ a {
 
 pre, code, .copy-to-clipboard-button {
   font-family: 'Fira Code', monospace !important;
+  font-size: 0.75em;
 }
 
 #all_posts {
@@ -72,5 +73,10 @@ h1::after {
   50% { opacity: 0; }
 }
 
-
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
