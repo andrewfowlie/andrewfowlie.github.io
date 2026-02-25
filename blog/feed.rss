@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>/home/andrew$</title><link>https://andrewfowlie.github.io/blog/index.html</link>
 <description>Some thoughts on physics, statistics, computing & technology</description><language>en</language>
-<lastBuildDate>Fri, 13 Feb 2026 16:36:54 +0800</lastBuildDate>
-<pubDate>Fri, 13 Feb 2026 16:36:54 +0800</pubDate>
+<lastBuildDate>Wed, 25 Feb 2026 11:27:41 +0800</lastBuildDate>
+<pubDate>Wed, 25 Feb 2026 11:27:41 +0800</pubDate>
 <atom:link href="https://andrewfowlie.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Title on this line
@@ -22,19 +22,22 @@ as you exit your editor.</p>
 
 
 
+
+
+
+
+
+
+
+
+
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/title-on-this-line.html</link>
 <guid>https://andrewfowlie.github.io/blog/./title-on-this-line.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
 <pubDate>Fri, 13 Feb 2026 16:24:39 +0800</pubDate></item>
 <item><title>
-
-
-
-
-
-
-
 Title on this line
 </title><description><![CDATA[
 
@@ -47,8 +50,26 @@ Title on this line
 
 
 
+
 <p>The rest of the text file is an <b>html</b> blog post. The process will continue as soon
 as you exit your editor.</p>
+
+
+<pre class="line-numbers">
+<code class="language-python">
+def test(x):
+    return x  
+</code>
+</pre>
+
+
+
+
+
+
+
+
+
 
 
 
@@ -90,6 +111,6 @@ as you exit your editor.</p>
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/title-on-this-line25058.html</link>
 <guid>https://andrewfowlie.github.io/blog/./title-on-this-line25058.html</guid>
-<dc:creator>John Smith</dc:creator>
+<dc:creator>Andrew Fowlie</dc:creator>
 <pubDate>Fri, 13 Feb 2026 13:37:02 +0800</pubDate></item>
 </channel></rss>

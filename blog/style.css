@@ -28,6 +28,9 @@ a {
   text-decoration: none;
 }
 
+pre, code, .copy-to-clipboard-button {
+  font-family: 'Fira Code', monospace !important;
+}
 
 #all_posts {
   background: #f6f6f6;
