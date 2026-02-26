@@ -1,0 +1,105 @@
+<link rel="stylesheet" href="prism.css">
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<link rel="stylesheet" href="style.css">
+<script src="prism.js"></script>
+<title>/home/andrew$ &mdash; Posts tagged "ai"</title>
+</head><body>
+<div id="divbodyholder">
+<div class="headerholder"><div class="header">
+<div id="title">
+<h1 class="nomargin"><a class="ablack" href="https://andrewfowlie.github.io/blog/index.html">/home/andrew$</a></h1>
+<div id="description">Some thoughts on physics, statistics, computing & technology</div>
+</div></div></div>
+<div id="divbody"><div class="content">
+<h3><a class="ablack" href="curious-trends-in-arxiv-submission-data.html">
+Curious trends in arXiv submission data
+</a></h3>
+<!-- bashblog_timestamp: #202602261321.58# -->
+<div class="subtitle">February 26, 2026 &mdash; 
+Andrew Fowlie
+</div>
+<!-- text begin -->
+
+<p>There was a curious discussion at <a href="https://www.math.columbia.edu/~woit/wordpress/">Peter Woit's blog</a> 
+concerning recent arXiv submission trends.
+It was observed (after some initial confusion) that the number of revisions appeared to 
+have inreased dramatically in the last month or so.</p>
+
+<p>An (AI generated?) analysis confirmed this pattern, available on <a href="https://github.com/sgnoohc/arxiv-submission-analysis">GitHub</a>.
+The data look like this.</p>
+
+<img src="https://github.com/sgnoohc/arxiv-submission-analysis/raw/main/plots/arxiv_hepth_submissions.png" alt="arXiv submission trends" class="center" style="width:70%">
+
+<p>What causes that surge in revisions (red) versus posts (blue)? This recent trend appears in all arXiv categories. They speculate that authors are submitting revisions using generative AI tools. I'm naturally skeptical, so thought 
+I'd at least build a statistical model of what this plot might look like, assuming nothing but a stationary process.</p>
+
+<p> So I did. I took submissions per month to be about 250
+$$
+n \sim \textrm{Po}(250)
+$$ 
+and assumed that authors posted a revision upon publication to match the published version, about six months later,
+$$
+d \sim \textrm{Po}(6)
+$$
+What do you know?</p>
+
+<img src="arxiv.png" alt="arXiv submission trends" class="center" style="width:70%">
+
+<p>In the current month (here month 60), you see the first submissions (that haven't been replaced yet) and revisions (from papers from previous months). In past months, you only see 
+revisions, as the first submissions are later replaced.</p> 
+
+<p>This was an Interesting example of a stationary process produces a mirage of non-stationary behaviour (a surge in the current month). The explanation about AI 
+revisions is unwarranted. On the other hand, there is almost certainly non-stationary behavior, as e.g., the number of academics has increased over time.</p>
+
+<p>Don't take my word for it, of course. Run it yourself. I'd love to see a principled Bayesian analysis that constructed a principled model and fitted it to the actual data.</p>
+<pre class="line-numbers">
+<code class="language-python">
+"""
+arXiv submission patterns
+=========================
+"""
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+rate_per_month = 250
+publication_time_months = 6
+end_month = 60  # 5 years
+
+
+def simulate():
+
+    # make papers
+    initial = []
+    for i in range(end_month):
+        initial += np.random.poisson(rate_per_month) * [i]
+
+    # now post a new version after publication about some time later
+    published = [a + np.random.poisson(publication_time_months)
+                 for a in initial]
+
+    # final update before end of simulation
+    final = [b if b <= end_month else a for a, b in zip(initial, published)]
+
+    return initial, final
+
+
+if __name__ == "__main__":
+
+    initial, final = simulate()
+
+    plt.hist(initial, label="Initial submission month")
+    plt.hist(final, label="Final submission month")
+    plt.legend()
+    plt.xlabel("Month")
+    plt.ylabel("Papers")
+    plt.savefig("arxiv.png")
+</code>
+</pre>
+<p>Tags: <a href='tag_code.html'>code</a>, <a href='tag_ai.html'>ai</a>, <a href='tag_arxiv.html'>arxiv</a>, <a href='tag_statistics.html'>statistics</a></p>
+
+
+<!-- text end -->
+</div>
+</div></div>
+</body></html>
