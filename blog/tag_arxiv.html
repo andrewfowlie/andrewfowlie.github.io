@@ -88,8 +88,8 @@ if __name__ == "__main__":
 
     initial, final = simulate()
 
-    plt.hist(initial, label="Initial submission month")
-    plt.hist(final, label="Final submission month")
+    plt.hist(initial, bins=end_month, range=(0, end_month), label="Initial submission month")
+    plt.hist(final, bins=end_month, range=(0, end_month), histtype="step", label="Final submission month")
     plt.legend()
     plt.xlabel("Month")
     plt.ylabel("Papers")
@@ -97,6 +97,7 @@ if __name__ == "__main__":
 </code>
 </pre>
 <p>Tags: <a href='tag_code.html'>code</a>, <a href='tag_ai.html'>ai</a>, <a href='tag_arxiv.html'>arxiv</a>, <a href='tag_statistics.html'>statistics</a></p>
+
 
 
 <!-- text end -->
