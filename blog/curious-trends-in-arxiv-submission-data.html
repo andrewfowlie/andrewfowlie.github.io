@@ -24,15 +24,15 @@ Andrew Fowlie
 <p>There was a curious discussion at <a href="https://www.math.columbia.edu/~woit/wordpress/">Peter Woit's blog</a> 
 concerning recent arXiv submission trends.
 It was observed (after some initial confusion) that the number of revisions appeared to 
-have inreased dramatically in the last month or so.</p>
+have increased dramatically in the last month or so.</p>
 
-<p>An (AI generated?) analysis confirmed this pattern, available on <a href="https://github.com/sgnoohc/arxiv-submission-analysis">GitHub</a>.
+<p>An (AI generated) analysis, available on <a href="https://github.com/sgnoohc/arxiv-submission-analysis">GitHub</a>, confirmed this pattern.
 The data look like this.</p>
 
 <img src="https://github.com/sgnoohc/arxiv-submission-analysis/raw/main/plots/arxiv_hepth_submissions.png" alt="arXiv submission trends" class="center" style="width:70%">
 
-<p>What causes that surge in revisions (red) versus posts (blue)? This recent trend appears in all arXiv categories. They speculate that authors are submitting revisions using generative AI tools. I'm naturally skeptical, so thought 
-I'd at least build a statistical model of what this plot might look like, assuming nothing but a stationary process.</p>
+<p>What causes that surge in revisions (red) versus posts (blue)? This recent trend appears in all arXiv categories. The AI declares that it is a real trend and speculates that authors are submitting revisions using generative AI tools. I'm naturally skeptical, so thought 
+someone should least build a statistical model of what this plot might look like, assuming nothing but a stationary process.</p>
 
 <p> So I did. I took submissions per month to be about 250
 $$
@@ -49,10 +49,11 @@ What do you know?</p>
 <p>In the current month (here month 60), you see the first submissions (that haven't been replaced yet) and revisions (from papers from previous months). In past months, you only see 
 revisions, as the first submissions are later replaced.</p> 
 
-<p>This was an interesting example of a stationary process produces a mirage of non-stationary behaviour (a surge in the current month). The explanation about AI 
-revisions is unwarranted. On the other hand, there is almost certainly non-stationary behavior, as e.g., the number of academics has increased over time.</p>
+<p>This was an interesting example of a stationary that process produces a mirage of non-stationary behaviour (a surge in the current month). The explanation about AI 
+revisions is unwarranted. On the other hand, there is almost certainly non-stationary behavior in the dataset, as, e.g., the number of academics has increased over time.</p>
 
-<p>Don't take my word for it, of course. Run it yourself. I'd love to see a principled Bayesian analysis that constructed a principled model and fitted it to the actual data.</p>
+<p>Don't take my word for it, of course. Run it yourself. I'd love to see a Bayesian analysis that constructed a principled model and fitted it to the actual data.</p>
+
 <pre class="line-numbers">
 <code class="language-python">
 """
@@ -73,9 +74,9 @@ def simulate():
     # make papers
     initial = []
     for i in range(end_month):
-        initial += np.random.poisson(rate_per_month) * [i]
+        initial += np.random.poisson(rate_per_month) * [i + 1]
 
-    # now post a new version after publication about some time later
+    # now post a new version after publication some time later
     published = [a + np.random.poisson(publication_time_months)
                  for a in initial]
 
@@ -89,18 +90,18 @@ if __name__ == "__main__":
 
     initial, final = simulate()
 
-    plt.hist(initial, bins=end_month, range=(0, end_month), label="Initial submission month")
-    plt.hist(final, bins=end_month, range=(0, end_month), histtype="step", label="Final submission month")
+    bins = np.arange(0.5, end_month + 1, 1)
+
+    plt.hist(initial, bins=bins, label="Initial submission month")
+    plt.hist(final, bins=bins, histtype="step", label="Final submission month")
     plt.legend()
     plt.xlabel("Month")
     plt.ylabel("Papers")
     plt.savefig("arxiv.png")
 </code>
 </pre>
+
 <p>Tags: <a href='tag_code.html'>code</a>, <a href='tag_ai.html'>ai</a>, <a href='tag_arxiv.html'>arxiv</a>, <a href='tag_statistics.html'>statistics</a></p>
-
-
-
 
 <!-- text end -->
 <!-- entry end -->
