@@ -2,49 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>/home/andrew$</title><link>https://andrewfowlie.github.io/blog/index.html</link>
 <description>Some thoughts on physics, statistics, computing & technology</description><language>en</language>
-<lastBuildDate>Mon, 02 Mar 2026 15:49:54 +0800</lastBuildDate>
-<pubDate>Mon, 02 Mar 2026 15:49:54 +0800</pubDate>
+<lastBuildDate>Wed, 04 Mar 2026 11:40:54 +0800</lastBuildDate>
+<pubDate>Wed, 04 Mar 2026 11:40:54 +0800</pubDate>
 <atom:link href="https://andrewfowlie.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
-The Church of Reason
+Delving into focal words on inSPIRE HEP
 </title><description><![CDATA[
 
-<p>Reading Zen and the Art of Motorcycle Maintenance. I didn't expect so much relevance to academia (though new little about the book):</p>
+<p>You've probably noticed that large language models (LLMs) have favourite words that they use more often than human writers. These are known as focal words and the phenomena of focal words is non-trivial. <a href="https://arxiv.org/abs/2412.11385v1">2412.11385</a> 
+  call it 'the puzzle of lexical overrepresentation'.</p>
 
-<blockquote>
-<p>
-The real University is not a material object. It is not a group of buildings that can be defended by
-police. He explained that when a college lost its accreditation, nobody came
-and shut down the school. There were no legal penalties, no fines, no jail
-sentences. Classes did not stop. Everything went on just as before. Students
-got the same education they would if the school didn’t lose its accreditation.
-All that would happen, Phaedrus said, would simply be an official recognition
-of a condition that already existed. It would be similar to excommunication.
-What would happen is that the real University, which no legislature can
-dictate to and which can never be identified by any location of bricks or
-boards or glass, would simply declare that this place was no longer “holy
-ground.” The real University would vanish from it, and all that would be left
-was the bricks and the books and the material manifestation &hellip;
-</p>
-<p>
-The real University, he said, has no specific location. It owns no property,
-pays no salaries and receives no material dues. The real University is a state
-of mind. It is that great heritage of rational thought that has been brought
-down to us through the centuries and which does not exist at any specific
-location. It’s a state of mind which is regenerated throughout the centuries
-by a body of people who traditionally carry the title of professor, but even
-that title is not part of the real University. The real University is nothing
-less than the continuing body of reason itself.
-</p>
-</blockquote>
+<p>I thought I'd check out the appearance of a focal word in the high-energy physics literature by querying the inSPIRE HEP database. I use the 'fulltext' search and looked at the word 'delve'. I think this does some kind of stemming so that, e.g., 'delve' also matches 'delving'. 
+I normalized the results to the total number of papers per year. The results are:</p>
 
-<p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_academic.html'>academic</a>, <a href='tag_philosophy.html'>philosophy</a></p>
+<img src="delve.png" alt="Frequency of word delve" class="center" style="width:90%">
+
+<p>Of course, authors could be influenced by LLMs or imitating 'good' writing produced by LLMs. I don't know much about this field. Make of it what you will.</p>
+
+<p>I can understand the spike, but I'm not sure why it decreased back down in 2025. Perhaps LLMs have evolved and 'delve' isn't such a common focal word anymore? Perhaps writers are conscious about hallmarks of LLMs in their work and edit instances of 'delve'? Perhaps 'delve' was a buzzword
+that entered popular consciousness because of LLMs?</p>
+
+<p>Tags: <a href='tag_ai.html'>ai</a>, <a href='tag_academia.html'>academia</a></p>
 
 <!-- text end -->
-]]></description><link>https://andrewfowlie.github.io/blog/the-church-of-reason.html</link>
-<guid>https://andrewfowlie.github.io/blog/./the-church-of-reason.html</guid>
+]]></description><link>https://andrewfowlie.github.io/blog/delving-into-focal-words-on-inspire-hep.html</link>
+<guid>https://andrewfowlie.github.io/blog/./delving-into-focal-words-on-inspire-hep.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Mon, 02 Mar 2026 15:45:10 +0800</pubDate></item>
+<pubDate>Wed, 04 Mar 2026 11:31:43 +0800</pubDate></item>
 <item><title>
 Curious trends in arXiv submission data
 </title><description><![CDATA[
@@ -136,7 +120,47 @@ if __name__ == "__main__":
 ]]></description><link>https://andrewfowlie.github.io/blog/curious-trends-in-arxiv-submission-data.html</link>
 <guid>https://andrewfowlie.github.io/blog/./curious-trends-in-arxiv-submission-data.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Thu, 26 Feb 2026 13:21:58 +0800</pubDate></item>
+<pubDate>Wed, 04 Mar 2026 09:32:23 +0800</pubDate></item>
+<item><title>
+The Church of Reason
+</title><description><![CDATA[
+
+<p>Reading Zen and the Art of Motorcycle Maintenance. I didn't expect so much relevance to academia (though new little about the book):</p>
+
+<blockquote>
+<p>
+The real University is not a material object. It is not a group of buildings that can be defended by
+police. He explained that when a college lost its accreditation, nobody came
+and shut down the school. There were no legal penalties, no fines, no jail
+sentences. Classes did not stop. Everything went on just as before. Students
+got the same education they would if the school didn’t lose its accreditation.
+All that would happen, Phaedrus said, would simply be an official recognition
+of a condition that already existed. It would be similar to excommunication.
+What would happen is that the real University, which no legislature can
+dictate to and which can never be identified by any location of bricks or
+boards or glass, would simply declare that this place was no longer “holy
+ground.” The real University would vanish from it, and all that would be left
+was the bricks and the books and the material manifestation &hellip;
+</p>
+<p>
+The real University, he said, has no specific location. It owns no property,
+pays no salaries and receives no material dues. The real University is a state
+of mind. It is that great heritage of rational thought that has been brought
+down to us through the centuries and which does not exist at any specific
+location. It’s a state of mind which is regenerated throughout the centuries
+by a body of people who traditionally carry the title of professor, but even
+that title is not part of the real University. The real University is nothing
+less than the continuing body of reason itself.
+</p>
+</blockquote>
+
+<p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_academic.html'>academic</a>, <a href='tag_philosophy.html'>philosophy</a></p>
+
+<!-- text end -->
+]]></description><link>https://andrewfowlie.github.io/blog/the-church-of-reason.html</link>
+<guid>https://andrewfowlie.github.io/blog/./the-church-of-reason.html</guid>
+<dc:creator>Andrew Fowlie</dc:creator>
+<pubDate>Mon, 02 Mar 2026 15:45:10 +0800</pubDate></item>
 <item><title>
 mp3 player
 </title><description><![CDATA[
