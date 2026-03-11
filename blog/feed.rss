@@ -2,9 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>/home/andrew$</title><link>https://andrewfowlie.github.io/blog/index.html</link>
 <description>Some thoughts on physics, statistics, computing & technology</description><language>en</language>
-<lastBuildDate>Wed, 04 Mar 2026 11:40:54 +0800</lastBuildDate>
-<pubDate>Wed, 04 Mar 2026 11:40:54 +0800</pubDate>
+<lastBuildDate>Wed, 11 Mar 2026 16:30:47 +0800</lastBuildDate>
+<pubDate>Wed, 11 Mar 2026 16:30:47 +0800</pubDate>
 <atom:link href="https://andrewfowlie.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Be still my beating Hearts...
+</title><description><![CDATA[
+
+<p>Some people say that to find out which football team you should support, you should take a ruler and a map, and find the closest professional club to your place of birth. If I did that, I think I'd get Hearts or Hibs. I've always found the name Heart of Midlothian alluring and charming,
+  and unusually celebral for a football club, being named after a Walter Scott novel.</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/en/6/61/Heart_of_Midlothian_FC_logo.svg" class="center"></img>
+
+<p>Now that I've shown you my credentials, I can say that I am thoroughly enjoying the title race for the Sottish Premier League and hoping that Hearts can win. I don't have them as favourites; I'm worried about Celtic's know-how in getting over the line.
+  I think it might go down to the final round, perhaps
+even the final kick.</p>
+
+<p>Tags: <a href='tag_football.html'>football</a></p>
+
+<!-- text end -->
+]]></description><link>https://andrewfowlie.github.io/blog/be-still-my-beating-hearts.html</link>
+<guid>https://andrewfowlie.github.io/blog/./be-still-my-beating-hearts.html</guid>
+<dc:creator>Andrew Fowlie</dc:creator>
+<pubDate>Wed, 11 Mar 2026 16:26:45 +0800</pubDate></item>
 <item><title>
 Delving into focal words on inSPIRE HEP
 </title><description><![CDATA[
@@ -23,6 +43,7 @@ I normalized the results to the total number of papers per year. The results are
 that entered popular consciousness because of LLMs?</p>
 
 <p>Tags: <a href='tag_ai.html'>ai</a>, <a href='tag_academia.html'>academia</a></p>
+
 
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/delving-into-focal-words-on-inspire-hep.html</link>
@@ -116,6 +137,7 @@ if __name__ == "__main__":
 <p>Tags: <a href='tag_code.html'>code</a>, <a href='tag_ai.html'>ai</a>, <a href='tag_arxiv.html'>arxiv</a>, <a href='tag_statistics.html'>statistics</a></p>
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/curious-trends-in-arxiv-submission-data.html</link>
 <guid>https://andrewfowlie.github.io/blog/./curious-trends-in-arxiv-submission-data.html</guid>
@@ -155,6 +177,7 @@ less than the continuing body of reason itself.
 </blockquote>
 
 <p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_academic.html'>academic</a>, <a href='tag_philosophy.html'>philosophy</a></p>
+
 
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/the-church-of-reason.html</link>
@@ -489,6 +512,7 @@ if __name__ == "__main__":
 
 
 <p>Tags: <a href='tag_mp3.html'>mp3</a>, <a href='tag_smartphone.html'>smartphone</a>, <a href='tag_podcasts.html'>podcasts</a>, <a href='tag_code.html'>code</a></p>
+
 
 
 
