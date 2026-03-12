@@ -2,9 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>/home/andrew$</title><link>https://andrewfowlie.github.io/blog/index.html</link>
 <description>Some thoughts on physics, statistics, computing & technology</description><language>en</language>
-<lastBuildDate>Wed, 11 Mar 2026 16:30:47 +0800</lastBuildDate>
-<pubDate>Wed, 11 Mar 2026 16:30:47 +0800</pubDate>
+<lastBuildDate>Thu, 12 Mar 2026 10:20:26 +0800</lastBuildDate>
+<pubDate>Thu, 12 Mar 2026 10:20:26 +0800</pubDate>
 <atom:link href="https://andrewfowlie.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Do you do AI?
+</title><description><![CDATA[
+
+<p>Do you do AI and machine learning? I am an academic and get asked this question; but I am never sure how to answer and so perhaps answer rather hesitantly and mumble. I thought I'd write an answer here instead.</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png" class="center"></img>
+
+<p>Besides physics, my interests for over a decade have included the foundations of statistics, the foundations of science, statistical computation and computing & technology. That started perhaps as early as my Ph.D - where I applied Bayesian methods to models in particle physics - or perhaps as early as my
+undergraduate degree - where I thought about applying crude Markov Chain Monte Carlo algorithms to a simplified supersymmetric model - or perhaps as early as high-school - where a maths teacher ran a Monte Carlo simulation over the course of an hour, in real-time, to demonstrate the 
+central limit theorem - or maybe primary school - where I remember puzzling about the probability of outcomes of a football match (two teams; 50-50? but surely not. A paradox to me then.)</p>
+
+<p>Yes, then, I am interested in AI and machine learning, and have many questions surrounding it. Regarding my more philosophical interests in the foundations of science and statistics, e.g., what are the foundational principles of AI and machine learning? Is it truly a novel way of learning from data? Why is it so focused on prediction versus inference? Is that what distinguishses it from other
+fields? Is it a new field or an intersection of existing ones?</p>
+
+<p>On the computational side, can machine-learning methods improve on traditional methods of statistical computation? What should be their relationship to e.g. MCMC? Should they replace it? or operate as a subalgorithm for efficient proposals? Do machine learning methods for e.g., density estimation, truly evade the curse of dimensionality? If not how does it manifest?</p>
+
+<p>On a more technical and personal level, e.g., do I understand modern neutral network architectures and attention transformers? Is there a simple 
+statistical model that demonstrates double descent? Do I grok LLMs? (Do I grok how a calculator works!? If not why do I expect to grok LLMs?)</p>
+
+<p>On a political or sociological level, e.g., are LLMs a 'good thing'? Do we have a choice about the way technology impacts society and our future? What do we want our relationship with AI to be?</p>
+
+<p>Is this what anyone wanted to hear? No. I'm rather afraid that it isn't. I've found that the question really means, have you embraced AI and machine learning? Are you part of an AI maximalist future where we press buttons and boost productivity?
+Which is why I mumble. 
+</p>
+
+
+<p>Tags: <a href='tag_AI<D-;>.html'>AI<D-;></a></p>
+
+
+<!-- text end -->
+]]></description><link>https://andrewfowlie.github.io/blog/do-you-do-ai.html</link>
+<guid>https://andrewfowlie.github.io/blog/./do-you-do-ai.html</guid>
+<dc:creator>Andrew Fowlie</dc:creator>
+<pubDate>Thu, 12 Mar 2026 10:04:17 +0800</pubDate></item>
 <item><title>
 Be still my beating Hearts...
 </title><description><![CDATA[
@@ -19,6 +54,7 @@ Be still my beating Hearts...
 even the final kick.</p>
 
 <p>Tags: <a href='tag_football.html'>football</a></p>
+
 
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/be-still-my-beating-hearts.html</link>
@@ -43,6 +79,7 @@ I normalized the results to the total number of papers per year. The results are
 that entered popular consciousness because of LLMs?</p>
 
 <p>Tags: <a href='tag_ai.html'>ai</a>, <a href='tag_academia.html'>academia</a></p>
+
 
 
 <!-- text end -->
@@ -138,6 +175,7 @@ if __name__ == "__main__":
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/curious-trends-in-arxiv-submission-data.html</link>
 <guid>https://andrewfowlie.github.io/blog/./curious-trends-in-arxiv-submission-data.html</guid>
@@ -177,6 +215,7 @@ less than the continuing body of reason itself.
 </blockquote>
 
 <p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_academic.html'>academic</a>, <a href='tag_philosophy.html'>philosophy</a></p>
+
 
 
 <!-- text end -->
@@ -512,6 +551,7 @@ if __name__ == "__main__":
 
 
 <p>Tags: <a href='tag_mp3.html'>mp3</a>, <a href='tag_smartphone.html'>smartphone</a>, <a href='tag_podcasts.html'>podcasts</a>, <a href='tag_code.html'>code</a></p>
+
 
 
 
