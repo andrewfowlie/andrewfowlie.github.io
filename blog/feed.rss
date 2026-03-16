@@ -2,9 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>/home/andrew$</title><link>https://andrewfowlie.github.io/blog/index.html</link>
 <description>Some thoughts on physics, statistics, computing & technology</description><language>en</language>
-<lastBuildDate>Thu, 12 Mar 2026 10:20:26 +0800</lastBuildDate>
-<pubDate>Thu, 12 Mar 2026 10:20:26 +0800</pubDate>
+<lastBuildDate>Mon, 16 Mar 2026 13:26:28 +0000</lastBuildDate>
+<pubDate>Mon, 16 Mar 2026 13:26:28 +0000</pubDate>
 <atom:link href="https://andrewfowlie.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Muzzy
+</title><description><![CDATA[
+
+<p class="dropcap">Read Muzzy Izzet's autobiography (Muzzy) on the commute to and from work. A strange choice, as I am not a Leicester fan.</p>
+
+<img src="https://alchetron.com/cdn/muzzy-izzet-2de417aa-5f9a-4bc9-8b76-b4812e09e0f-resize-750.jpg" class="center"></img>
+
+<p>I read it for nostalgia. I remember Muzzey Izzet as a player, as his unusual and memorable name (his full name is Mustafa Izzet) was always on regional sports reporting. He was also unsual as a player in that 90s era 
+of English football, being a skilful player with composure under pressure.</p>
+
+<p>I enjoyed some of the memories and stories, and his charity work and hospital visits were genuinely inspiring.</p>
+
+<p>Tags: <a href='tag_football.html'>football</a>, <a href='tag_books.html'>books</a></p>
+
+
+
+<!-- text end -->
+]]></description><link>https://andrewfowlie.github.io/blog/muzzy.html</link>
+<guid>https://andrewfowlie.github.io/blog/./muzzy.html</guid>
+<dc:creator>Andrew Fowlie</dc:creator>
+<pubDate>Mon, 16 Mar 2026 13:14:27 +0000</pubDate></item>
 <item><title>
 Do you do AI?
 </title><description><![CDATA[
@@ -35,11 +57,13 @@ Which is why I mumble.
 <p>Tags: <a href='tag_AI<D-;>.html'>AI<D-;></a></p>
 
 
+
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/do-you-do-ai.html</link>
 <guid>https://andrewfowlie.github.io/blog/./do-you-do-ai.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Thu, 12 Mar 2026 10:04:17 +0800</pubDate></item>
+<pubDate>Thu, 12 Mar 2026 10:04:17 +0000</pubDate></item>
 <item><title>
 Be still my beating Hearts...
 </title><description><![CDATA[
@@ -56,11 +80,13 @@ even the final kick.</p>
 <p>Tags: <a href='tag_football.html'>football</a></p>
 
 
+
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/be-still-my-beating-hearts.html</link>
 <guid>https://andrewfowlie.github.io/blog/./be-still-my-beating-hearts.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 11 Mar 2026 16:26:45 +0800</pubDate></item>
+<pubDate>Wed, 11 Mar 2026 16:26:45 +0000</pubDate></item>
 <item><title>
 Delving into focal words on inSPIRE HEP
 </title><description><![CDATA[
@@ -82,11 +108,13 @@ that entered popular consciousness because of LLMs?</p>
 
 
 
+
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/delving-into-focal-words-on-inspire-hep.html</link>
 <guid>https://andrewfowlie.github.io/blog/./delving-into-focal-words-on-inspire-hep.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 04 Mar 2026 11:31:43 +0800</pubDate></item>
+<pubDate>Wed, 04 Mar 2026 11:31:43 +0000</pubDate></item>
 <item><title>
 Curious trends in arXiv submission data
 </title><description><![CDATA[
@@ -176,11 +204,13 @@ if __name__ == "__main__":
 
 
 
+
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/curious-trends-in-arxiv-submission-data.html</link>
 <guid>https://andrewfowlie.github.io/blog/./curious-trends-in-arxiv-submission-data.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 04 Mar 2026 09:32:23 +0800</pubDate></item>
+<pubDate>Wed, 04 Mar 2026 09:32:23 +0000</pubDate></item>
 <item><title>
 The Church of Reason
 </title><description><![CDATA[
@@ -218,11 +248,13 @@ less than the continuing body of reason itself.
 
 
 
+
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/the-church-of-reason.html</link>
 <guid>https://andrewfowlie.github.io/blog/./the-church-of-reason.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Mon, 02 Mar 2026 15:45:10 +0800</pubDate></item>
+<pubDate>Mon, 02 Mar 2026 15:45:10 +0000</pubDate></item>
 <item><title>
 mp3 player
 </title><description><![CDATA[
@@ -562,9 +594,11 @@ if __name__ == "__main__":
 
 
 
+
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/mp3-player.html</link>
 <guid>https://andrewfowlie.github.io/blog/./mp3-player.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 25 Feb 2026 11:52:54 +0800</pubDate></item>
+<pubDate>Wed, 25 Feb 2026 11:52:54 +0000</pubDate></item>
 </channel></rss>
