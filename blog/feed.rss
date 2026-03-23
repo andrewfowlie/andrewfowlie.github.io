@@ -2,9 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>/home/andrew$</title><link>https://andrewfowlie.github.io/blog/index.html</link>
 <description>Some thoughts on physics, statistics, computing & technology</description><language>en</language>
-<lastBuildDate>Mon, 16 Mar 2026 13:26:28 +0000</lastBuildDate>
-<pubDate>Mon, 16 Mar 2026 13:26:28 +0000</pubDate>
+<lastBuildDate>Mon, 23 Mar 2026 13:32:09 +0000</lastBuildDate>
+<pubDate>Mon, 23 Mar 2026 13:32:09 +0000</pubDate>
 <atom:link href="https://andrewfowlie.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Zen
+</title><description><![CDATA[
+
+<p class="dropcap">Read <em>Zen and the Art of Motorcycle Maintenance</em>. A remarkable novel, or perhaps 
+three novels in one, interspersed with one antother. The ideas explored in the novel about 
+<em>quality</em> and our relationship with technology feel so relevant today. On the whole I found the
+philosophical  arguments
+put forth persuaive and compelling, apart from a few critisicsms about the philosophy of science.</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Honda_Superhawk_305cc_CB77_1965._Light_years_ahead_of_anything_else._Those_were_the_great_days_of_early_Japanese_bikes%2Ceven_if_I_preferred_the_earlier_Super_Dream_-_Flickr_-_mick_-_Lumix.jpg/960px-thumbnail.jpg" class="center"></img>
+
+<p class="dropcap">Read two works of children's literature with family. First, <em>Stuart Little</em>. I can't understand why this is a classic of American children's literature.
+It was alright, but hardly memorable and ended abruptly to me. Second, <em>The Heartwood Hotel</em>. This was a wonderful book, full of imagination and joy, destined to become a classic, I think.
+
+<p>Tags: <a href='tag_books.html'>books</a></p>
+
+
+<!-- text end -->
+]]></description><link>https://andrewfowlie.github.io/blog/zen.html</link>
+<guid>https://andrewfowlie.github.io/blog/./zen.html</guid>
+<dc:creator>Andrew Fowlie</dc:creator>
+<pubDate>Mon, 23 Mar 2026 13:28:58 +0000</pubDate></item>
 <item><title>
 Muzzy
 </title><description><![CDATA[
@@ -19,6 +42,7 @@ of English football, being a skilful player with composure under pressure.</p>
 <p>I enjoyed some of the memories and stories, and his charity work and hospital visits were genuinely inspiring.</p>
 
 <p>Tags: <a href='tag_football.html'>football</a>, <a href='tag_books.html'>books</a></p>
+
 
 
 
@@ -59,6 +83,7 @@ Which is why I mumble.
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/do-you-do-ai.html</link>
 <guid>https://andrewfowlie.github.io/blog/./do-you-do-ai.html</guid>
@@ -78,6 +103,7 @@ Be still my beating Hearts...
 even the final kick.</p>
 
 <p>Tags: <a href='tag_football.html'>football</a></p>
+
 
 
 
@@ -105,6 +131,7 @@ I normalized the results to the total number of papers per year. The results are
 that entered popular consciousness because of LLMs?</p>
 
 <p>Tags: <a href='tag_ai.html'>ai</a>, <a href='tag_academia.html'>academia</a></p>
+
 
 
 
@@ -206,6 +233,7 @@ if __name__ == "__main__":
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/curious-trends-in-arxiv-submission-data.html</link>
 <guid>https://andrewfowlie.github.io/blog/./curious-trends-in-arxiv-submission-data.html</guid>
@@ -245,6 +273,7 @@ less than the continuing body of reason itself.
 </blockquote>
 
 <p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_academic.html'>academic</a>, <a href='tag_philosophy.html'>philosophy</a></p>
+
 
 
 
@@ -583,6 +612,7 @@ if __name__ == "__main__":
 
 
 <p>Tags: <a href='tag_mp3.html'>mp3</a>, <a href='tag_smartphone.html'>smartphone</a>, <a href='tag_podcasts.html'>podcasts</a>, <a href='tag_code.html'>code</a></p>
+
 
 
 
