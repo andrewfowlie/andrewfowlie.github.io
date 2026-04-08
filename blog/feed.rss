@@ -2,9 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>/home/andrew$</title><link>https://andrewfowlie.github.io/blog/index.html</link>
 <description>Some thoughts on physics, statistics, computing & technology</description><language>en</language>
-<lastBuildDate>Wed, 08 Apr 2026 13:58:38 +0100</lastBuildDate>
-<pubDate>Wed, 08 Apr 2026 13:58:38 +0100</pubDate>
+<lastBuildDate>Wed, 08 Apr 2026 14:39:07 +0100</lastBuildDate>
+<pubDate>Wed, 08 Apr 2026 14:39:07 +0100</pubDate>
 <atom:link href="https://andrewfowlie.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Shushan
+</title><description><![CDATA[
+
+<p class="dropcaps">Visited Shushan, a village in northwestern Suzhou at the base of a mountain. Thoroughly enjoyed
+the boardwalk through the terraced tea farms and fruit orchards.</p>
+
+<video class="center" controls>
+  <source src="https://gbaike-media.cdn.bcebos.com/10995774715687514563/10995774715687514563_sc.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<p>The grace and stamina of the workers picking the tea was inspiring. I've since read that they are growing Biluochun tea, one of the ten great teas of China, and that
+the mixture of tea gardens and fruit orchards enhances the flavor of the tea.</p>
+
+<p>Tags: <a href='tag_travel.html'>travel</a></p>
+
+<!-- text end -->
+]]></description><link>https://andrewfowlie.github.io/blog/shushan.html</link>
+<guid>https://andrewfowlie.github.io/blog/./shushan.html</guid>
+<dc:creator>Andrew Fowlie</dc:creator>
+<pubDate>Wed, 08 Apr 2026 14:21:43 +0100</pubDate></item>
 <item><title>
 Supremacy
 </title><description><![CDATA[
@@ -25,6 +47,7 @@ At which point things changed from 'solve intellgience and then solve everything
 indicated that his beliefs in charity and altruism were exaggerated. However, on the whole I found it informative and genuinely exciting.</p>
 
 <p>Tags: <a href='tag_ai.html'>ai</a></p>
+
 
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/supremacy.html</link>
@@ -51,6 +74,7 @@ It was alright, but hardly memorable and ended abruptly to me. Second, <em>The H
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/zen.html</link>
 <guid>https://andrewfowlie.github.io/blog/./zen.html</guid>
@@ -70,6 +94,7 @@ of English football, being a skilful player with composure under pressure.</p>
 <p>I enjoyed some of the memories and stories, and his charity work and hospital visits were genuinely inspiring.</p>
 
 <p>Tags: <a href='tag_football.html'>football</a>, <a href='tag_books.html'>books</a></p>
+
 
 
 
@@ -116,6 +141,7 @@ Which is why I mumble.
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/do-you-do-ai.html</link>
 <guid>https://andrewfowlie.github.io/blog/./do-you-do-ai.html</guid>
@@ -135,6 +161,7 @@ Be still my beating Hearts...
 even the final kick.</p>
 
 <p>Tags: <a href='tag_football.html'>football</a></p>
+
 
 
 
@@ -165,6 +192,7 @@ I normalized the results to the total number of papers per year. The results are
 that entered popular consciousness because of LLMs?</p>
 
 <p>Tags: <a href='tag_ai.html'>ai</a>, <a href='tag_academia.html'>academia</a></p>
+
 
 
 
@@ -272,6 +300,7 @@ if __name__ == "__main__":
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/curious-trends-in-arxiv-submission-data.html</link>
 <guid>https://andrewfowlie.github.io/blog/./curious-trends-in-arxiv-submission-data.html</guid>
@@ -311,6 +340,7 @@ less than the continuing body of reason itself.
 </blockquote>
 
 <p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_academic.html'>academic</a>, <a href='tag_philosophy.html'>philosophy</a></p>
+
 
 
 
@@ -652,6 +682,7 @@ if __name__ == "__main__":
 
 
 <p>Tags: <a href='tag_mp3.html'>mp3</a>, <a href='tag_smartphone.html'>smartphone</a>, <a href='tag_podcasts.html'>podcasts</a>, <a href='tag_code.html'>code</a></p>
+
 
 
 
