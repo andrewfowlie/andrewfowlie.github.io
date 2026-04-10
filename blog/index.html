@@ -11,6 +11,62 @@
 <div id="description">Some thoughts on physics, statistics, computing & technology</div>
 </div></div></div>
 <div id="divbody"><div class="content">
+<h3><a class="ablack" href="an-attempt-at-a-zero-shot-ai-disriminator.html">
+An attempt at a zero-shot AI discriminator
+</a></h3>
+<!-- bashblog_timestamp: #202604101502.22# -->
+<div class="subtitle">April 10, 2026 &mdash; 
+Andrew Fowlie
+</div>
+<!-- text begin -->
+
+<p>I have become interested in detecting AI generated text. I have been reading about zero-shot methods; 
+methods that don't require and aren't trained on explicit examples of AI and human-written text. These methods have a frequentist, goodness-of-fit flavor to them. One constructs
+a statistic from the text under consideration, and compares it to an expected distribution were the text AI generated.</p>
+
+<p>Naturally, I wanted to detect AI text in a Bayesian way. My first thought was, when we
+  consider whether a text was AI generated, the alternative is that it was human-generated. But which human! A child? A high-school student? A Nobel-prize winning scientist? 
+  A non-native English speaker? My second thought was, which AI! Which language model? Sampled at what temperature? With what system and user prompts?</p>
+
+<p>We should make use of any information we have about the possible origin of the text. For example, suppose we were setting a homework problem for high-school
+students and wondered whether they copied and pasted our question into an LLM and submitted that as an answer, or whether they wrote an answer in the old-fashioned way. In this case, we would know that the AI prompt was likely to be the exact question we asked, and that the human writer might be a high-school student.</p>
+
+<p>Two models for the generation of the unknown text could thus be:
+ <ul>
+  <li>Model 0: Text generated from an unknown LLM with the homework question copied and pasted, and off-the-shelf system prompts and temperature.</li>
+  <li>Model 1: Text generated from a high-school student with a reasonable grasp of the subject matter and strong English language skills.</li>
+</ul> </p>
+
+<p>My weapon of choice in model selection is, as always, the Bayes factor. This requires us to write the likelihood of the text under the two models. My idea was to use LLMs as surrogates for the two models. We usually interact with LLMs by chatting to them: here, we are sampling
+new text from them. Under the hood, they generate new text by computing the probabilities of parts of text, called tokens. Thus, if you
+  load an LLM model in, e.g., the transformer library in Python, as well as sampling text from
+an LLM, you can also compute the probability of that LLM generating a sequence of text that you specify from a given prompt.</p>
+
+<p>Thus, I would use LLMs as surrogate models that would approximate my models 0 and 1:
+ <ul>
+  <li>Surrogate model 0: Text generated from a particular LLM, prompted by the homework question.</li>
+  <li>Surrogate model 1: Text generated from a particular LLM, prompted by the homework question, and with a system prompt to answer in the manner
+      of a high-school student with a reasonable grasp of the subject matter and strong English language skills.</li>
+</ul> </p>
+
+<p>
+For a given answer to the homework question, I could compute the probabilities of that answer under these two surrogate models. By taking the ratio of these probabilities, I would have the Bayes factor
+$$
+  B = \frac{P(\text{text} \,|\, \text{LLM prompted by homework question)}}{P(\text{text} \,|\, \text{LLM prompted by homework question and system prompt to answer in style of student})}
+$$
+The Bayes factor would tell me the relative probability of the text originating from surrogate model 0 versus surrogate model 1. If the surrogates 
+are reasonable approximations to the real models, it would inform us about the chances that the text came from an AI versus our anticipated type of human writer.
+</p>
+
+<p>I had an idea that one could tweak the precise system prompts by sampling texts from the two surrogate models until they were in line with our expectations.  This is analogous to checking different choices of priors; a recommended part of any Bayesian workflow.</p>
+
+<p>Does this work? The Bayes factor was computationally cheap (cheaper than sampling new text) and easy to compute using the standard transformer library and a freely-available Qwen pretrained LLM model. It appeared to perform well in discriminating quite badly written English text from smooth and polished AI text. Unfortunately, it's easy for adversaries to beat our system by prompting their own LLM to answer in the manner of a student. Furthermore, the resulting Bayes factors were sensitive to arbitrary aspects of the prior. That is, the Bayes factor was sensitive to the exact system prompts that I used in our surrogate models. Changes to the system prompt that appeared innocuous led to huge changes in the resulting Bayes factor. E.g., slight changes to my system prompt could change the probability of the first token significantly, to the point where the whole result changed. </p>
+
+<p>For that reason, I abandoned this idea. The surrogates might appear to well-calibrated and generating acceptable sample text, but they secretly encode strange and arbitrary assumptions about the anticipated tokens. Additionally, I was concerned about the ethics of profiling the human writers in my system prompt.</p>
+
+<p>Tags: <a href='tag_ai.html'>ai</a></p>
+
+<!-- text end -->
 <h3><a class="ablack" href="shushan.html">
 Shushan
 </a></h3>
@@ -32,6 +88,7 @@ the boardwalk through the terraced tea farms and fruit orchards.</p>
 the mixture of tea gardens and fruit orchards enhances the flavor of the tea.</p>
 
 <p>Tags: <a href='tag_travel.html'>travel</a></p>
+
 
 <!-- text end -->
 <h3><a class="ablack" href="supremacy.html">
@@ -61,6 +118,7 @@ indicated that his beliefs in charity and altruism were exaggerated. However, on
 <p>Tags: <a href='tag_ai.html'>ai</a></p>
 
 
+
 <!-- text end -->
 <h3><a class="ablack" href="zen.html">
 Zen
@@ -88,6 +146,7 @@ It was alright, but hardly memorable and ended abruptly to me. Second, <em>The H
 
 
 
+
 <!-- text end -->
 <h3><a class="ablack" href="muzzy.html">
 Muzzy
@@ -108,6 +167,7 @@ of English football, being a skilful player with composure under pressure.</p>
 <p>I enjoyed some of the memories and stories, and his charity work and hospital visits were genuinely inspiring.</p>
 
 <p>Tags: <a href='tag_football.html'>football</a>, <a href='tag_books.html'>books</a></p>
+
 
 
 
@@ -157,6 +217,7 @@ Which is why I mumble.
 
 
 
+
 <!-- text end -->
 <h3><a class="ablack" href="be-still-my-beating-hearts.html">
 Be still my beating Hearts...
@@ -177,6 +238,7 @@ Andrew Fowlie
 even the final kick.</p>
 
 <p>Tags: <a href='tag_football.html'>football</a></p>
+
 
 
 
@@ -209,106 +271,6 @@ I normalized the results to the total number of papers per year. The results are
 that entered popular consciousness because of LLMs?</p>
 
 <p>Tags: <a href='tag_ai.html'>ai</a>, <a href='tag_academia.html'>academia</a></p>
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-<h3><a class="ablack" href="curious-trends-in-arxiv-submission-data.html">
-Curious trends in arXiv submission data
-</a></h3>
-<!-- bashblog_timestamp: #202603040932.23# -->
-<div class="subtitle">March 04, 2026 &mdash; 
-Andrew Fowlie
-</div>
-<!-- text begin -->
-
-<p>There was a curious discussion at <a href="https://www.math.columbia.edu/~woit/wordpress/">Peter Woit's blog</a> 
-concerning recent arXiv submission trends.
-It was observed (after some initial confusion) that the number of revisions appeared to 
-have increased dramatically in the last month or so.</p>
-
-<p>An (AI generated) analysis, available on <a href="https://github.com/sgnoohc/arxiv-submission-analysis">GitHub</a>, confirmed this pattern.
-The data look like this.</p>
-
-<img src="https://github.com/sgnoohc/arxiv-submission-analysis/raw/main/plots/arxiv_hepth_submissions.png" alt="arXiv submission trends" class="center" style="width:70%">
-
-<p>What causes that surge in revisions (red) versus posts (blue)? This recent trend appears in all arXiv categories. The AI declares that it is a real trend and speculates that authors are submitting revisions using generative AI tools. I'm naturally skeptical, so thought 
-someone should least build a statistical model of what this plot might look like, assuming nothing but a stationary process.</p>
-
-<p> So I did. I took submissions per month to be about 250
-$$
-n \sim \textrm{Po}(250)
-$$ 
-and assumed that authors posted a revision upon publication to match the published version, about six months later,
-$$
-d \sim \textrm{Po}(6)
-$$
-What do you know?</p>
-
-<img src="arxiv.png" alt="arXiv submission trends" class="center" style="width:70%">
-
-<p>In the current month (here month 60), you see the first submissions (that haven't been replaced yet) and revisions (from papers from previous months). In past months, you only see 
-revisions, as the first submissions are later replaced.</p> 
-
-<p>This was an interesting example of a stationary that process produces a mirage of non-stationary behaviour (a surge in the current month). The explanation about AI 
-revisions is unwarranted. On the other hand, there is almost certainly non-stationary behavior in the dataset, as, e.g., the number of academics has increased over time.</p>
-
-<p>Don't take my word for it, of course. Run it yourself. I'd love to see a Bayesian analysis that constructed a principled model and fitted it to the actual data.</p>
-
-<pre class="line-numbers">
-<code class="language-python">
-"""
-arXiv submission patterns
-=========================
-"""
-
-import numpy as np
-import matplotlib.pyplot as plt
-
-rate_per_month = 250
-publication_time_months = 6
-end_month = 60  # 5 years
-
-
-def simulate():
-
-    # make papers
-    initial = []
-    for i in range(end_month):
-        initial += np.random.poisson(rate_per_month) * [i + 1]
-
-    # now post a new version after publication some time later
-    published = [a + np.random.poisson(publication_time_months)
-                 for a in initial]
-
-    # final update before end of simulation
-    final = [b if b <= end_month else a for a, b in zip(initial, published)]
-
-    return initial, final
-
-
-if __name__ == "__main__":
-
-    initial, final = simulate()
-
-    bins = np.arange(0.5, end_month + 1, 1)
-
-    plt.hist(initial, bins=bins, label="Initial submission month")
-    plt.hist(final, bins=bins, histtype="step", label="Final submission month")
-    plt.legend()
-    plt.xlabel("Month")
-    plt.ylabel("Papers")
-    plt.savefig("arxiv.png")
-</code>
-</pre>
-
-<p>Tags: <a href='tag_code.html'>code</a>, <a href='tag_ai.html'>ai</a>, <a href='tag_arxiv.html'>arxiv</a>, <a href='tag_statistics.html'>statistics</a></p>
 
 
 
