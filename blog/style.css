@@ -91,3 +91,8 @@ blockquote p {
 p.dropcap:first-letter {
     font-weight: bold;
 }
+
+.mono {
+  font-family: monospace;
+}
+
