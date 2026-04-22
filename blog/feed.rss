@@ -2,9 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>/home/andrew$</title><link>https://andrewfowlie.github.io/blog/index.html</link>
 <description>Some thoughts on physics, statistics, computing & technology</description><language>en</language>
-<lastBuildDate>Wed, 22 Apr 2026 15:50:58 +0100</lastBuildDate>
-<pubDate>Wed, 22 Apr 2026 15:50:58 +0100</pubDate>
+<lastBuildDate>Wed, 22 Apr 2026 16:04:40 +0100</lastBuildDate>
+<pubDate>Wed, 22 Apr 2026 16:04:40 +0100</pubDate>
 <atom:link href="https://andrewfowlie.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Nero
+</title><description><![CDATA[
+
+<p class="dropcap">Read and thoroughly enjoyed <em>Nero</em> by Conn Iggulden. This is the first part of a trilogy of historical fiction about ancient Rome. This first part traces the emperors Tiberius, Caligula and Claudius, ending with the 
+  Roman conquest of Britain.</p>
+
+<img src="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781639366545/nero-9781639366545_lg.jpg" class="center"></img>
+
+<p>I've read other books by Iggulden many years ago, and it's similar, though much less biographical, to Robert Harris' Cicero trilogy. It also reminded me of <em>Eagle of the Ninth</em> <body>
+  by Rosemary Sutcliffe. I remember listening to it on tapes from the local library many, many years ago.</p>
+
+<p>Tags: <a href='tag_books.html'>books</a></p>
+
+<!-- text end -->
+]]></description><link>https://andrewfowlie.github.io/blog/nero.html</link>
+<guid>https://andrewfowlie.github.io/blog/./nero.html</guid>
+<dc:creator>Andrew Fowlie</dc:creator>
+<pubDate>Wed, 22 Apr 2026 15:59:04 +0100</pubDate></item>
 <item><title>
 Sincerity
 </title><description><![CDATA[
@@ -75,6 +94,7 @@ Now what am I to do? You are wasting my time and degrading written communication
 <p>Tags: <a href='tag_ai.html'>ai</a>, <a href='tag_communication.html'>communication</a></p>
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/sincerity.html</link>
 <guid>https://andrewfowlie.github.io/blog/./sincerity.html</guid>
@@ -131,6 +151,7 @@ are reasonable approximations to the real models, it would inform us about the c
 <p>Tags: <a href='tag_ai.html'>ai</a></p>
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/an-attempt-at-a-zero-shot-ai-disriminator.html</link>
 <guid>https://andrewfowlie.github.io/blog/./an-attempt-at-a-zero-shot-ai-disriminator.html</guid>
@@ -152,6 +173,7 @@ the boardwalk through the terraced tea farms and fruit orchards.</p>
 the mixture of tea gardens and fruit orchards enhances the flavor of the tea.</p>
 
 <p>Tags: <a href='tag_travel.html'>travel</a></p>
+
 
 
 
@@ -184,6 +206,7 @@ indicated that his beliefs in charity and altruism were exaggerated. However, on
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/supremacy.html</link>
 <guid>https://andrewfowlie.github.io/blog/./supremacy.html</guid>
@@ -212,6 +235,7 @@ It was alright, but hardly memorable and ended abruptly to me. Second, <em>The H
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/zen.html</link>
 <guid>https://andrewfowlie.github.io/blog/./zen.html</guid>
@@ -231,6 +255,7 @@ of English football, being a skilful player with composure under pressure.</p>
 <p>I enjoyed some of the memories and stories, and his charity work and hospital visits were genuinely inspiring.</p>
 
 <p>Tags: <a href='tag_football.html'>football</a>, <a href='tag_books.html'>books</a></p>
+
 
 
 
@@ -283,6 +308,7 @@ Which is why I mumble.
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/do-you-do-ai.html</link>
 <guid>https://andrewfowlie.github.io/blog/./do-you-do-ai.html</guid>
@@ -302,6 +328,7 @@ Be still my beating Hearts...
 even the final kick.</p>
 
 <p>Tags: <a href='tag_football.html'>football</a></p>
+
 
 
 
@@ -346,111 +373,10 @@ that entered popular consciousness because of LLMs?</p>
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/delving-into-focal-words-on-inspire-hep.html</link>
 <guid>https://andrewfowlie.github.io/blog/./delving-into-focal-words-on-inspire-hep.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
 <pubDate>Wed, 04 Mar 2026 11:31:43 +0000</pubDate></item>
-<item><title>
-Curious trends in arXiv submission data
-</title><description><![CDATA[
-
-<p>There was a curious discussion at <a href="https://www.math.columbia.edu/~woit/wordpress/">Peter Woit's blog</a> 
-concerning recent arXiv submission trends.
-It was observed (after some initial confusion) that the number of revisions appeared to 
-have increased dramatically in the last month or so.</p>
-
-<p>An (AI generated) analysis, available on <a href="https://github.com/sgnoohc/arxiv-submission-analysis">GitHub</a>, confirmed this pattern.
-The data look like this.</p>
-
-<img src="https://github.com/sgnoohc/arxiv-submission-analysis/raw/main/plots/arxiv_hepth_submissions.png" alt="arXiv submission trends" class="center" style="width:70%">
-
-<p>What causes that surge in revisions (red) versus posts (blue)? This recent trend appears in all arXiv categories. The AI declares that it is a real trend and speculates that authors are submitting revisions using generative AI tools. I'm naturally skeptical, so thought 
-someone should least build a statistical model of what this plot might look like, assuming nothing but a stationary process.</p>
-
-<p> So I did. I took submissions per month to be about 250
-$$
-n \sim \textrm{Po}(250)
-$$ 
-and assumed that authors posted a revision upon publication to match the published version, about six months later,
-$$
-d \sim \textrm{Po}(6)
-$$
-What do you know?</p>
-
-<img src="arxiv.png" alt="arXiv submission trends" class="center" style="width:70%">
-
-<p>In the current month (here month 60), you see the first submissions (that haven't been replaced yet) and revisions (from papers from previous months). In past months, you only see 
-revisions, as the first submissions are later replaced.</p> 
-
-<p>This was an interesting example of a stationary that process produces a mirage of non-stationary behaviour (a surge in the current month). The explanation about AI 
-revisions is unwarranted. On the other hand, there is almost certainly non-stationary behavior in the dataset, as, e.g., the number of academics has increased over time.</p>
-
-<p>Don't take my word for it, of course. Run it yourself. I'd love to see a Bayesian analysis that constructed a principled model and fitted it to the actual data.</p>
-
-<pre class="line-numbers">
-<code class="language-python">
-"""
-arXiv submission patterns
-=========================
-"""
-
-import numpy as np
-import matplotlib.pyplot as plt
-
-rate_per_month = 250
-publication_time_months = 6
-end_month = 60  # 5 years
-
-
-def simulate():
-
-    # make papers
-    initial = []
-    for i in range(end_month):
-        initial += np.random.poisson(rate_per_month) * [i + 1]
-
-    # now post a new version after publication some time later
-    published = [a + np.random.poisson(publication_time_months)
-                 for a in initial]
-
-    # final update before end of simulation
-    final = [b if b <= end_month else a for a, b in zip(initial, published)]
-
-    return initial, final
-
-
-if __name__ == "__main__":
-
-    initial, final = simulate()
-
-    bins = np.arange(0.5, end_month + 1, 1)
-
-    plt.hist(initial, bins=bins, label="Initial submission month")
-    plt.hist(final, bins=bins, histtype="step", label="Final submission month")
-    plt.legend()
-    plt.xlabel("Month")
-    plt.ylabel("Papers")
-    plt.savefig("arxiv.png")
-</code>
-</pre>
-
-<p>Tags: <a href='tag_code.html'>code</a>, <a href='tag_ai.html'>ai</a>, <a href='tag_arxiv.html'>arxiv</a>, <a href='tag_statistics.html'>statistics</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-]]></description><link>https://andrewfowlie.github.io/blog/curious-trends-in-arxiv-submission-data.html</link>
-<guid>https://andrewfowlie.github.io/blog/./curious-trends-in-arxiv-submission-data.html</guid>
-<dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 04 Mar 2026 09:32:23 +0000</pubDate></item>
 </channel></rss>
