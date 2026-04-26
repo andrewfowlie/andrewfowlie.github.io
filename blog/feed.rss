@@ -2,9 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>/home/andrew$</title><link>https://andrewfowlie.github.io/blog/index.html</link>
 <description>Some thoughts on physics, statistics, computing & technology</description><language>en</language>
-<lastBuildDate>Wed, 22 Apr 2026 16:04:40 +0100</lastBuildDate>
-<pubDate>Wed, 22 Apr 2026 16:04:40 +0100</pubDate>
+<lastBuildDate>Sun, 26 Apr 2026 04:34:31 +0100</lastBuildDate>
+<pubDate>Sun, 26 Apr 2026 04:34:31 +0100</pubDate>
 <atom:link href="https://andrewfowlie.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Dwayne Fields 
+</title><description><![CDATA[
+
+<p class="dropcap">Listened to Dwayne Field's episode of <em>Desert Island Discs</em>. Dwayne is an explorer, motivational speaker and an ambassador for the Scouts. He had an amazing story,
+growing up in Jamaica, at first raised by his great grandmother, before moving to the UK aged six. He navigated gangs, crime and social problems in inner London, before a life-changing
+opportunity to join an expedition to the North Pole. In doing so, he became the fisrt black person to reach the magnetic North Pole.</p>
+
+<p>There were two takeaways from his story stuck with me. First, I loved his statement that as an explorer he was about planting seeds, not flags. That he wasn't interested in claiming
+firsts and discoveries and successes for himself, as his; he wanted to lead the way, to inspuire and support other people. I think this works as a metaphor for what we should try to do in academia. Second, I loved his message
+that we were all capable of doing and giving so much more than we realized. If he could start where he started, and go to the North Pole, and now inspire other people,
+what can I do?</p>
+
+<p>Tags: <a href='tag_inspirational.html'>inspirational</a>, <a href='tag_podcasts.html'>podcasts</a></p>
+
+<!-- text end -->
+]]></description><link>https://andrewfowlie.github.io/blog/dwayne-fields-.html</link>
+<guid>https://andrewfowlie.github.io/blog/./dwayne-fields-.html</guid>
+<dc:creator>Andrew Fowlie</dc:creator>
+<pubDate>Sun, 26 Apr 2026 04:34:11 +0100</pubDate></item>
 <item><title>
 Nero
 </title><description><![CDATA[
@@ -344,39 +364,4 @@ even the final kick.</p>
 <guid>https://andrewfowlie.github.io/blog/./be-still-my-beating-hearts.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
 <pubDate>Wed, 11 Mar 2026 16:26:45 +0000</pubDate></item>
-<item><title>
-Delving into focal words on inSPIRE HEP
-</title><description><![CDATA[
-
-<p>You've probably noticed that large language models (LLMs) have favourite words that they use more often than human writers. These are known as focal words and the phenomena of focal words is non-trivial. <a href="https://arxiv.org/abs/2412.11385v1">2412.11385</a> 
-  call it 'the puzzle of lexical overrepresentation'.</p>
-
-<p>I thought I'd check out the appearance of a focal word in the high-energy physics literature by querying the inSPIRE HEP database. I use the 'fulltext' search and looked at the word 'delve'. I think this does some kind of stemming so that, e.g., 'delve' also matches 'delving'. 
-I normalized the results to the total number of papers per year. The results are:</p>
-
-<img src="delve.png" alt="Frequency of word delve" class="center" style="width:90%">
-
-<p>Of course, authors could be influenced by LLMs or imitating 'good' writing produced by LLMs. I don't know much about this field. Make of it what you will.</p>
-
-<p>I can understand the spike, but I'm not sure why it decreased back down in 2025. Perhaps LLMs have evolved and 'delve' isn't such a common focal word anymore? Perhaps writers are conscious about hallmarks of LLMs in their work and edit instances of 'delve'? Perhaps 'delve' was a buzzword
-that entered popular consciousness because of LLMs?</p>
-
-<p>Tags: <a href='tag_ai.html'>ai</a>, <a href='tag_academia.html'>academia</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-]]></description><link>https://andrewfowlie.github.io/blog/delving-into-focal-words-on-inspire-hep.html</link>
-<guid>https://andrewfowlie.github.io/blog/./delving-into-focal-words-on-inspire-hep.html</guid>
-<dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 04 Mar 2026 11:31:43 +0000</pubDate></item>
 </channel></rss>
