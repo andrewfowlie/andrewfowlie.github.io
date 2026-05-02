@@ -2,23 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>/home/andrew$</title><link>https://andrewfowlie.github.io/blog/index.html</link>
 <description>Some thoughts on physics, statistics, computing & technology</description><language>en</language>
-<lastBuildDate>Sun, 26 Apr 2026 04:34:31 +0100</lastBuildDate>
-<pubDate>Sun, 26 Apr 2026 04:34:31 +0100</pubDate>
+<lastBuildDate>Sat, 02 May 2026 13:45:38 +0100</lastBuildDate>
+<pubDate>Sat, 02 May 2026 13:45:38 +0100</pubDate>
 <atom:link href="https://andrewfowlie.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
-Dwayne Fields 
+Craghead Colliery
+</title><description><![CDATA[
+
+<p class="dropcap">Watched <em>Craghead Colliery</em>, a documentary made by the BBC in 1969 about the fate of the Craghead Colliery and community between Newcastle and Durham.
+The miners performed dirty, dangerous and depressing work to provide coal and power for us. They worked hard for each other and  
+support their families for 50 years in the pit and then often passed away shortly after retirement, suffering from chronic health conditions associated with their work.
+</p>
+
+<iframe class="center" src="https://www.youtube.com/embed/iQyxIH1Px20?si=SuuqozoztCn1T9vq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>The coal run out, or at least, became expensive to extract. The documentary features speeches from Margaret Castle and Harold Wilson at the Durham Miners' Gala.
+In my opinion, the labour prime minister Wilson let them down: he was evasive about their future, telling them only that a decision on the 
+future of energy in the North East would be based on technical, economic as well as 
+social factors. He later buried news about the future of the mines on the day of the Soviet invasion of Czechoslovakia.
+<p>
+
+<p>I liked Margaret Castle's words though:</p>
+<blockquote>
+I am deeply conscious of the of the tribute that you have paid in allowing me to be here this morning 
+…
+you are not the ones who theorize about the need for change in Britain you are the ones who have to experience it 
+……
+By definition the Labor Party is the party of fundamental change and therefore by definition the task of a Labor government will always be more difficult than that of a Tory one.
+</blockquote>
+
+<p>Tags: <a href='tag_tv.html'>tv</a></p>
+
+<!-- text end -->
+]]></description><link>https://andrewfowlie.github.io/blog/craghead-colliery.html</link>
+<guid>https://andrewfowlie.github.io/blog/./craghead-colliery.html</guid>
+<dc:creator>Andrew Fowlie</dc:creator>
+<pubDate>Sat, 02 May 2026 13:38:53 +0100</pubDate></item>
+<item><title>
+Dwayne Fields
 </title><description><![CDATA[
 
 <p class="dropcap">Listened to Dwayne Field's episode of <em>Desert Island Discs</em>. Dwayne is an explorer, motivational speaker and an ambassador for the Scouts. He had an amazing story,
 growing up in Jamaica, at first raised by his great grandmother, before moving to the UK aged six. He navigated gangs, crime and social problems in inner London, before a life-changing
-opportunity to join an expedition to the North Pole. In doing so, he became the fisrt black person to reach the magnetic North Pole.</p>
+opportunity to join an expedition to the North Pole. In doing so, he became the first black person to reach the magnetic North Pole.</p>
+
+<audio class="center" controls>
+  <source src="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0n7tzwr.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
 
 <p>There were two takeaways from his story stuck with me. First, I loved his statement that as an explorer he was about planting seeds, not flags. That he wasn't interested in claiming
-firsts and discoveries and successes for himself, as his; he wanted to lead the way, to inspuire and support other people. I think this works as a metaphor for what we should try to do in academia. Second, I loved his message
+firsts and discoveries and successes for himself, as his; he wanted to lead the way, to inspire and support other people. I think this works as a metaphor for what we should try to do in academia. Second, I loved his message
 that we were all capable of doing and giving so much more than we realized. If he could start where he started, and go to the North Pole, and now inspire other people,
 what can I do?</p>
 
 <p>Tags: <a href='tag_inspirational.html'>inspirational</a>, <a href='tag_podcasts.html'>podcasts</a></p>
+
 
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/dwayne-fields-.html</link>
@@ -38,6 +77,7 @@ Nero
   by Rosemary Sutcliffe. I remember listening to it on tapes from the local library many, many years ago.</p>
 
 <p>Tags: <a href='tag_books.html'>books</a></p>
+
 
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/nero.html</link>
@@ -115,6 +155,7 @@ Now what am I to do? You are wasting my time and degrading written communication
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/sincerity.html</link>
 <guid>https://andrewfowlie.github.io/blog/./sincerity.html</guid>
@@ -172,6 +213,7 @@ are reasonable approximations to the real models, it would inform us about the c
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/an-attempt-at-a-zero-shot-ai-disriminator.html</link>
 <guid>https://andrewfowlie.github.io/blog/./an-attempt-at-a-zero-shot-ai-disriminator.html</guid>
@@ -193,6 +235,7 @@ the boardwalk through the terraced tea farms and fruit orchards.</p>
 the mixture of tea gardens and fruit orchards enhances the flavor of the tea.</p>
 
 <p>Tags: <a href='tag_travel.html'>travel</a></p>
+
 
 
 
@@ -227,6 +270,7 @@ indicated that his beliefs in charity and altruism were exaggerated. However, on
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/supremacy.html</link>
 <guid>https://andrewfowlie.github.io/blog/./supremacy.html</guid>
@@ -256,6 +300,7 @@ It was alright, but hardly memorable and ended abruptly to me. Second, <em>The H
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/zen.html</link>
 <guid>https://andrewfowlie.github.io/blog/./zen.html</guid>
@@ -275,6 +320,7 @@ of English football, being a skilful player with composure under pressure.</p>
 <p>I enjoyed some of the memories and stories, and his charity work and hospital visits were genuinely inspiring.</p>
 
 <p>Tags: <a href='tag_football.html'>football</a>, <a href='tag_books.html'>books</a></p>
+
 
 
 
@@ -329,39 +375,10 @@ Which is why I mumble.
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/do-you-do-ai.html</link>
 <guid>https://andrewfowlie.github.io/blog/./do-you-do-ai.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
 <pubDate>Thu, 12 Mar 2026 10:04:17 +0000</pubDate></item>
-<item><title>
-Be still my beating Hearts...
-</title><description><![CDATA[
-
-<p>Some people say that to find out which football team you should support, you should take a ruler and a map, and find the closest professional club to your place of birth. If I did that, I think I'd get Hearts or Hibs. I've always found the name Heart of Midlothian alluring and charming,
-  and unusually celebral for a football club, being named after a Walter Scott novel.</p>
-
-<img src="https://upload.wikimedia.org/wikipedia/en/6/61/Heart_of_Midlothian_FC_logo.svg" class="center"></img>
-
-<p>Now that I've shown you my credentials, I can say that I am thoroughly enjoying the title race for the Sottish Premier League and hoping that Hearts can win. I don't have them as favourites; I'm worried about Celtic's know-how in getting over the line.
-  I think it might go down to the final round, perhaps
-even the final kick.</p>
-
-<p>Tags: <a href='tag_football.html'>football</a></p>
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-]]></description><link>https://andrewfowlie.github.io/blog/be-still-my-beating-hearts.html</link>
-<guid>https://andrewfowlie.github.io/blog/./be-still-my-beating-hearts.html</guid>
-<dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 11 Mar 2026 16:26:45 +0000</pubDate></item>
 </channel></rss>
