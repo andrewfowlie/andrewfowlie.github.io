@@ -165,6 +165,11 @@ var addressPoints = [
     121.0939
   ],
   [
+    "<a href='https://andrewfowlie.github.io/talk/nanjing_2026'><em>Mapping the ALPs: A Naturalness Map for Axions and ALPs</em></a><br>2026 Workshop on New Physics and Interdisciplinary Sciences (NPhiS 2026)<br>Nanjing<br>18 May 2026",
+    32.0617,
+    118.7778
+  ],
+  [
     "<a href='https://andrewfowlie.github.io/talk/pmo_2021'><em>Nested sampling for frequentist computation: fast estimation of small $p$-values</em></a><br>Purple Mountain Observatory Seminar<br>Purple Mountain Observatory<br>9 July 2021",
     32.0617,
     118.7778
