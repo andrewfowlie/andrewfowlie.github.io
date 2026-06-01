@@ -2,9 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>/home/andrew$</title><link>https://andrewfowlie.github.io/blog/index.html</link>
 <description>Some thoughts on physics, statistics, computing & technology</description><language>en</language>
-<lastBuildDate>Tue, 19 May 2026 11:23:41 +0800</lastBuildDate>
-<pubDate>Tue, 19 May 2026 11:23:41 +0800</pubDate>
+<lastBuildDate>Mon, 01 Jun 2026 16:38:53 +0800</lastBuildDate>
+<pubDate>Mon, 01 Jun 2026 16:38:53 +0800</pubDate>
 <atom:link href="https://andrewfowlie.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Short stories
+</title><description><![CDATA[
+
+<p class="dropcap">Read several colletions of short stories. First, aborted Rudyard Kipling's <em>Just So Stories</em>, written in 1902.
+I expected colonial attitudes about e.g., seeing the animals as resource or as something to be put to work, but I didn't
+expect explicit racism about non-European people.</p>
+
+<p>Switched to <em>Stories for Seven Year Olds</em>, a collection published by Harper Collins. On the whole, we enjoyed it, and discovered
+some interesting stories and authors. <a href="https://en.wikipedia.org/wiki/Pentamerone"><em>Vardiello</em></a> was a highlight, as was discovering <a href="https://en.wikipedia.org/wiki/Leila_Berg">Leila Berg</a>, an advocate of children's rights
+and children's literature.</p>
+
+<p>For myself, read the collection <em>The People's City</em>, a collection of short stories centered in Edinburgh, with a rousing
+introduction by Irvine Welsh and contributions from Ian Rankin and Alexander McCall Smith.</p>
+
+<p>Finally, attended a wonderful seminar by <a href="https://www.mathgenealogy.org/id.php?id=167557">Jordan Stoyanov</a>, an academic grandson of the great Kolmogorov. The talk introduced a few intriguing problems
+and their connections to probability theory. The problems discused were similar to recreational maths, for example, find random variables for which
+$$X + Y = XY$$ 
+with equality in distribution. These little problems are, to me, the short stories of maths. They have intrigue that captures you, but can be consumed satisfying in a single period, without 
+  multiple strands to the story line or many characters entering.</p>
+
+<p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_short stories.html'>short stories</a>, <a href='tag_maths.html'>maths</a></p>
+
+<!-- text end -->
+]]></description><link>https://andrewfowlie.github.io/blog/short-stories.html</link>
+<guid>https://andrewfowlie.github.io/blog/./short-stories.html</guid>
+<dc:creator>Andrew Fowlie</dc:creator>
+<pubDate>Mon, 01 Jun 2026 16:35:01 +0800</pubDate></item>
 <item><title>
 Nanjing
 </title><description><![CDATA[
@@ -19,6 +47,7 @@ Nowadays I try to tell a compelling story about our research - why we did it, ho
 <p>A personal highlight was a chance to revisit <em>Stone Elephant Road</em>, a path lined with huge stone sculptures of horses, elephants, camels and dragons to guard a mausoleum.</p>
 
 <p>Tags: <a href='tag_travel.html'>travel</a>, <a href='tag_academia.html'>academia</a></p>
+
 
 
 <!-- text end -->
@@ -43,6 +72,7 @@ no longer think noble champions, even Oleksandr Usyk, can justify or redeem it.<
 <p>RIP Patrick Day.</p>
 
 <p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_sport.html'>sport</a>, <a href='tag_boxing.html'>boxing</a></p>
+
 
 
 
@@ -94,6 +124,7 @@ By definition the Labor Party is the party of fundamental change and therefore b
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/craghead-colliery.html</link>
 <guid>https://andrewfowlie.github.io/blog/./craghead-colliery.html</guid>
@@ -129,6 +160,7 @@ what can I do?</p>
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/dwayne-fields-.html</link>
 <guid>https://andrewfowlie.github.io/blog/./dwayne-fields-.html</guid>
@@ -147,6 +179,7 @@ Nero
   by Rosemary Sutcliffe. I remember listening to it on tapes from the local library many, many years ago.</p>
 
 <p>Tags: <a href='tag_books.html'>books</a></p>
+
 
 
 
@@ -244,6 +277,7 @@ Now what am I to do? You are wasting my time and degrading written communication
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/sincerity.html</link>
 <guid>https://andrewfowlie.github.io/blog/./sincerity.html</guid>
@@ -311,6 +345,7 @@ are reasonable approximations to the real models, it would inform us about the c
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/an-attempt-at-a-zero-shot-ai-disriminator.html</link>
 <guid>https://andrewfowlie.github.io/blog/./an-attempt-at-a-zero-shot-ai-disriminator.html</guid>
@@ -332,6 +367,7 @@ the boardwalk through the terraced tea farms and fruit orchards.</p>
 the mixture of tea gardens and fruit orchards enhances the flavor of the tea.</p>
 
 <p>Tags: <a href='tag_travel.html'>travel</a></p>
+
 
 
 
@@ -386,48 +422,10 @@ indicated that his beliefs in charity and altruism were exaggerated. However, on
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/supremacy.html</link>
 <guid>https://andrewfowlie.github.io/blog/./supremacy.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
 <pubDate>Wed, 08 Apr 2026 13:54:48 +0800</pubDate></item>
-<item><title>
-Zen
-</title><description><![CDATA[
-
-<p class="dropcap">Read <em>Zen and the Art of Motorcycle Maintenance</em>. A remarkable novel, or perhaps 
-three novels in one, interspersed with one another. The ideas explored in the novel about 
-<em>quality</em> and our relationship with technology feel so relevant today. On the whole I found the
-philosophical  arguments
-put forth persuasive and compelling, apart from a few criticisms about the philosophy of science.</p>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Honda_Superhawk_305cc_CB77_1965._Light_years_ahead_of_anything_else._Those_were_the_great_days_of_early_Japanese_bikes%2Ceven_if_I_preferred_the_earlier_Super_Dream_-_Flickr_-_mick_-_Lumix.jpg/960px-thumbnail.jpg" class="center"></img>
-
-<p class="dropcap">Read two works of children's literature with family. First, <em>Stuart Little</em>. I can't understand why this is a classic of American children's literature.
-It was alright, but hardly memorable and ended abruptly to me. Second, <em>The Heartwood Hotel</em>. This was a wonderful book, full of imagination and joy, destined to become a classic, I think.
-
-<p>Tags: <a href='tag_books.html'>books</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-]]></description><link>https://andrewfowlie.github.io/blog/zen.html</link>
-<guid>https://andrewfowlie.github.io/blog/./zen.html</guid>
-<dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 08 Apr 2026 13:29:01 +0800</pubDate></item>
 </channel></rss>
