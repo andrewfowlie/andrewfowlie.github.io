@@ -285,6 +285,11 @@ var addressPoints = [
     121.53185
   ],
   [
+    "<a href='https://andrewfowlie.github.io/talk/xjtlu_2026'><em>Mapping the ALPs: A Naturalness Map for Axions and ALPs</em></a><br>Suzhou<br>10 June 2026",
+    33.6361,
+    116.9789
+  ],
+  [
     "<a href='https://andrewfowlie.github.io/talk/tallinn_2'><em>CMSSM vs CNMSSM</em></a><br>Internal seminar<br>KBFI (Tallinn)<br>23 September 2014",
     59.43,
     24.7945
