@@ -2,9 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>/home/andrew$</title><link>https://andrewfowlie.github.io/blog/index.html</link>
 <description>Some thoughts on physics, statistics, computing & technology</description><language>en</language>
-<lastBuildDate>Thu, 11 Jun 2026 16:32:22 +0800</lastBuildDate>
-<pubDate>Thu, 11 Jun 2026 16:32:22 +0800</pubDate>
+<lastBuildDate>Mon, 15 Jun 2026 14:30:05 +0800</lastBuildDate>
+<pubDate>Mon, 15 Jun 2026 14:30:05 +0800</pubDate>
 <atom:link href="https://andrewfowlie.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+32 Programmes
+</title><description><![CDATA[
+
+<p class="dropcap">Read <em>32 Programmes</em> by Dave Roberts (or should that be 32 grams?), a football book, fitting for the start of the World Cup.
+It's a nostalgic book, based on the author's memories of attending matches, and who he was with and what was going on in his life at the time. I thoroughly enjoyed most of it,
+though it took a surprisingly sombre turn at the end, as the author suffered from mental and physical health issues.</p>
+
+<img src="https://www.covercentury.com/covers/book/1/32-Programmes-Roberts-Dave-9780593067376.jpg" class="center"></img>
+
+<p>The author's memories of racism in football crowds in the 1970s sadly didn't feel that far away from where we are now in society.</p>
+
+<p>Tags: <a href='tag_football.html'>football</a>, <a href='tag_books.html'>books</a></p>
+
+<!-- text end -->
+]]></description><link>https://andrewfowlie.github.io/blog/32-programmes.html</link>
+<guid>https://andrewfowlie.github.io/blog/./32-programmes.html</guid>
+<dc:creator>Andrew Fowlie</dc:creator>
+<pubDate>Mon, 15 Jun 2026 14:28:10 +0800</pubDate></item>
 <item><title>
 Short stories
 </title><description><![CDATA[
@@ -27,6 +46,7 @@ with equality in distribution. These little problems are, to me, the short stori
   multiple strands to the story line or many characters entering.</p>
 
 <p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_short stories.html'>short stories</a>, <a href='tag_maths.html'>maths</a></p>
+
 
 
 
@@ -54,6 +74,7 @@ Nowadays I try to tell a compelling story about our research - why we did it, ho
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/nanjing.html</link>
 <guid>https://andrewfowlie.github.io/blog/./nanjing.html</guid>
@@ -76,6 +97,7 @@ no longer think noble champions, even Oleksandr Usyk, can justify or redeem it.<
 <p>RIP Patrick Day.</p>
 
 <p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_sport.html'>sport</a>, <a href='tag_boxing.html'>boxing</a></p>
+
 
 
 
@@ -133,6 +155,7 @@ By definition the Labor Party is the party of fundamental change and therefore b
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/craghead-colliery.html</link>
 <guid>https://andrewfowlie.github.io/blog/./craghead-colliery.html</guid>
@@ -171,6 +194,7 @@ what can I do?</p>
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/dwayne-fields-.html</link>
 <guid>https://andrewfowlie.github.io/blog/./dwayne-fields-.html</guid>
@@ -189,6 +213,7 @@ Nero
   by Rosemary Sutcliffe. I remember listening to it on tapes from the local library many, many years ago.</p>
 
 <p>Tags: <a href='tag_books.html'>books</a></p>
+
 
 
 
@@ -292,6 +317,7 @@ Now what am I to do? You are wasting my time and degrading written communication
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/sincerity.html</link>
 <guid>https://andrewfowlie.github.io/blog/./sincerity.html</guid>
@@ -362,6 +388,7 @@ are reasonable approximations to the real models, it would inform us about the c
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/an-attempt-at-a-zero-shot-ai-disriminator.html</link>
 <guid>https://andrewfowlie.github.io/blog/./an-attempt-at-a-zero-shot-ai-disriminator.html</guid>
@@ -400,52 +427,10 @@ the mixture of tea gardens and fruit orchards enhances the flavor of the tea.</p
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/shushan.html</link>
 <guid>https://andrewfowlie.github.io/blog/./shushan.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
 <pubDate>Wed, 08 Apr 2026 14:21:43 +0800</pubDate></item>
-<item><title>
-Supremacy
-</title><description><![CDATA[
-
-<p class="dropcap">Read and enjoyed <em>Supremacy: AI, ChatGPT and the Race That Will Change the World</em> by 
-  Parmy Olson. It tells the story of the development of LLMs and more generally generative AI through the rivalry
-between Sam Altman and OpenAI, and Demis Hassabis and Deepmind. This isn't a technical book and you won't find explanations about 
-AI here.</p>
-
-<img class="center" src="https://upload.wikimedia.org/wikipedia/en/a/ad/Supremacy_%28book%29.jpg">
-</img>
-
-<p>Recurring themes are the relationship between AI and big tech, corporate governance structures that ensure safe and ethical AI, and the Faustian bargains and compromises that Altman and Hassabis 
-make with Google and Microsoft. As the race between Altman and Hassabis heated up, they needed compute that only billions of dollars could buy. 
-At which point things changed from 'solve intellgience and then solve everything else' to 'solve intelligence and then create value for shareholders.'</p>
-
-<p>I found the book overly trusting of both Altman and Hassabis and their stated ideals. After all, it mentioned the case of Sam Bankman-Fried. After his convictons, he 
-indicated that his beliefs in charity and altruism were exaggerated. However, on the whole I found it informative and genuinely exciting.</p>
-
-<p>Tags: <a href='tag_ai.html'>ai</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-]]></description><link>https://andrewfowlie.github.io/blog/supremacy.html</link>
-<guid>https://andrewfowlie.github.io/blog/./supremacy.html</guid>
-<dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 08 Apr 2026 13:54:48 +0800</pubDate></item>
 </channel></rss>
