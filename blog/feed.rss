@@ -2,9 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>/home/andrew$</title><link>https://andrewfowlie.github.io/blog/index.html</link>
 <description>Some thoughts on physics, statistics, computing & technology</description><language>en</language>
-<lastBuildDate>Mon, 15 Jun 2026 14:30:05 +0800</lastBuildDate>
-<pubDate>Mon, 15 Jun 2026 14:30:05 +0800</pubDate>
+<lastBuildDate>Tue, 16 Jun 2026 07:39:56 +0100</lastBuildDate>
+<pubDate>Tue, 16 Jun 2026 07:39:56 +0100</pubDate>
 <atom:link href="https://andrewfowlie.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+AI tipping points
+</title><description><![CDATA[
+
+<p class="dropcap">Read a disturbing <a href="https://news.sky.com/story/ebola-largest-ever-outbreak-of-rare-strain-likely-even-greater-and-the-first-line-of-defence-has-collapsed-13554337">article</a> about an outbreak of the Ebola virus in the DRC. The causes include a lack of clean water and sanitation facilities, i.e., clean toilets and sinks. At the same time, an AI bubble created a trillionaire and the rapid construction of water-guzzling data centers. We don’t need to solve intelligence and then solve everything else, the stated goal of Demis Hassibis of DeepMind. We need to redress poverty, inequalities and dire circumstances starting now. A long-term benefit of AI is that it’s radicalizing society and making us realize that there are different visions of our future and different ideas about what constitutes progress. AI caused our economic system to descend into an absurd caricature. First tragedy, then farce, as we were warned.
+</p>
+
+<img src="https://e3.365dm.com/26/06/1600x900/skynews-oxfam-ebola-congo_7274323.jpg?20260615172955" class="center"></img>
+
+<p>Another tipping point may be happening in academia. For the last few years, researchers have jumped on the bandwagon of AI for science, promoting hype that AI will accelerate scientific progress. This is reflected in academic literature, conferences, personal statements and webpages, and grants. From what I can tell, the bandwagon is now full. AI-scientists are ten a penny. Insights and lasting advances remain rare, and the actual expertise and value of AI scientists, in many cases, looks threadbare.
+</p>
+
+<p>Only time will tell, but for now I am happy to ying while everyone else yangs. Paradoxically, as a consequence of the rush towards AI, actual understanding of statistics, statistical reasoning, statistical computation, and reasoning under uncertainty in general are at present rare and underdeveloped. I remain interested in AI, but through the perspective of traditional statistics and computing, and with a critical eye on who made it, how and why, and what harm it might cause.</p>
+
+<p>Tags: <a href='tag_ai.html'>ai</a>, <a href='tag_academia.html'>academia</a></p>
+
+<!-- text end -->
+]]></description><link>https://andrewfowlie.github.io/blog/ai-tipping-points.html</link>
+<guid>https://andrewfowlie.github.io/blog/./ai-tipping-points.html</guid>
+<dc:creator>Andrew Fowlie</dc:creator>
+<pubDate>Tue, 16 Jun 2026 07:31:34 +0100</pubDate></item>
 <item><title>
 32 Programmes
 </title><description><![CDATA[
@@ -19,11 +40,12 @@ though it took a surprisingly sombre turn at the end, as the author suffered fro
 
 <p>Tags: <a href='tag_football.html'>football</a>, <a href='tag_books.html'>books</a></p>
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/32-programmes.html</link>
 <guid>https://andrewfowlie.github.io/blog/./32-programmes.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Mon, 15 Jun 2026 14:28:10 +0800</pubDate></item>
+<pubDate>Mon, 15 Jun 2026 14:28:10 +0100</pubDate></item>
 <item><title>
 Short stories
 </title><description><![CDATA[
@@ -50,11 +72,12 @@ with equality in distribution. These little problems are, to me, the short stori
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/short-stories.html</link>
 <guid>https://andrewfowlie.github.io/blog/./short-stories.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Mon, 01 Jun 2026 16:35:01 +0800</pubDate></item>
+<pubDate>Mon, 01 Jun 2026 16:35:01 +0100</pubDate></item>
 <item><title>
 Nanjing
 </title><description><![CDATA[
@@ -75,11 +98,12 @@ Nowadays I try to tell a compelling story about our research - why we did it, ho
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/nanjing.html</link>
 <guid>https://andrewfowlie.github.io/blog/./nanjing.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Tue, 19 May 2026 11:22:19 +0800</pubDate></item>
+<pubDate>Tue, 19 May 2026 11:22:19 +0100</pubDate></item>
 <item><title>
 The Last Bell
 </title><description><![CDATA[
@@ -110,11 +134,12 @@ no longer think noble champions, even Oleksandr Usyk, can justify or redeem it.<
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/the-last-bell.html</link>
 <guid>https://andrewfowlie.github.io/blog/./the-last-bell.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Mon, 11 May 2026 13:57:10 +0800</pubDate></item>
+<pubDate>Mon, 11 May 2026 13:57:10 +0100</pubDate></item>
 <item><title>
 Craghead Colliery
 </title><description><![CDATA[
@@ -156,11 +181,12 @@ By definition the Labor Party is the party of fundamental change and therefore b
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/craghead-colliery.html</link>
 <guid>https://andrewfowlie.github.io/blog/./craghead-colliery.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Sat, 02 May 2026 13:38:53 +0800</pubDate></item>
+<pubDate>Sat, 02 May 2026 13:38:53 +0100</pubDate></item>
 <item><title>
 Dwayne Fields
 </title><description><![CDATA[
@@ -195,11 +221,12 @@ what can I do?</p>
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/dwayne-fields-.html</link>
 <guid>https://andrewfowlie.github.io/blog/./dwayne-fields-.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Sun, 26 Apr 2026 04:34:11 +0800</pubDate></item>
+<pubDate>Sun, 26 Apr 2026 04:34:11 +0100</pubDate></item>
 <item><title>
 Nero
 </title><description><![CDATA[
@@ -228,11 +255,12 @@ Nero
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/nero.html</link>
 <guid>https://andrewfowlie.github.io/blog/./nero.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 22 Apr 2026 15:59:04 +0800</pubDate></item>
+<pubDate>Wed, 22 Apr 2026 15:59:04 +0100</pubDate></item>
 <item><title>
 Sincerity
 </title><description><![CDATA[
@@ -318,11 +346,12 @@ Now what am I to do? You are wasting my time and degrading written communication
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/sincerity.html</link>
 <guid>https://andrewfowlie.github.io/blog/./sincerity.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Mon, 20 Apr 2026 14:08:57 +0800</pubDate></item>
+<pubDate>Mon, 20 Apr 2026 14:08:57 +0100</pubDate></item>
 <item><title>
 An attempt at a zero-shot AI discriminator
 </title><description><![CDATA[
@@ -389,48 +418,10 @@ are reasonable approximations to the real models, it would inform us about the c
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/an-attempt-at-a-zero-shot-ai-disriminator.html</link>
 <guid>https://andrewfowlie.github.io/blog/./an-attempt-at-a-zero-shot-ai-disriminator.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Fri, 10 Apr 2026 15:02:22 +0800</pubDate></item>
-<item><title>
-Shushan
-</title><description><![CDATA[
-
-<p class="dropcaps">Visited Shushan, a village in northwestern Suzhou at the base of a mountain. Thoroughly enjoyed
-the boardwalk through the terraced tea farms and fruit orchards.</p>
-
-<video class="center" controls>
-  <source src="https://gbaike-media.cdn.bcebos.com/10995774715687514563/10995774715687514563_sc.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<p>The grace and stamina of the workers picking the tea was inspiring. I've since read that they are growing Biluochun tea, one of the ten great teas of China, and that
-the mixture of tea gardens and fruit orchards enhances the flavor of the tea.</p>
-
-<p>Tags: <a href='tag_travel.html'>travel</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-]]></description><link>https://andrewfowlie.github.io/blog/shushan.html</link>
-<guid>https://andrewfowlie.github.io/blog/./shushan.html</guid>
-<dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 08 Apr 2026 14:21:43 +0800</pubDate></item>
+<pubDate>Fri, 10 Apr 2026 15:02:22 +0100</pubDate></item>
 </channel></rss>
