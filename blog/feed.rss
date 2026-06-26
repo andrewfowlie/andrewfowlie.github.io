@@ -2,9 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>/home/andrew$</title><link>https://andrewfowlie.github.io/blog/index.html</link>
 <description>Some thoughts on physics, statistics, computing & technology</description><language>en</language>
-<lastBuildDate>Mon, 22 Jun 2026 11:02:48 +0800</lastBuildDate>
-<pubDate>Mon, 22 Jun 2026 11:02:48 +0800</pubDate>
+<lastBuildDate>Fri, 26 Jun 2026 14:45:41 +0800</lastBuildDate>
+<pubDate>Fri, 26 Jun 2026 14:45:41 +0800</pubDate>
 <atom:link href="https://andrewfowlie.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+48 teams at the World Cup
+</title><description><![CDATA[
+
+<p>This time round, the World Cup has expanded to 48 teams. My first thought was that this watered-down the competition. There are too many 
+easy games, no group of death with 2 or 3 very strong teams, and minimal risk of elimination for big teams. I stand by most of this. Scotland
+are in arguably the toughest group. Obviously, 48 isn't a power of 2. The sense that it's watered-down feels more so since the first 72 matches only eliminate 16 teams, since 8
+third-placed lucky losers go through to make 32, which is a power of 2, teams into the knockouts.</p>
+
+<p>However, I was overlooking something. The expanded tournament partly addresses something wrong with the tournament:
+UEFA (European) nations are hugely over-represented. Let's take a look at the data by football federation.
+There are some quirks, e.g., for football, Australia changed to Asia from Oceania in 2010. I go back to 1998, because that's when the number of teams was last increased to 32.</p>
+
+<p>For this 48 team 2026 edition, 
+<ul>
+  <li>2026: Asia 9, Africa 10, North and Central Americas 6, South America 6, Oceania 1, Europe 16</li>
+</ul>
+For previous 32 team editions from 1998 to 2022,
+<ul>
+  <li>2022: Asia 6, Africa 5, North and Central Americas 4, South Ameria 4, Oceania 0, Europe 13</li>
+  <li>2018: Asia 5, Africa 5, North and Central Americas 3, South Ameria 5, Oceania 0, Europe 14</li>
+  <li>2014: Asia 3, Africa 5, North and Central Americas 4, South Ameria 6, Oceaia 0, Europe 13</li>
+  <li>2010: Asia 4, Africa 6, North and Central Americas 3, South America 5, Oceania 1, Europe 13</li>
+  <li>2006: Asia 4, Africa 5, North and Central Americas 4, South America 4, Oceania 1, Europe 14</li>
+  <li>2002: Asia 4, Africa 5, North and Central Americas 3, South America 5, Oceania 0, Europe 15</li>
+  <li>1998: Asia 4, Africa 5, North and Central Americas 3, South America 5, Oceania 0, Europe 15</li>
+</ul>
+</p>
+
+<p>The fraction of European teams has dropped from between 13 and 15 of 32, around 41% to 47%, to only 16 of 48, about 33%. This is still too high, in my opinion, but now we have twice as many teams from Africa, and more from Asia. Thus overall I think
+this is fairer and an improvement.</p>
+
+<p>On that note, it is extraordinary that Nigeria didn't qualify. 10 African teams can make it, and they have footballing heritage and a
+population of 228 million, far ahead of Ethiopia, who also aren't there, at 129 millon. Egypt, who are there, are third at 115 million. Morocco, arguably the best Africa
+side and who might go far at the World Cup, only have 38 millon so perhaps none of this matters!</p>
+
+<p>Tags: <a href='tag_football.html'>football</a>, <a href='tag_world-cup.html'>world-cup</a></p>
+
+<!-- text end -->
+]]></description><link>https://andrewfowlie.github.io/blog/48-teams-at-the-world-cup.html</link>
+<guid>https://andrewfowlie.github.io/blog/./48-teams-at-the-world-cup.html</guid>
+<dc:creator>Andrew Fowlie</dc:creator>
+<pubDate>Fri, 26 Jun 2026 14:32:01 +0800</pubDate></item>
 <item><title>
 Robot
 </title><description><![CDATA[
@@ -19,6 +62,7 @@ agency and free-will. The robots in question aren't the mechanical sort of the A
 to follow their own instincts and will, which will somehow fulfill the Mechanism's wishes. I did not understand the plot entirely; but maybe I wasn't supposed to.</p>
 
 <p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_sf.html'>sf</a>, <a href='tag_ai.html'>ai</a></p>
+
 
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/robot.html</link>
@@ -37,6 +81,7 @@ crowd?''</blockquote>
 
 <em>Robot</em>, by Adam Wisniewski-Snerg
 <p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_sci-fi.html'>sci-fi</a></p>
+
 
 
 <!-- text end -->
@@ -62,6 +107,7 @@ AI tipping points
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/ai-tipping-points.html</link>
 <guid>https://andrewfowlie.github.io/blog/./ai-tipping-points.html</guid>
@@ -80,6 +126,7 @@ though it took a surprisingly sombre turn at the end, as the author suffered fro
 <p>The author's memories of racism in football crowds in the 1970s sadly didn't feel that far away from where we are now in society.</p>
 
 <p>Tags: <a href='tag_football.html'>football</a>, <a href='tag_books.html'>books</a></p>
+
 
 
 
@@ -118,6 +165,7 @@ with equality in distribution. These little problems are, to me, the short stori
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/short-stories.html</link>
 <guid>https://andrewfowlie.github.io/blog/./short-stories.html</guid>
@@ -137,6 +185,7 @@ Nowadays I try to tell a compelling story about our research - why we did it, ho
 <p>A personal highlight was a chance to revisit <em>Stone Elephant Road</em>, a path lined with huge stone sculptures of horses, elephants, camels and dragons to guard a mausoleum.</p>
 
 <p>Tags: <a href='tag_travel.html'>travel</a>, <a href='tag_academia.html'>academia</a></p>
+
 
 
 
@@ -168,6 +217,7 @@ no longer think noble champions, even Oleksandr Usyk, can justify or redeem it.<
 <p>RIP Patrick Day.</p>
 
 <p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_sport.html'>sport</a>, <a href='tag_boxing.html'>boxing</a></p>
+
 
 
 
@@ -233,6 +283,7 @@ By definition the Labor Party is the party of fundamental change and therefore b
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/craghead-colliery.html</link>
 <guid>https://andrewfowlie.github.io/blog/./craghead-colliery.html</guid>
@@ -275,45 +326,10 @@ what can I do?</p>
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/dwayne-fields-.html</link>
 <guid>https://andrewfowlie.github.io/blog/./dwayne-fields-.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
 <pubDate>Sun, 26 Apr 2026 04:34:11 +0800</pubDate></item>
-<item><title>
-Nero
-</title><description><![CDATA[
-
-<p class="dropcap">Read and thoroughly enjoyed <em>Nero</em> by Conn Iggulden. This is the first part of a trilogy of historical fiction about ancient Rome. This first part traces the emperors Tiberius, Caligula and Claudius, ending with the 
-  Roman conquest of Britain.</p>
-
-<img src="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781639366545/nero-9781639366545_lg.jpg" class="center"></img>
-
-<p>I've read other books by Iggulden many years ago, and it's similar, though much less biographical, to Robert Harris' Cicero trilogy. It also reminded me of <em>Eagle of the Ninth</em> <body>
-  by Rosemary Sutcliffe. I remember listening to it on tapes from the local library many, many years ago.</p>
-
-<p>Tags: <a href='tag_books.html'>books</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-]]></description><link>https://andrewfowlie.github.io/blog/nero.html</link>
-<guid>https://andrewfowlie.github.io/blog/./nero.html</guid>
-<dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 22 Apr 2026 15:59:04 +0800</pubDate></item>
 </channel></rss>
