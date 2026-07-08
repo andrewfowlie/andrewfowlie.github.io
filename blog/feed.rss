@@ -2,9 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>/home/andrew$</title><link>https://andrewfowlie.github.io/blog/index.html</link>
 <description>Some thoughts on physics, statistics, computing & technology</description><language>en</language>
-<lastBuildDate>Fri, 26 Jun 2026 14:45:41 +0800</lastBuildDate>
-<pubDate>Fri, 26 Jun 2026 14:45:41 +0800</pubDate>
+<lastBuildDate>Wed, 08 Jul 2026 12:52:52 +0800</lastBuildDate>
+<pubDate>Wed, 08 Jul 2026 12:52:52 +0800</pubDate>
 <atom:link href="https://andrewfowlie.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Three lions and red lines
+</title><description><![CDATA[
+
+<p class="dropcap">Watched England's inspiring victory against Mexico at the Azteca. What a 
+special match and occasion, one of the most memorable and iconic England games of my life.</p>
+
+<p>Pickford, Bellingham and Kane were particularly inspriational. When the going gets tough, lots of England players over the 
+years have dissappeared. They are scared. They don't want the ball. Those three were brave and stepped up and took responsibility.</p>
+
+<img src="https://www.worldtradingcards.com/cdn/shop/files/45_FWC_ENG_002.webp?v=1777743320&width=736" class="center"></img>
+
+<p>Immensely dissapointed by the decision to suspend Balogun's three-match ban. A terrible precedent that undermines sporting integrity,
+fairness and transparency. FIFA are not true to their values, and they gaslight fans and behave as though they
+are beyond reproach. A redline indeed, and I suspect the beginning of a long and lasting open confrontation betwen UEFA and FIFA.</p>
+
+<p>Whilst this is the most shocking evidence of corruption and collusion between FIFA and global-powers impacting the game, it is only a matter 
+  of someone missing a game. We should be just as outraged over FIFA failure to uphold worker and minority rights and safety.</p>
+
+<p>Tags: <a href='tag_football.html'>football</a>, <a href='tag_world cup.html'>world cup</a>, <a href='tag_FIFA.html'>FIFA</a></p>
+
+<!-- text end -->
+]]></description><link>https://andrewfowlie.github.io/blog/three-lions-and-red-lines.html</link>
+<guid>https://andrewfowlie.github.io/blog/./three-lions-and-red-lines.html</guid>
+<dc:creator>Andrew Fowlie</dc:creator>
+<pubDate>Wed, 08 Jul 2026 12:51:37 +0800</pubDate></item>
+<item><title>
+Standard Fireworks
+</title><description><![CDATA[
+
+<p class="dropcap">Read Peter Kay's Diary, a very light and enjoyable read, as I was feeling somewhat stressed at work. The book is everything you would expect 
+from Peter kay: warm, nostalgic, and funny, with occasional more serious notes.</p>
+
+<iframe class="center" src="https://www.youtube.com/embed/Rqmd39GdDww?si=IVglPPxm0gvUzuNf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Peter Kay's father used to buy <em>Standard Fireworks</em>, which crop up in one of my favourite stories told by Bob Mortimer! As David Mitchell says, it's a funy
+name. <em>Standard Fireworks: for a bonfire night you will forget!</em></p>
+
+<p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_comedy.html'>comedy</a></p>
+
+<!-- text end -->
+]]></description><link>https://andrewfowlie.github.io/blog/light-hearted-read.html</link>
+<guid>https://andrewfowlie.github.io/blog/./light-hearted-read.html</guid>
+<dc:creator>Andrew Fowlie</dc:creator>
+<pubDate>Wed, 08 Jul 2026 12:29:01 +0800</pubDate></item>
 <item><title>
 48 teams at the World Cup
 </title><description><![CDATA[
@@ -43,6 +88,7 @@ side and who might go far at the World Cup, only have 38 millon so perhaps none 
 
 <p>Tags: <a href='tag_football.html'>football</a>, <a href='tag_world-cup.html'>world-cup</a></p>
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/48-teams-at-the-world-cup.html</link>
 <guid>https://andrewfowlie.github.io/blog/./48-teams-at-the-world-cup.html</guid>
@@ -64,6 +110,7 @@ to follow their own instincts and will, which will somehow fulfill the Mechanism
 <p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_sf.html'>sf</a>, <a href='tag_ai.html'>ai</a></p>
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/robot.html</link>
 <guid>https://andrewfowlie.github.io/blog/./robot.html</guid>
@@ -81,6 +128,7 @@ crowd?''</blockquote>
 
 <em>Robot</em>, by Adam Wisniewski-Snerg
 <p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_sci-fi.html'>sci-fi</a></p>
+
 
 
 
@@ -108,6 +156,7 @@ AI tipping points
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/ai-tipping-points.html</link>
 <guid>https://andrewfowlie.github.io/blog/./ai-tipping-points.html</guid>
@@ -126,6 +175,7 @@ though it took a surprisingly sombre turn at the end, as the author suffered fro
 <p>The author's memories of racism in football crowds in the 1970s sadly didn't feel that far away from where we are now in society.</p>
 
 <p>Tags: <a href='tag_football.html'>football</a>, <a href='tag_books.html'>books</a></p>
+
 
 
 
@@ -166,6 +216,7 @@ with equality in distribution. These little problems are, to me, the short stori
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/short-stories.html</link>
 <guid>https://andrewfowlie.github.io/blog/./short-stories.html</guid>
@@ -185,6 +236,7 @@ Nowadays I try to tell a compelling story about our research - why we did it, ho
 <p>A personal highlight was a chance to revisit <em>Stone Elephant Road</em>, a path lined with huge stone sculptures of horses, elephants, camels and dragons to guard a mausoleum.</p>
 
 <p>Tags: <a href='tag_travel.html'>travel</a>, <a href='tag_academia.html'>academia</a></p>
+
 
 
 
@@ -234,102 +286,10 @@ no longer think noble champions, even Oleksandr Usyk, can justify or redeem it.<
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/the-last-bell.html</link>
 <guid>https://andrewfowlie.github.io/blog/./the-last-bell.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
 <pubDate>Mon, 11 May 2026 13:57:10 +0800</pubDate></item>
-<item><title>
-Craghead Colliery
-</title><description><![CDATA[
-
-<p class="dropcap">Watched <em>Craghead Colliery</em>, a documentary made by the BBC in 1969 about the fate of the Craghead Colliery and community between Newcastle and Durham.
-The miners performed dirty, dangerous and depressing work to provide coal and power for us. They worked hard for each other and  
-support their families for 50 years in the pit and then often passed away shortly after retirement, suffering from chronic health conditions associated with their work.
-</p>
-
-<iframe class="center" src="https://www.youtube.com/embed/iQyxIH1Px20?si=SuuqozoztCn1T9vq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<p>The coal ran out, or at least, became expensive to extract. The documentary features speeches from Margaret Castle and Harold Wilson at the Durham Miners' Gala.
-In my opinion, the Labour Prime Minister Wilson let them down: he was evasive about their future, telling them only that a decision on the 
-future of energy in the North East would be based on technical, economic, as well as 
-social factors. He later buried news about the future of the mines on the day of the Soviet invasion of Czechoslovakia.
-<p>
-
-<p>I liked Margaret Castle's words though:</p>
-<blockquote>
-I am deeply conscious of the of the tribute that you have paid in allowing me to be here this morning 
-…
-you are not the ones who theorize about the need for change in Britain you are the ones who have to experience it 
-……
-By definition the Labor Party is the party of fundamental change and therefore by definition the task of a Labor government will always be more difficult than that of a Tory one.
-</blockquote>
-
-<p>Tags: <a href='tag_tv.html'>tv</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-]]></description><link>https://andrewfowlie.github.io/blog/craghead-colliery.html</link>
-<guid>https://andrewfowlie.github.io/blog/./craghead-colliery.html</guid>
-<dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Sat, 02 May 2026 13:38:53 +0800</pubDate></item>
-<item><title>
-Dwayne Fields
-</title><description><![CDATA[
-
-<p class="dropcap">Listened to Dwayne Field's episode of <em>Desert Island Discs</em>. Dwayne is an explorer, motivational speaker and an ambassador for the Scouts. He had an amazing story,
-growing up in Jamaica, at first raised by his great grandmother, before moving to the UK aged six. He navigated gangs, crime and social problems in inner London, before a life-changing
-opportunity to join an expedition to the North Pole. In doing so, he became the first black person to reach the magnetic North Pole.</p>
-
-<audio class="center" controls>
-  <source src="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/https/vpid/p0n7tzwr.mp3" type="audio/mpeg">
-  Your browser does not support the audio tag.
-</audio>
-
-<p>There were two takeaways from his story stuck with me. First, I loved his statement that as an explorer he was about planting seeds, not flags. That he wasn't interested in claiming
-firsts and discoveries and successes for himself, as his; he wanted to lead the way, to inspire and support other people. I think this works as a metaphor for what we should try to do in academia. Second, I loved his message
-that we were all capable of doing and giving so much more than we realized. If he could start where he started, and go to the North Pole, and now inspire other people,
-what can I do?</p>
-
-<p>Tags: <a href='tag_inspirational.html'>inspirational</a>, <a href='tag_podcasts.html'>podcasts</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-]]></description><link>https://andrewfowlie.github.io/blog/dwayne-fields-.html</link>
-<guid>https://andrewfowlie.github.io/blog/./dwayne-fields-.html</guid>
-<dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Sun, 26 Apr 2026 04:34:11 +0800</pubDate></item>
 </channel></rss>
