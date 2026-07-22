@@ -2,9 +2,95 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>/home/andrew$</title><link>https://andrewfowlie.github.io/blog/index.html</link>
 <description>Some thoughts on physics, statistics, computing & technology</description><language>en</language>
-<lastBuildDate>Wed, 08 Jul 2026 12:52:52 +0800</lastBuildDate>
-<pubDate>Wed, 08 Jul 2026 12:52:52 +0800</pubDate>
+<lastBuildDate>Wed, 22 Jul 2026 11:57:08 +0800</lastBuildDate>
+<pubDate>Wed, 22 Jul 2026 11:57:08 +0800</pubDate>
 <atom:link href="https://andrewfowlie.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+
+</title><description><![CDATA[
+
+<!-- text end -->
+]]></description><link>https://andrewfowlie.github.io/blog/quantum-mechanics-in-your-face-for-anybody.html.17416.html</link>
+<guid>https://andrewfowlie.github.io/blog/./quantum-mechanics-in-your-face-for-anybody.html.17416.html</guid>
+<dc:creator></dc:creator>
+<pubDate>Wed, 22 Jul 2026 11:48:19 +0800</pubDate></item>
+<item><title>
+Quantum Mechanics In Your Face For Anybody
+</title><description><![CDATA[
+
+<p class="dropcap">Wrote a lecture on Quantum Mechanics for a non-mathematical audience [<a href="quantum_lecture.pdf">pdf</a>]. There are no equations and little maths beyond percentages. The key conceptual differences between Quantum and Classical Physics are there, though, and these
+topics require attention and serious thought.</p>
+
+<img src="quantum_lecture.png" class="center">
+<p>The title alludes to two wonderful expositions of quantum mechanics by the masters:</p>
+
+<ul>
+  <li>
+    <strong>Bringing Home the Atomic World: Quantum Mysteries for Anybody</strong><br>
+    N. D. Mermin<br>
+    <em>Am. J. Phys.</em> 49, 940–943 (1981)<br>
+    <a href="https://doi.org/10.1119/1.12594" target="_blank" rel="noopener noreferrer">
+      DOI: 10.1119/1.12594
+    </a>
+  </li>
+  <li>
+    <strong>Sidney Coleman’s Dirac Lecture “Quantum Mechanics in Your Face”</strong><br>
+    Sidney Coleman<br>
+    e-Print:
+    <a href="https://arxiv.org/abs/2011.12671" target="_blank" rel="noopener noreferrer">
+      arXiv:2011.12671 [physics.hist-ph]
+    </a><br>
+    YouTube:
+    <a href="https://youtu.be/EtyNMlXN-sw?si=sGheoGwV1gwWFxgO" target="_blank" rel="noopener noreferrer">
+      Sidney Coleman, Quantum Mechanics in Your Face (1994)
+    </a>
+  </li>
+</ul>
+
+<p>Mermin and Coleman are both physicists' physicists: they aren't widely known to the public, but they contributed tremendous insight and clarity.
+Feynman described Mermin's paper as "one of the most beautiful papers in physics." </p>
+
+<p>If everything goes to plan, I'll deliver the lecture at least three times this autumn to a general audience, and perhaps use the material when I deliver
+the <a href="https://modules.xjtlu.edu.cn/?mod_code=PHY301">PHY301</a> Quantum Mechanics module, as well, which, if you're interested, follows Griffiths.</p>
+
+<p>Comments, discussion and feedback are welcome, but in the original, small net way. Shoot me an e-mail. I'll be happy to hear from you, dear reader.</p>
+
+<p>Tags: <a href='tag_quantum-mechanics.html'>quantum-mechanics</a>, <a href='tag_physics.html'>physics</a></p>
+
+<!-- text end -->
+]]></description><link>https://andrewfowlie.github.io/blog/quantum-mechanics-in-your-face-for-anybody.html</link>
+<guid>https://andrewfowlie.github.io/blog/./quantum-mechanics-in-your-face-for-anybody.html</guid>
+<dc:creator>Andrew Fowlie</dc:creator>
+<pubDate>Wed, 22 Jul 2026 11:29:34 +0800</pubDate></item>
+<item><title>
+England versus Argentina
+</title><description><![CDATA[
+
+<p>Thoroughly excited about the England-Argentina World Cup semi-final, which kicks off in just a few hours. What an occasion! heavily loaded with both football 
+and political history.</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Maradona_vs_england.jpg" class="center"></img>
+
+<p>I was disappointed to hear Falklands/Malvinas mentioned by both sets of fans in a jingoistic manner. We are rivals on the pitch, but all football fans should be united in agreement that we must solve these problems through dialogue and never again resort to armed conflict.</p>
+
+<p>Tags: <a href='tag_football.html'>football</a>, <a href='tag_world-cup.html'>world-cup</a>, <a href='tag_conflict.html'>conflict</a></p>
+
+
+<!-- text end -->
+]]></description><link>https://andrewfowlie.github.io/blog/england-versus-argentina.html</link>
+<guid>https://andrewfowlie.github.io/blog/./england-versus-argentina.html</guid>
+<dc:creator>Andrew Fowlie</dc:creator>
+<pubDate>Wed, 15 Jul 2026 16:29:15 +0800</pubDate></item>
+<item><title>
+
+</title><description><![CDATA[
+
+
+<!-- text end -->
+]]></description><link>https://andrewfowlie.github.io/blog/england-versus-argentina-and-the-falklandsmalvinas.html</link>
+<guid>https://andrewfowlie.github.io/blog/./england-versus-argentina-and-the-falklandsmalvinas.html</guid>
+<dc:creator></dc:creator>
+<pubDate>Wed, 15 Jul 2026 16:29:15 +0800</pubDate></item>
 <item><title>
 Three lions and red lines
 </title><description><![CDATA[
@@ -12,19 +98,21 @@ Three lions and red lines
 <p class="dropcap">Watched England's inspiring victory against Mexico at the Azteca. What a 
 special match and occasion, one of the most memorable and iconic England games of my life.</p>
 
-<p>Pickford, Bellingham and Kane were particularly inspriational. When the going gets tough, lots of England players over the 
-years have dissappeared. They are scared. They don't want the ball. Those three were brave and stepped up and took responsibility.</p>
+<p>Pickford, Bellingham and Kane were particularly inspirational. When the going gets tough, lots of England players over the 
+years have disappeared. They are scared. They don't want the ball. Those three were brave and stepped up and took responsibility.</p>
 
 <img src="https://www.worldtradingcards.com/cdn/shop/files/45_FWC_ENG_002.webp?v=1777743320&width=736" class="center"></img>
 
-<p>Immensely dissapointed by the decision to suspend Balogun's three-match ban. A terrible precedent that undermines sporting integrity,
+<p>Immensely disappointed by the decision to suspend Balogun's three-match ban. A terrible precedent that undermines sporting integrity,
 fairness and transparency. FIFA are not true to their values, and they gaslight fans and behave as though they
-are beyond reproach. A redline indeed, and I suspect the beginning of a long and lasting open confrontation betwen UEFA and FIFA.</p>
+are beyond reproach. A red line indeed, and I suspect the beginning of a long and lasting open confrontation between UEFA and FIFA.</p>
 
 <p>Whilst this is the most shocking evidence of corruption and collusion between FIFA and global-powers impacting the game, it is only a matter 
   of someone missing a game. We should be just as outraged over FIFA failure to uphold worker and minority rights and safety.</p>
 
-<p>Tags: <a href='tag_football.html'>football</a>, <a href='tag_world cup.html'>world cup</a>, <a href='tag_FIFA.html'>FIFA</a></p>
+<p>Tags: <a href='tag_football.html'>football</a>, <a href='tag_world-cup.html'>world-cup</a>, <a href='tag_FIFA.html'>FIFA</a></p>
+
+
 
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/three-lions-and-red-lines.html</link>
@@ -36,19 +124,38 @@ Standard Fireworks
 </title><description><![CDATA[
 
 <p class="dropcap">Read Peter Kay's Diary, a very light and enjoyable read, as I was feeling somewhat stressed at work. The book is everything you would expect 
-from Peter kay: warm, nostalgic, and funny, with occasional more serious notes.</p>
+from Peter Kay: warm, nostalgic, and funny, with occasional more serious notes.</p>
 
 <iframe class="center" src="https://www.youtube.com/embed/Rqmd39GdDww?si=IVglPPxm0gvUzuNf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<p>Peter Kay's father used to buy <em>Standard Fireworks</em>, which crop up in one of my favourite stories told by Bob Mortimer! As David Mitchell says, it's a funy
+<p>Peter Kay's father used to buy <em>Standard Fireworks</em>, which crop up in one of my favourite stories told by Bob Mortimer! As David Mitchell says, it's a funny
 name. <em>Standard Fireworks: for a bonfire night you will forget!</em></p>
 
 <p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_comedy.html'>comedy</a></p>
 
+
+
+
+
+
+
+<!-- text end -->
+]]></description><link>https://andrewfowlie.github.io/blog/standard-fireworks.html</link>
+<guid>https://andrewfowlie.github.io/blog/./standard-fireworks.html</guid>
+<dc:creator>Andrew Fowlie</dc:creator>
+<pubDate>Wed, 08 Jul 2026 12:29:01 +0800</pubDate></item>
+<item><title>
+
+</title><description><![CDATA[
+
+
+
+
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/light-hearted-read.html</link>
 <guid>https://andrewfowlie.github.io/blog/./light-hearted-read.html</guid>
-<dc:creator>Andrew Fowlie</dc:creator>
+<dc:creator></dc:creator>
 <pubDate>Wed, 08 Jul 2026 12:29:01 +0800</pubDate></item>
 <item><title>
 48 teams at the World Cup
@@ -69,9 +176,9 @@ There are some quirks, e.g., for football, Australia changed to Asia from Oceani
 </ul>
 For previous 32 team editions from 1998 to 2022,
 <ul>
-  <li>2022: Asia 6, Africa 5, North and Central Americas 4, South Ameria 4, Oceania 0, Europe 13</li>
-  <li>2018: Asia 5, Africa 5, North and Central Americas 3, South Ameria 5, Oceania 0, Europe 14</li>
-  <li>2014: Asia 3, Africa 5, North and Central Americas 4, South Ameria 6, Oceaia 0, Europe 13</li>
+  <li>2022: Asia 6, Africa 5, North and Central Americas 4, South America 4, Oceania 0, Europe 13</li>
+  <li>2018: Asia 5, Africa 5, North and Central Americas 3, South America 5, Oceania 0, Europe 14</li>
+  <li>2014: Asia 3, Africa 5, North and Central Americas 4, South America 6, Oceania 0, Europe 13</li>
   <li>2010: Asia 4, Africa 6, North and Central Americas 3, South America 5, Oceania 1, Europe 13</li>
   <li>2006: Asia 4, Africa 5, North and Central Americas 4, South America 4, Oceania 1, Europe 14</li>
   <li>2002: Asia 4, Africa 5, North and Central Americas 3, South America 5, Oceania 0, Europe 15</li>
@@ -83,10 +190,11 @@ For previous 32 team editions from 1998 to 2022,
 this is fairer and an improvement.</p>
 
 <p>On that note, it is extraordinary that Nigeria didn't qualify. 10 African teams can make it, and they have footballing heritage and a
-population of 228 million, far ahead of Ethiopia, who also aren't there, at 129 millon. Egypt, who are there, are third at 115 million. Morocco, arguably the best Africa
-side and who might go far at the World Cup, only have 38 millon so perhaps none of this matters!</p>
+population of 228 million, far ahead of Ethiopia, who also aren't there, at 129 million. Egypt, who are there, are third at 115 million. Morocco, arguably the best Africa
+side and who might go far at the World Cup, only have 38 million so perhaps none of this matters!</p>
 
 <p>Tags: <a href='tag_football.html'>football</a>, <a href='tag_world-cup.html'>world-cup</a></p>
+
 
 
 <!-- text end -->
@@ -107,7 +215,13 @@ Is he human or robot? Are the other characters real? Are there discontinuities i
 agency and free-will. The robots in question aren't the mechanical sort of the AI sort; they are biological and possess a free-will. They are created by the <em>Mechanism</em>
 to follow their own instincts and will, which will somehow fulfill the Mechanism's wishes. I did not understand the plot entirely; but maybe I wasn't supposed to.</p>
 
-<p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_sf.html'>sf</a>, <a href='tag_ai.html'>ai</a></p>
+<p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_sci-fi.html'>sci-fi</a>, <a href='tag_ai.html'>ai</a></p>
+
+
+
+
+
+
 
 
 
@@ -132,164 +246,15 @@ crowd?''</blockquote>
 
 
 
+
+
+
+
+
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/are-we-in-the-shelter.html</link>
 <guid>https://andrewfowlie.github.io/blog/./are-we-in-the-shelter.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
 <pubDate>Thu, 18 Jun 2026 10:42:44 +0800</pubDate></item>
-<item><title>
-AI tipping points
-</title><description><![CDATA[
-
-<p class="dropcap">Read a disturbing <a href="https://news.sky.com/story/ebola-largest-ever-outbreak-of-rare-strain-likely-even-greater-and-the-first-line-of-defence-has-collapsed-13554337">article</a> about an outbreak of the Ebola virus in the DRC. The causes include a lack of clean water and sanitation facilities, i.e., clean toilets and sinks. At the same time, an AI bubble created a trillionaire and the rapid construction of water-guzzling data centers. We don’t need to solve intelligence and then solve everything else, the stated goal of Demis Hassibis of DeepMind. We need to redress poverty, inequalities and dire circumstances starting now. A long-term benefit of AI is that it’s radicalizing society and making us realize that there are different visions of our future and different ideas about what constitutes progress. AI caused our economic system to descend into an absurd caricature. First tragedy, then farce, as we were warned.
-</p>
-
-<img src="https://e3.365dm.com/26/06/1600x900/skynews-oxfam-ebola-congo_7274323.jpg?20260615172955" class="center"></img>
-
-<p>Another tipping point may be happening in academia. For the last few years, researchers have jumped on the bandwagon of AI for science, promoting hype that AI will accelerate scientific progress. This is reflected in academic literature, conferences, personal statements and webpages, and grants. From what I can tell, the bandwagon is now full. AI-scientists are ten a penny. Insights and lasting advances remain rare, and the actual expertise and value of AI scientists, in many cases, looks threadbare.
-</p>
-
-<p>Only time will tell, but for now I am happy to ying while everyone else yangs. Paradoxically, as a consequence of the rush towards AI, actual understanding of statistics, statistical reasoning, statistical computation, and reasoning under uncertainty in general are at present rare and underdeveloped. I remain interested in AI, but through the perspective of traditional statistics and computing, and with a critical eye on who made it, how and why, and what harm it might cause.</p>
-
-<p>Tags: <a href='tag_ai.html'>ai</a>, <a href='tag_academia.html'>academia</a></p>
-
-
-
-
-
-<!-- text end -->
-]]></description><link>https://andrewfowlie.github.io/blog/ai-tipping-points.html</link>
-<guid>https://andrewfowlie.github.io/blog/./ai-tipping-points.html</guid>
-<dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Tue, 16 Jun 2026 07:31:34 +0800</pubDate></item>
-<item><title>
-32 Programmes
-</title><description><![CDATA[
-
-<p class="dropcap">Read <em>32 Programmes</em> by Dave Roberts (or should that be 32 grams?), a football book, fitting for the start of the World Cup.
-It's a nostalgic book, based on the author's memories of attending matches, and who he was with and what was going on in his life at the time. I thoroughly enjoyed most of it,
-though it took a surprisingly sombre turn at the end, as the author suffered from mental and physical health issues.</p>
-
-<img src="https://www.covercentury.com/covers/book/1/32-Programmes-Roberts-Dave-9780593067376.jpg" class="center"></img>
-
-<p>The author's memories of racism in football crowds in the 1970s sadly didn't feel that far away from where we are now in society.</p>
-
-<p>Tags: <a href='tag_football.html'>football</a>, <a href='tag_books.html'>books</a></p>
-
-
-
-
-
-
-<!-- text end -->
-]]></description><link>https://andrewfowlie.github.io/blog/32-programmes.html</link>
-<guid>https://andrewfowlie.github.io/blog/./32-programmes.html</guid>
-<dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Mon, 15 Jun 2026 14:28:10 +0800</pubDate></item>
-<item><title>
-Short stories
-</title><description><![CDATA[
-
-<p class="dropcap">Read several colletions of short stories. First, aborted Rudyard Kipling's <em>Just So Stories</em>, written in 1902.
-I expected colonial attitudes about e.g., seeing the animals as resource or as something to be put to work, but I didn't
-expect explicit racism about non-European people.</p>
-
-<p>Switched to <em>Stories for Seven Year Olds</em>, a collection published by Harper Collins. On the whole, we enjoyed it, and discovered
-some interesting stories and authors. <a href="https://en.wikipedia.org/wiki/Pentamerone"><em>Vardiello</em></a> was a highlight, as was discovering <a href="https://en.wikipedia.org/wiki/Leila_Berg">Leila Berg</a>, an advocate of children's rights
-and children's literature.</p>
-
-<p>For myself, read the collection <em>The People's City</em>, a collection of short stories centered in Edinburgh, with a rousing
-introduction by Irvine Welsh and contributions from Ian Rankin and Alexander McCall Smith.</p>
-
-<p>Finally, attended a wonderful seminar by <a href="https://www.mathgenealogy.org/id.php?id=167557">Jordan Stoyanov</a>, an academic grandson of the great Kolmogorov. The talk introduced a few intriguing problems
-and their connections to probability theory. The problems discused were similar to recreational maths, for example, find random variables for which
-$$X + Y = XY$$ 
-with equality in distribution. These little problems are, to me, the short stories of maths. They have intrigue that captures you, but can be consumed satisfying in a single period, without 
-  multiple strands to the story line or many characters entering.</p>
-
-<p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_short stories.html'>short stories</a>, <a href='tag_maths.html'>maths</a></p>
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-]]></description><link>https://andrewfowlie.github.io/blog/short-stories.html</link>
-<guid>https://andrewfowlie.github.io/blog/./short-stories.html</guid>
-<dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Mon, 01 Jun 2026 16:35:01 +0800</pubDate></item>
-<item><title>
-Nanjing
-</title><description><![CDATA[
-
-<p class="dropcaps">Visited Nanjing for the <em>2026 Workshop on New Physics and Interdisciplinary Sciences</em>. It was a pleasure to discuss 
-physics with new and old friends. I spoke about forthcoming work on the axion quality problem; a nice work to discuss as it has a clear narrative.
-Nowadays I try to tell a compelling story about our research - why we did it, how we think about the problem, what we found and why it matters -
-  rather than a complete technical exposition of the work. </p>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ming_Xiaoling_Mausoleum_Spirit_Way.jpg/1280px-Ming_Xiaoling_Mausoleum_Spirit_Way.jpg" class="center"></img>
-
-<p>A personal highlight was a chance to revisit <em>Stone Elephant Road</em>, a path lined with huge stone sculptures of horses, elephants, camels and dragons to guard a mausoleum.</p>
-
-<p>Tags: <a href='tag_travel.html'>travel</a>, <a href='tag_academia.html'>academia</a></p>
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-]]></description><link>https://andrewfowlie.github.io/blog/nanjing.html</link>
-<guid>https://andrewfowlie.github.io/blog/./nanjing.html</guid>
-<dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Tue, 19 May 2026 11:22:19 +0800</pubDate></item>
-<item><title>
-The Last Bell
-</title><description><![CDATA[
-
-<p class="dropcap">Read <em>The Last Bell</em> by Donald McRae. A thoughtful and moving
-book about boxers and boxing, worthy of the William Hill nomination that drew me to it. McRae is a veteran sports journalist, and writes about grief and death in his personal life
-and in boxing bouts that end in tragedy.</p>
-
-<img src="https://www.donaldmcrae.com/images/news/news28-1.jpg" class="center"><img>
-
-<p>The case of Patrick Day is particularly poignant. His brothers remark that he had so many 
-qualities that boxing didn't value. I was already conflicted and ambivalent about the sport, but
-no longer think noble champions, even Oleksandr Usyk, can justify or redeem it.</p>
-
-<p>RIP Patrick Day.</p>
-
-<p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_sport.html'>sport</a>, <a href='tag_boxing.html'>boxing</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-]]></description><link>https://andrewfowlie.github.io/blog/the-last-bell.html</link>
-<guid>https://andrewfowlie.github.io/blog/./the-last-bell.html</guid>
-<dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Mon, 11 May 2026 13:57:10 +0800</pubDate></item>
 </channel></rss>
