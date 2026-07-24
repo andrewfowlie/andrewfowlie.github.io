@@ -2,9 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>/home/andrew$</title><link>https://andrewfowlie.github.io/blog/index.html</link>
 <description>Some thoughts on physics, statistics, computing & technology</description><language>en</language>
-<lastBuildDate>Wed, 22 Jul 2026 12:18:10 +0800</lastBuildDate>
-<pubDate>Wed, 22 Jul 2026 12:18:10 +0800</pubDate>
+<lastBuildDate>Fri, 24 Jul 2026 15:55:43 +0100</lastBuildDate>
+<pubDate>Fri, 24 Jul 2026 15:55:43 +0100</pubDate>
 <atom:link href="https://andrewfowlie.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Cyperpunk 2026
+</title><description><![CDATA[
+
+<p>Tell me we are not living in a world predicted by cyperpunk.</p>
+
+<blockquote>
+ The book [Neuromancer] established the filthy setting of an environmentally damaged, alienated, dystopian society dominated by global computer networks in which characters battle “artificial intelligences, monopoly capitalism and a world culture as ethnically eclectic as it is politically apathetic and alienated,” in the words of Webster’s New World Dictionary of Computer Terms.
+</blockquote>
+<p>
+From <a href="https://www.britannica.com/topic/Neuromancer">Encyclopedia Britannica</a> entry on <em>Neuromancer</em> by William Gibson.
+</p>
+<p>Tags: <a href='tag_sci-fi.html'>sci-fi</a></p>
+
+<!-- text end -->
+]]></description><link>https://andrewfowlie.github.io/blog/cyperpunk-2026.html</link>
+<guid>https://andrewfowlie.github.io/blog/./cyperpunk-2026.html</guid>
+<dc:creator>Andrew Fowlie</dc:creator>
+<pubDate>Fri, 24 Jul 2026 15:53:01 +0100</pubDate></item>
+<item><title>
+Title on this line
+</title><description><![CDATA[
+
+<p>The rest of the text file is an <b>html</b> blog post. The process will continue as soon
+as you exit your editor.</p>
+
+<p>Tags: <a href='tag_keep-this-tag-format.html'>keep-this-tag-format</a>, <a href='tag_tags-are-optional.html'>tags-are-optional</a>, <a href='tag_example.html'>example</a></p>
+
+<!-- text end -->
+]]></description><link>https://andrewfowlie.github.io/blog/title-on-this-line.html</link>
+<guid>https://andrewfowlie.github.io/blog/./title-on-this-line.html</guid>
+<dc:creator>Andrew Fowlie</dc:creator>
+<pubDate>Fri, 24 Jul 2026 15:48:16 +0100</pubDate></item>
 <item><title>
 Quantum Mechanics In Your Face For Anybody
 </title><description><![CDATA[
@@ -52,11 +85,12 @@ the <a href="https://modules.xjtlu.edu.cn/?mod_code=PHY301">PHY301</a> Quantum M
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/quantum-mechanics-in-your-face-for-anybody.html</link>
 <guid>https://andrewfowlie.github.io/blog/./quantum-mechanics-in-your-face-for-anybody.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 22 Jul 2026 11:29:34 +0800</pubDate></item>
+<pubDate>Wed, 22 Jul 2026 11:29:34 +0100</pubDate></item>
 <item><title>
 England versus Argentina
 </title><description><![CDATA[
@@ -75,11 +109,12 @@ and political history.</p>
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/england-versus-argentina.html</link>
 <guid>https://andrewfowlie.github.io/blog/./england-versus-argentina.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 15 Jul 2026 16:29:15 +0800</pubDate></item>
+<pubDate>Wed, 15 Jul 2026 16:29:15 +0100</pubDate></item>
 <item><title>
 Three lions and red lines
 </title><description><![CDATA[
@@ -107,11 +142,12 @@ are beyond reproach. A red line indeed, and I suspect the beginning of a long an
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/three-lions-and-red-lines.html</link>
 <guid>https://andrewfowlie.github.io/blog/./three-lions-and-red-lines.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 08 Jul 2026 12:51:37 +0800</pubDate></item>
+<pubDate>Wed, 08 Jul 2026 12:51:37 +0100</pubDate></item>
 <item><title>
 Standard Fireworks
 </title><description><![CDATA[
@@ -136,11 +172,12 @@ name. <em>Standard Fireworks: for a bonfire night you will forget!</em></p>
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/standard-fireworks.html</link>
 <guid>https://andrewfowlie.github.io/blog/./standard-fireworks.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 08 Jul 2026 12:29:01 +0800</pubDate></item>
+<pubDate>Wed, 08 Jul 2026 12:29:01 +0100</pubDate></item>
 <item><title>
 48 teams at the World Cup
 </title><description><![CDATA[
@@ -185,11 +222,12 @@ side and who might go far at the World Cup, only have 38 million so perhaps none
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/48-teams-at-the-world-cup.html</link>
 <guid>https://andrewfowlie.github.io/blog/./48-teams-at-the-world-cup.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Fri, 26 Jun 2026 14:32:01 +0800</pubDate></item>
+<pubDate>Fri, 26 Jun 2026 14:32:01 +0100</pubDate></item>
 <item><title>
 Robot
 </title><description><![CDATA[
@@ -217,11 +255,12 @@ to follow their own instincts and will, which will somehow fulfill the Mechanism
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/robot.html</link>
 <guid>https://andrewfowlie.github.io/blog/./robot.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Mon, 22 Jun 2026 11:01:52 +0800</pubDate></item>
+<pubDate>Mon, 22 Jun 2026 11:01:52 +0100</pubDate></item>
 <item><title>
 Are we in the Shelter?
 </title><description><![CDATA[
@@ -248,11 +287,12 @@ crowd?''</blockquote>
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/are-we-in-the-shelter.html</link>
 <guid>https://andrewfowlie.github.io/blog/./are-we-in-the-shelter.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Thu, 18 Jun 2026 10:42:44 +0800</pubDate></item>
+<pubDate>Thu, 18 Jun 2026 10:42:44 +0100</pubDate></item>
 <item><title>
 AI tipping points
 </title><description><![CDATA[
@@ -283,77 +323,10 @@ AI tipping points
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/ai-tipping-points.html</link>
 <guid>https://andrewfowlie.github.io/blog/./ai-tipping-points.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Tue, 16 Jun 2026 07:31:34 +0800</pubDate></item>
-<item><title>
-32 Programmes
-</title><description><![CDATA[
-
-<p class="dropcap">Read <em>32 Programmes</em> by Dave Roberts (or should that be 32 grams?), a football book, fitting for the start of the World Cup.
-It's a nostalgic book, based on the author's memories of attending matches, and who he was with and what was going on in his life at the time. I thoroughly enjoyed most of it,
-though it took a surprisingly sombre turn at the end, as the author suffered from mental and physical health issues.</p>
-
-<img src="https://www.covercentury.com/covers/book/1/32-Programmes-Roberts-Dave-9780593067376.jpg" class="center"></img>
-
-<p>The author's memories of racism in football crowds in the 1970s sadly didn't feel that far away from where we are now in society.</p>
-
-<p>Tags: <a href='tag_football.html'>football</a>, <a href='tag_books.html'>books</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-]]></description><link>https://andrewfowlie.github.io/blog/32-programmes.html</link>
-<guid>https://andrewfowlie.github.io/blog/./32-programmes.html</guid>
-<dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Mon, 15 Jun 2026 14:28:10 +0800</pubDate></item>
-<item><title>
-Short stories
-</title><description><![CDATA[
-
-<p class="dropcap">Read several collections of short stories. First, aborted Rudyard Kipling's <em>Just So Stories</em>, written in 1902.
-I expected colonial attitudes about e.g., seeing the animals as resource or as something to be put to work, but I didn't
-expect explicit racism about non-European people.</p>
-
-<p>Switched to <em>Stories for Seven Year Olds</em>, a collection published by Harper Collins. On the whole, we enjoyed it, and discovered
-some interesting stories and authors. <a href="https://en.wikipedia.org/wiki/Pentamerone"><em>Vardiello</em></a> was a highlight, as was discovering <a href="https://en.wikipedia.org/wiki/Leila_Berg">Leila Berg</a>, an advocate of children's rights
-and children's literature.</p>
-
-<p>For myself, read the collection <em>The People's City</em>, a collection of short stories centered in Edinburgh, with a rousing
-introduction by Irvine Welsh and contributions from Ian Rankin and Alexander McCall Smith.</p>
-
-<p>Finally, attended a wonderful seminar by <a href="https://www.mathgenealogy.org/id.php?id=167557">Jordan Stoyanov</a>, an academic grandson of the great Kolmogorov. The talk introduced a few intriguing problems
-and their connections to probability theory. The problems discussed were similar to recreational maths, for example, find random variables for which
-$$X + Y = XY$$ 
-with equality in distribution. These little problems are, to me, the short stories of maths. They have intrigue that captures you, but can be consumed satisfying in a single period, without 
-  multiple strands to the story line or many characters entering.</p>
-
-<p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_short-stories.html'>short-stories</a>, <a href='tag_maths.html'>maths</a></p>
-
-
-
-
-
-
-
-<!-- text end -->
-]]></description><link>https://andrewfowlie.github.io/blog/short-stories.html</link>
-<guid>https://andrewfowlie.github.io/blog/./short-stories.html</guid>
-<dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Mon, 01 Jun 2026 16:35:01 +0800</pubDate></item>
+<pubDate>Tue, 16 Jun 2026 07:31:34 +0100</pubDate></item>
 </channel></rss>
