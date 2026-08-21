@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>/home/andrew$</title><link>https://andrewfowlie.github.io/blog/index.html</link>
 <description>Some thoughts on physics, statistics, computing & technology</description><language>en</language>
-<lastBuildDate>Wed, 05 Aug 2026 12:13:36 +0800</lastBuildDate>
-<pubDate>Wed, 05 Aug 2026 12:13:36 +0800</pubDate>
+<lastBuildDate>Fri, 21 Aug 2026 04:25:01 +0100</lastBuildDate>
+<pubDate>Fri, 21 Aug 2026 04:25:01 +0100</pubDate>
 <atom:link href="https://andrewfowlie.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Mechanical analogy for qubit measurement
@@ -33,11 +33,12 @@ no way for a ball to classically go through a superposition of two routes. Thus,
 
 <p>Tags: <a href='tag_quantum-mechanics.html'>quantum-mechanics</a></p>
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/stern-gerlach-analogy-for-a-qubit-measurement.html</link>
 <guid>https://andrewfowlie.github.io/blog/./stern-gerlach-analogy-for-a-qubit-measurement.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 05 Aug 2026 11:54:33 +0800</pubDate></item>
+<pubDate>Wed, 05 Aug 2026 11:54:33 +0100</pubDate></item>
 <item><title>
 Is QBism Bayesian?
 </title><description><![CDATA[
@@ -59,11 +60,12 @@ outcome we observe?</p>
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/is-qbism-bayesian.html</link>
 <guid>https://andrewfowlie.github.io/blog/./is-qbism-bayesian.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Tue, 04 Aug 2026 02:39:46 +0800</pubDate></item>
+<pubDate>Tue, 04 Aug 2026 02:39:46 +0100</pubDate></item>
 <item><title>
 Neuromancer
 </title><description><![CDATA[
@@ -80,11 +82,12 @@ frantic, with rapid scene switches, character aliases, and twists, and no explan
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/neuromancer.html</link>
 <guid>https://andrewfowlie.github.io/blog/./neuromancer.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Thu, 30 Jul 2026 14:34:44 +0800</pubDate></item>
+<pubDate>Thu, 30 Jul 2026 14:34:44 +0100</pubDate></item>
 <item><title>
 Cyperpunk 2026
 </title><description><![CDATA[
@@ -104,11 +107,12 @@ From <a href="https://www.britannica.com/topic/Neuromancer">Encyclopedia Britann
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/cyperpunk-2026.html</link>
 <guid>https://andrewfowlie.github.io/blog/./cyperpunk-2026.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Fri, 24 Jul 2026 15:53:01 +0800</pubDate></item>
+<pubDate>Fri, 24 Jul 2026 15:53:01 +0100</pubDate></item>
 <item><title>
 Quantum Mechanics In Your Face For Anybody
 </title><description><![CDATA[
@@ -162,11 +166,12 @@ the <a href="https://modules.xjtlu.edu.cn/?mod_code=PHY301">PHY301</a> Quantum M
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/quantum-mechanics-in-your-face-for-anybody.html</link>
 <guid>https://andrewfowlie.github.io/blog/./quantum-mechanics-in-your-face-for-anybody.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 22 Jul 2026 11:29:34 +0800</pubDate></item>
+<pubDate>Wed, 22 Jul 2026 11:29:34 +0100</pubDate></item>
 <item><title>
 England versus Argentina
 </title><description><![CDATA[
@@ -191,11 +196,12 @@ and political history.</p>
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/england-versus-argentina.html</link>
 <guid>https://andrewfowlie.github.io/blog/./england-versus-argentina.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 15 Jul 2026 16:29:15 +0800</pubDate></item>
+<pubDate>Wed, 15 Jul 2026 16:29:15 +0100</pubDate></item>
 <item><title>
 Three lions and red lines
 </title><description><![CDATA[
@@ -229,11 +235,12 @@ are beyond reproach. A red line indeed, and I suspect the beginning of a long an
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/three-lions-and-red-lines.html</link>
 <guid>https://andrewfowlie.github.io/blog/./three-lions-and-red-lines.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 08 Jul 2026 12:51:37 +0800</pubDate></item>
+<pubDate>Wed, 08 Jul 2026 12:51:37 +0100</pubDate></item>
 <item><title>
 Standard Fireworks
 </title><description><![CDATA[
@@ -264,11 +271,12 @@ name. <em>Standard Fireworks: for a bonfire night you will forget!</em></p>
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/standard-fireworks.html</link>
 <guid>https://andrewfowlie.github.io/blog/./standard-fireworks.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 08 Jul 2026 12:29:01 +0800</pubDate></item>
+<pubDate>Wed, 08 Jul 2026 12:29:01 +0100</pubDate></item>
 <item><title>
 48 teams at the World Cup
 </title><description><![CDATA[
@@ -319,11 +327,12 @@ side and who might go far at the World Cup, only have 38 million so perhaps none
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/48-teams-at-the-world-cup.html</link>
 <guid>https://andrewfowlie.github.io/blog/./48-teams-at-the-world-cup.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Fri, 26 Jun 2026 14:32:01 +0800</pubDate></item>
+<pubDate>Fri, 26 Jun 2026 14:32:01 +0100</pubDate></item>
 <item><title>
 Robot
 </title><description><![CDATA[
@@ -357,9 +366,10 @@ to follow their own instincts and will, which will somehow fulfill the Mechanism
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/robot.html</link>
 <guid>https://andrewfowlie.github.io/blog/./robot.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Mon, 22 Jun 2026 11:01:52 +0800</pubDate></item>
+<pubDate>Mon, 22 Jun 2026 11:01:52 +0100</pubDate></item>
 </channel></rss>
