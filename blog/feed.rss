@@ -2,9 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>/home/andrew$</title><link>https://andrewfowlie.github.io/blog/index.html</link>
 <description>Some thoughts on physics, statistics, computing & technology</description><language>en</language>
-<lastBuildDate>Wed, 26 Aug 2026 15:34:44 +0100</lastBuildDate>
-<pubDate>Wed, 26 Aug 2026 15:34:44 +0100</pubDate>
+<lastBuildDate>Tue, 01 Sep 2026 16:39:57 +0100</lastBuildDate>
+<pubDate>Tue, 01 Sep 2026 16:39:57 +0100</pubDate>
 <atom:link href="https://andrewfowlie.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Tall Tales and Wee Stories
+</title><description><![CDATA[
+
+<p class="dropcap">Read <em>Tall Tales and Wee Stories</em>, a collection of Billy Connolly's stand-up material. I chose it to distract myself from other matters going on, and it mostly did the trick. I didn't know many of Connolly's routines, though remember his voice and manner from TV and from some VHS tapes my parents had in the 90s.</p>
+
+<img src="https://m.media-amazon.com/images/I/81KYmvF3AxL._SY466_.jpg" class="center">
+
+<p>The routines are often funny, though occasionally misogynistic to a modern reader. Obviously something is lost on the page, especially the chaos, spontaneity, and physicality of his live performance, such as the one about getting drunk from the feet upwards. I was surprised by the lack of reflection, nostalgia, politics or social commentary in his material: I presumed he'd draw on his years as a welder or his working-class upbringing, but the routines are somewhat apolitical.</p>
+
+<p>I'm part way through another AI/tech/society book, and then I plan to tackle a classic: Dickens or Hardy, something like that. Connolly's book was amusing, but didn't feel altogether rewarding.</p>
+
+<p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_comedy.html'>comedy</a></p>
+
+<!-- text end -->
+]]></description><link>https://andrewfowlie.github.io/blog/tall-tales-and-wee-stories.html</link>
+<guid>https://andrewfowlie.github.io/blog/./tall-tales-and-wee-stories.html</guid>
+<dc:creator>Andrew Fowlie</dc:creator>
+<pubDate>Tue, 01 Sep 2026 16:35:08 +0100</pubDate></item>
 <item><title>
 Dreaming is for free
 </title><description><![CDATA[
@@ -12,6 +31,7 @@ Dreaming is for free
 <p class="dropcap">Read a heartbreaking <a href="https://news.sky.com/story/guinea-landslide-kills-30-people-after-mound-of-waste-collapses-at-landfill-site-13576442">story</a> about a landslide at landfill site that killed 30 people in Guinea. Was appalled to realize that these occurrences are so common in the global south that they have their own <a href="https://en.wikipedia.org/wiki/Garbage_landslide">Wikipedia entry</a>. What an awful metaphor for the world we've created. Don't let anyone tell you a better world isn't possible.</p>
 
 <p>Tags: <a href='tag_world.html'>world</a>, <a href='tag_tragedy.html'>tragedy</a></p>
+
 
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/dreaming-is-for-free.html</link>
@@ -32,6 +52,7 @@ it was in English and family friendly. What with the spate of remakes, I wasn't 
 <p>Tags: <a href='tag_sci-fi.html'>sci-fi</a>, <a href='tag_cinema.html'>cinema</a></p>
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/wall-e-in-rep.html</link>
 <guid>https://andrewfowlie.github.io/blog/./wall-e-in-rep.html</guid>
@@ -46,6 +67,7 @@ However, the book focusses on human connections and alienation and thus perhaps 
 communication and experiences. I found the Machine's preference for $n$-th hand information intriguing: first-hand and second-hand sources were considered partisan and unreliable. The society thus prefers depersonalised, smooth, generic lectures and historical accounts. Any of this sound familiar?</p>
 
 <p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_ai.html'>ai</a>, <a href='tag_sci-fi.html'>sci-fi</a></p>
+
 
 
 
@@ -90,6 +112,7 @@ no way for a ball to classically go through a superposition of two routes. Thus,
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/stern-gerlach-analogy-for-a-qubit-measurement.html</link>
 <guid>https://andrewfowlie.github.io/blog/./stern-gerlach-analogy-for-a-qubit-measurement.html</guid>
@@ -113,6 +136,7 @@ outcome we observe?</p>
 <p>I found the answers to these questions vague and handwavy, as they involve 'agents', 'agent experiences', and 'normative rules'.</p>
 
 <p>Tags: <a href='tag_quantum-mechanics.html'>quantum-mechanics</a>, <a href='tag_bayes.html'>bayes</a></p>
+
 
 
 
@@ -149,6 +173,7 @@ frantic, with rapid scene switches, character aliases, and twists, and no explan
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/neuromancer.html</link>
 <guid>https://andrewfowlie.github.io/blog/./neuromancer.html</guid>
@@ -167,6 +192,7 @@ Cyperpunk 2026
 From <a href="https://www.britannica.com/topic/Neuromancer">Encyclopedia Britannica</a> entry on <em>Neuromancer</em> by William Gibson.
 </p>
 <p>Tags: <a href='tag_sci-fi.html'>sci-fi</a></p>
+
 
 
 
@@ -243,6 +269,7 @@ the <a href="https://modules.xjtlu.edu.cn/?mod_code=PHY301">PHY301</a> Quantum M
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/quantum-mechanics-in-your-face-for-anybody.html</link>
 <guid>https://andrewfowlie.github.io/blog/./quantum-mechanics-in-your-face-for-anybody.html</guid>
@@ -278,53 +305,10 @@ and political history.</p>
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/england-versus-argentina.html</link>
 <guid>https://andrewfowlie.github.io/blog/./england-versus-argentina.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
 <pubDate>Wed, 15 Jul 2026 16:29:15 +0100</pubDate></item>
-<item><title>
-Three lions and red lines
-</title><description><![CDATA[
-
-<p class="dropcap">Watched England's inspiring victory against Mexico at the Azteca. What a 
-special match and occasion, one of the most memorable and iconic England games of my life.</p>
-
-<p>Pickford, Bellingham and Kane were particularly inspirational. When the going gets tough, lots of England players over the 
-years have disappeared. They are scared. They don't want the ball. Those three were brave and stepped up and took responsibility.</p>
-
-<img src="https://www.worldtradingcards.com/cdn/shop/files/45_FWC_ENG_002.webp?v=1777743320&width=736" class="center"></img>
-
-<p>Immensely disappointed by the decision to suspend Balogun's three-match ban. A terrible precedent that undermines sporting integrity,
-fairness and transparency. FIFA are not true to their values, and they gaslight fans and behave as though they
-are beyond reproach. A red line indeed, and I suspect the beginning of a long and lasting open confrontation between UEFA and FIFA.</p>
-
-<p>Whilst this is the most shocking evidence of corruption and collusion between FIFA and global-powers impacting the game, it is only a matter 
-  of someone missing a game. We should be just as outraged over FIFA failure to uphold worker and minority rights and safety.</p>
-
-<p>Tags: <a href='tag_football.html'>football</a>, <a href='tag_world-cup.html'>world-cup</a>, <a href='tag_FIFA.html'>FIFA</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-]]></description><link>https://andrewfowlie.github.io/blog/three-lions-and-red-lines.html</link>
-<guid>https://andrewfowlie.github.io/blog/./three-lions-and-red-lines.html</guid>
-<dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 08 Jul 2026 12:51:37 +0100</pubDate></item>
 </channel></rss>
