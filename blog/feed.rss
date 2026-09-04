@@ -2,9 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>/home/andrew$</title><link>https://andrewfowlie.github.io/blog/index.html</link>
 <description>Some thoughts on physics, statistics, computing & technology</description><language>en</language>
-<lastBuildDate>Tue, 01 Sep 2026 16:39:57 +0100</lastBuildDate>
-<pubDate>Tue, 01 Sep 2026 16:39:57 +0100</pubDate>
+<lastBuildDate>Fri, 04 Sep 2026 15:51:08 +0800</lastBuildDate>
+<pubDate>Fri, 04 Sep 2026 15:51:08 +0800</pubDate>
 <atom:link href="https://andrewfowlie.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+17 papers, 2.6 sigmas, and 1 event
+</title><description><![CDATA[
+
+<p>The <a href="https://lz.lbl.gov/">LZ</a> experiment recently announced (1 September) a new result through a <a href="https://lz.lbl.gov/wp-content/uploads/sites/6/2026/08/LZ_Slides_260901_TeVPA_Dark_Matter_HENR_EFT_Sam_Eriksen_compressed-medium.pdf">talk</a> and <a href="https://lz.lbl.gov/wp-content/uploads/sites/6/2026/08/LZ_Slides_260901_TeVPA_Dark_Matter_HENR_EFT_Sam_Eriksen_compressed-medium.pdf">preprint paper</a>.</p>
+
+<p>The paper documents something strange: a single, unexplained event that could be consistent with an interaction with a Dark Matter particle.
+The data were analysed using frequentist, and specifically Fisherian, statistical methods described <a href="https://arxiv.org/abs/2105.00599">here</a>. In particular, evidence was quantified using a \(p\)-value, that is, the probability of obtaining data that were at least as extreme as that observed given the background-only (i.e., no Dark Matter) hypothesis. The \(p\)-value was about 0.5%. For historical reasons, this is communicated as \(2.6\sigma\), as 0.5% corresponds to the probability mass contained in the tail of a Normal distribution at \(Z = 2.6\).</p>
+
+<p>Hey ho, you might think. That ain't much evidence for an extraordinary claim, especially since it is contingent on their background and detector modeling to the 1 rogue-event level, and given all we know about \(p\)-values, the replication crisis, and the strength of evidence. That said, it might just about be below a threshold proposed by <a href="https://www.nature.com/articles/s41562-017-0189-z">Benjamin et al. (2017)</a> in social and medical sciences, thought not close to the physics <a href="https://arxiv.org/abs/1310.1284">typical requirement</a> of \(5\sigma\) for a discovery.</p>
+
+<p>In the two days that followed the paper, however, there were 17 theory papers that presented particular models of Dark Matter that could explain that 1 event. Hmm. I haven't read them well enough to comment on how well-motivated these explanations are, though the most popular appears to be a Higgsino explanation (see e.g., <a href="https://arxiv.org/pdf/2609.01504">Fan & Reece</a>), where a supersymmetric partner of the Higgs plays the role of Dark Matter. However, a <a href="https://arxiv.org/abs/2609.04175">paper today</a> suggests Higgsinos may be in tension with so-called sideband results from LZ. That means, they would predict Dark Matter signals in other searches performed by LZ, but none were seen.</p>
+
+<p>There was a particular statement in <a href="https://arxiv.org/pdf/2609.01504">Fan & Reece</a> that caught my eye:
+<blockquote>
+The look-elsewhere
+correction depends on the total number of models that were fit to the data, and as such is arguably
+too conservative when, as we will argue, there is one particularly compelling model to focus on
+</blockquote>
+Hmm. One of the infamous things about \(p\)-values is that they depend on the experimentalists' analysis plan. That is, they depend on what the experimentalists would have done, were the data different. Part of computing them correctly thus involves correcting for the look-elsewhere effect (LEE). This means, correcting for all the things you, the experimenter, would have looked at had the data been different. There is a famous reductio ad absurdum about a statistician and electrician, by Edwards and Pratt, described <a href="https://en.wikipedia.org/wiki/Likelihood_principle#The_voltmeter_story">here</a> that shows how strange this can be.</p>
+
+The long-and-short of this is that the \(p\)-value depends on the experimentalists' analysis plan, which should ideally be declared before data collection. I don't think it's reasonable to claim after the fact that
+<blockquote>
+Ah! But I was only interested in this subset of tests anyway (which happened to include tests that produce the smallest \(p\)-values). Let's just use those ones. Thus the \(p\)-value is smaller!
+</blockquote>
+This would have been perfectly fine pre-data. I would have no objection to pre-data, or pre-unblinding of data, someone saying, let's use an analysis plan that only performs these tests to maximise the statistical power for these particular Dark Matter models that we find plausible. Post-data, however, it's too late, at least within a frequentist paradigm.
+
+<p>On the other hand, perhaps Fan & Reece are subconsciously thinking as Bayesians. In Bayesian frameworks, we don't need to consider
+the sampling plan or what we'd have done were the data different: our conclusions depend only on the data we did observe. This is connected to the <a href="https://en.wikipedia.org/wiki/Likelihood_principle">likelihood principle</a>.
+In that case, perhaps a more charitable interpretation is that:
+<blockquote>
+Ah! I don't care about your error rates and what you'd have done were data different. I just care about what I should believe given the data at hand.
+The Dark Matter models that explain the event were a priori plausible to me. Given that, I am more inclined to believe that they explain the data.
+</blockquote>
+I think that's a defensible point of view.</p>
+
+<p>Tags: <a href='tag_dark-matter.html'>dark-matter</a>, <a href='tag_statistics.html'>statistics</a>, <a href='tag_physics.html'>physics</a></p>
+
+<!-- text end -->
+]]></description><link>https://andrewfowlie.github.io/blog/17-papers-26-sigmas-and-1-event.html</link>
+<guid>https://andrewfowlie.github.io/blog/./17-papers-26-sigmas-and-1-event.html</guid>
+<dc:creator>Andrew Fowlie</dc:creator>
+<pubDate>Fri, 04 Sep 2026 15:09:07 +0800</pubDate></item>
 <item><title>
 Tall Tales and Wee Stories
 </title><description><![CDATA[
@@ -19,11 +62,12 @@ Tall Tales and Wee Stories
 
 <p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_comedy.html'>comedy</a></p>
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/tall-tales-and-wee-stories.html</link>
 <guid>https://andrewfowlie.github.io/blog/./tall-tales-and-wee-stories.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Tue, 01 Sep 2026 16:35:08 +0100</pubDate></item>
+<pubDate>Tue, 01 Sep 2026 16:35:08 +0800</pubDate></item>
 <item><title>
 Dreaming is for free
 </title><description><![CDATA[
@@ -33,11 +77,12 @@ Dreaming is for free
 <p>Tags: <a href='tag_world.html'>world</a>, <a href='tag_tragedy.html'>tragedy</a></p>
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/dreaming-is-for-free.html</link>
 <guid>https://andrewfowlie.github.io/blog/./dreaming-is-for-free.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 26 Aug 2026 15:34:30 +0100</pubDate></item>
+<pubDate>Wed, 26 Aug 2026 15:34:30 +0800</pubDate></item>
 <item><title>
 WALL-E in rep
 </title><description><![CDATA[
@@ -53,11 +98,12 @@ it was in English and family friendly. What with the spate of remakes, I wasn't 
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/wall-e-in-rep.html</link>
 <guid>https://andrewfowlie.github.io/blog/./wall-e-in-rep.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 26 Aug 2026 15:12:12 +0100</pubDate></item>
+<pubDate>Wed, 26 Aug 2026 15:12:12 +0800</pubDate></item>
 <item><title>
 The Machine Stops
 </title><description><![CDATA[
@@ -73,11 +119,12 @@ communication and experiences. I found the Machine's preference for $n$-th hand 
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/the-machine-stops.html</link>
 <guid>https://andrewfowlie.github.io/blog/./the-machine-stops.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Fri, 21 Aug 2026 04:32:32 +0100</pubDate></item>
+<pubDate>Fri, 21 Aug 2026 04:32:32 +0800</pubDate></item>
 <item><title>
 Mechanical analogy for qubit measurement
 </title><description><![CDATA[
@@ -113,11 +160,12 @@ no way for a ball to classically go through a superposition of two routes. Thus,
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/stern-gerlach-analogy-for-a-qubit-measurement.html</link>
 <guid>https://andrewfowlie.github.io/blog/./stern-gerlach-analogy-for-a-qubit-measurement.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 05 Aug 2026 11:54:33 +0100</pubDate></item>
+<pubDate>Wed, 05 Aug 2026 11:54:33 +0800</pubDate></item>
 <item><title>
 Is QBism Bayesian?
 </title><description><![CDATA[
@@ -146,11 +194,12 @@ outcome we observe?</p>
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/is-qbism-bayesian.html</link>
 <guid>https://andrewfowlie.github.io/blog/./is-qbism-bayesian.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Tue, 04 Aug 2026 02:39:46 +0100</pubDate></item>
+<pubDate>Tue, 04 Aug 2026 02:39:46 +0800</pubDate></item>
 <item><title>
 Neuromancer
 </title><description><![CDATA[
@@ -174,11 +223,12 @@ frantic, with rapid scene switches, character aliases, and twists, and no explan
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/neuromancer.html</link>
 <guid>https://andrewfowlie.github.io/blog/./neuromancer.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Thu, 30 Jul 2026 14:34:44 +0100</pubDate></item>
+<pubDate>Thu, 30 Jul 2026 14:34:44 +0800</pubDate></item>
 <item><title>
 Cyperpunk 2026
 </title><description><![CDATA[
@@ -205,11 +255,12 @@ From <a href="https://www.britannica.com/topic/Neuromancer">Encyclopedia Britann
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/cyperpunk-2026.html</link>
 <guid>https://andrewfowlie.github.io/blog/./cyperpunk-2026.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Fri, 24 Jul 2026 15:53:01 +0100</pubDate></item>
+<pubDate>Fri, 24 Jul 2026 15:53:01 +0800</pubDate></item>
 <item><title>
 Quantum Mechanics In Your Face For Anybody
 </title><description><![CDATA[
@@ -270,45 +321,10 @@ the <a href="https://modules.xjtlu.edu.cn/?mod_code=PHY301">PHY301</a> Quantum M
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/quantum-mechanics-in-your-face-for-anybody.html</link>
 <guid>https://andrewfowlie.github.io/blog/./quantum-mechanics-in-your-face-for-anybody.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 22 Jul 2026 11:29:34 +0100</pubDate></item>
-<item><title>
-England versus Argentina
-</title><description><![CDATA[
-
-<p>Thoroughly excited about the England-Argentina World Cup semi-final, which kicks off in just a few hours. What an occasion! heavily loaded with both football 
-and political history.</p>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Maradona_vs_england.jpg" class="center"></img>
-
-<p>I was disappointed to hear Falklands/Malvinas mentioned by both sets of fans in a jingoistic manner. We are rivals on the pitch, but all football fans should be united in agreement that we must solve these problems through dialogue and never again resort to armed conflict.</p>
-
-<p>Tags: <a href='tag_football.html'>football</a>, <a href='tag_world-cup.html'>world-cup</a>, <a href='tag_conflict.html'>conflict</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-]]></description><link>https://andrewfowlie.github.io/blog/england-versus-argentina.html</link>
-<guid>https://andrewfowlie.github.io/blog/./england-versus-argentina.html</guid>
-<dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 15 Jul 2026 16:29:15 +0100</pubDate></item>
+<pubDate>Wed, 22 Jul 2026 11:29:34 +0800</pubDate></item>
 </channel></rss>

@@ -11,6 +11,50 @@
 <div id="description">Some thoughts on physics, statistics, computing & technology</div>
 </div></div></div>
 <div id="divbody"><div class="content">
+<h3><a class="ablack" href="17-papers-26-sigmas-and-1-event.html">
+17 papers, 2.6 sigmas, and 1 event
+</a></h3>
+<!-- bashblog_timestamp: #202609041509.07# -->
+<div class="subtitle">September 04, 2026 &mdash; 
+Andrew Fowlie
+</div>
+<!-- text begin -->
+
+<p>The <a href="https://lz.lbl.gov/">LZ</a> experiment recently announced (1 September) a new result through a <a href="https://lz.lbl.gov/wp-content/uploads/sites/6/2026/08/LZ_Slides_260901_TeVPA_Dark_Matter_HENR_EFT_Sam_Eriksen_compressed-medium.pdf">talk</a> and <a href="https://lz.lbl.gov/wp-content/uploads/sites/6/2026/08/LZ_Slides_260901_TeVPA_Dark_Matter_HENR_EFT_Sam_Eriksen_compressed-medium.pdf">preprint paper</a>.</p>
+
+<p>The paper documents something strange: a single, unexplained event that could be consistent with an interaction with a Dark Matter particle.
+The data were analysed using frequentist, and specifically Fisherian, statistical methods described <a href="https://arxiv.org/abs/2105.00599">here</a>. In particular, evidence was quantified using a \(p\)-value, that is, the probability of obtaining data that were at least as extreme as that observed given the background-only (i.e., no Dark Matter) hypothesis. The \(p\)-value was about 0.5%. For historical reasons, this is communicated as \(2.6\sigma\), as 0.5% corresponds to the probability mass contained in the tail of a Normal distribution at \(Z = 2.6\).</p>
+
+<p>Hey ho, you might think. That ain't much evidence for an extraordinary claim, especially since it is contingent on their background and detector modeling to the 1 rogue-event level, and given all we know about \(p\)-values, the replication crisis, and the strength of evidence. That said, it might just about be below a threshold proposed by <a href="https://www.nature.com/articles/s41562-017-0189-z">Benjamin et al. (2017)</a> in social and medical sciences, thought not close to the physics <a href="https://arxiv.org/abs/1310.1284">typical requirement</a> of \(5\sigma\) for a discovery.</p>
+
+<p>In the two days that followed the paper, however, there were 17 theory papers that presented particular models of Dark Matter that could explain that 1 event. Hmm. I haven't read them well enough to comment on how well-motivated these explanations are, though the most popular appears to be a Higgsino explanation (see e.g., <a href="https://arxiv.org/pdf/2609.01504">Fan & Reece</a>), where a supersymmetric partner of the Higgs plays the role of Dark Matter. However, a <a href="https://arxiv.org/abs/2609.04175">paper today</a> suggests Higgsinos may be in tension with so-called sideband results from LZ. That means, they would predict Dark Matter signals in other searches performed by LZ, but none were seen.</p>
+
+<p>There was a particular statement in <a href="https://arxiv.org/pdf/2609.01504">Fan & Reece</a> that caught my eye:
+<blockquote>
+The look-elsewhere
+correction depends on the total number of models that were fit to the data, and as such is arguably
+too conservative when, as we will argue, there is one particularly compelling model to focus on
+</blockquote>
+Hmm. One of the infamous things about \(p\)-values is that they depend on the experimentalists' analysis plan. That is, they depend on what the experimentalists would have done, were the data different. Part of computing them correctly thus involves correcting for the look-elsewhere effect (LEE). This means, correcting for all the things you, the experimenter, would have looked at had the data been different. There is a famous reductio ad absurdum about a statistician and electrician, by Edwards and Pratt, described <a href="https://en.wikipedia.org/wiki/Likelihood_principle#The_voltmeter_story">here</a> that shows how strange this can be.</p>
+
+The long-and-short of this is that the \(p\)-value depends on the experimentalists' analysis plan, which should ideally be declared before data collection. I don't think it's reasonable to claim after the fact that
+<blockquote>
+Ah! But I was only interested in this subset of tests anyway (which happened to include tests that produce the smallest \(p\)-values). Let's just use those ones. Thus the \(p\)-value is smaller!
+</blockquote>
+This would have been perfectly fine pre-data. I would have no objection to pre-data, or pre-unblinding of data, someone saying, let's use an analysis plan that only performs these tests to maximise the statistical power for these particular Dark Matter models that we find plausible. Post-data, however, it's too late, at least within a frequentist paradigm.
+
+<p>On the other hand, perhaps Fan & Reece are subconsciously thinking as Bayesians. In Bayesian frameworks, we don't need to consider
+the sampling plan or what we'd have done were the data different: our conclusions depend only on the data we did observe. This is connected to the <a href="https://en.wikipedia.org/wiki/Likelihood_principle">likelihood principle</a>.
+In that case, perhaps a more charitable interpretation is that:
+<blockquote>
+Ah! I don't care about your error rates and what you'd have done were data different. I just care about what I should believe given the data at hand.
+The Dark Matter models that explain the event were a priori plausible to me. Given that, I am more inclined to believe that they explain the data.
+</blockquote>
+I think that's a defensible point of view.</p>
+
+<p>Tags: <a href='tag_dark-matter.html'>dark-matter</a>, <a href='tag_statistics.html'>statistics</a>, <a href='tag_physics.html'>physics</a></p>
+
+<!-- text end -->
 <h3><a class="ablack" href="tall-tales-and-wee-stories.html">
 Tall Tales and Wee Stories
 </a></h3>
@@ -30,6 +74,7 @@ Andrew Fowlie
 
 <p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_comedy.html'>comedy</a></p>
 
+
 <!-- text end -->
 <h3><a class="ablack" href="dreaming-is-for-free.html">
 Dreaming is for free
@@ -43,6 +88,7 @@ Andrew Fowlie
 <p class="dropcap">Read a heartbreaking <a href="https://news.sky.com/story/guinea-landslide-kills-30-people-after-mound-of-waste-collapses-at-landfill-site-13576442">story</a> about a landslide at landfill site that killed 30 people in Guinea. Was appalled to realize that these occurrences are so common in the global south that they have their own <a href="https://en.wikipedia.org/wiki/Garbage_landslide">Wikipedia entry</a>. What an awful metaphor for the world we've created. Don't let anyone tell you a better world isn't possible.</p>
 
 <p>Tags: <a href='tag_world.html'>world</a>, <a href='tag_tragedy.html'>tragedy</a></p>
+
 
 
 <!-- text end -->
@@ -66,6 +112,7 @@ it was in English and family friendly. What with the spate of remakes, I wasn't 
 
 
 
+
 <!-- text end -->
 <h3><a class="ablack" href="the-machine-stops.html">
 The Machine Stops
@@ -81,6 +128,7 @@ However, the book focusses on human connections and alienation and thus perhaps 
 communication and experiences. I found the Machine's preference for $n$-th hand information intriguing: first-hand and second-hand sources were considered partisan and unreliable. The society thus prefers depersonalised, smooth, generic lectures and historical accounts. Any of this sound familiar?</p>
 
 <p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_ai.html'>ai</a>, <a href='tag_sci-fi.html'>sci-fi</a></p>
+
 
 
 
@@ -128,6 +176,7 @@ no way for a ball to classically go through a superposition of two routes. Thus,
 
 
 
+
 <!-- text end -->
 <h3><a class="ablack" href="is-qbism-bayesian.html">
 Is QBism Bayesian?
@@ -162,6 +211,7 @@ outcome we observe?</p>
 
 
 
+
 <!-- text end -->
 <h3><a class="ablack" href="neuromancer.html">
 Neuromancer
@@ -180,37 +230,6 @@ frantic, with rapid scene switches, character aliases, and twists, and no explan
 <p>Whilst I didn't especially enjoy it as a novel, I recognized it as a masterpiece of science fiction, introducing the cyberpunk vision of the future that felt so eerily like our present. There is no sign of global governance, order, or rules; only mega-corporations that control big tech. Humans are somewhat redundant: the hyper-wealthy aristocratic Tessier-Ashpool family are cryogenically frozen, awakening only periodically to check that AIs are running their finances appropriately. On his hero's journey, our protagonist, Case, saves no one, averts no disasters, and is manipulated by AIs. I <em>did</em> see Case as our hero, though. He survives the ruthless criminal underworld of Chiba and chooses to take a step closer to the truth and personal meaning.</p>
 
 <p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_sci-fi.html'>sci-fi</a></p>
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-<h3><a class="ablack" href="cyperpunk-2026.html">
-Cyperpunk 2026
-</a></h3>
-<!-- bashblog_timestamp: #202607241553.01# -->
-<div class="subtitle">July 24, 2026 &mdash; 
-Andrew Fowlie
-</div>
-<!-- text begin -->
-
-<p>Tell me we are not living in a world predicted by cyperpunk.</p>
-
-<blockquote>
- The book [Neuromancer] established the filthy setting of an environmentally damaged, alienated, dystopian society dominated by global computer networks in which characters battle “artificial intelligences, monopoly capitalism and a world culture as ethnically eclectic as it is politically apathetic and alienated,” in the words of Webster’s New World Dictionary of Computer Terms.
-</blockquote>
-<p>
-From <a href="https://www.britannica.com/topic/Neuromancer">Encyclopedia Britannica</a> entry on <em>Neuromancer</em> by William Gibson.
-</p>
-<p>Tags: <a href='tag_sci-fi.html'>sci-fi</a></p>
-
 
 
 
