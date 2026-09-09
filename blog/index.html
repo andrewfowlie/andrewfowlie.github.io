@@ -11,6 +11,62 @@
 <div id="description">Some thoughts on physics, statistics, computing & technology</div>
 </div></div></div>
 <div id="divbody"><div class="content">
+<h3><a class="ablack" href="baryogensis-finally.html">
+Baryogenesis, finally
+</a></h3>
+<!-- bashblog_timestamp: #202609090957.22# -->
+<div class="subtitle">September 09, 2026 &mdash; 
+Andrew Fowlie
+</div>
+<!-- text begin -->
+
+<p>Sakharov's third condition for baryogenesis [A.D. Sakharov, Zh. Eksp. Teor. Fiz. Pis'ma 5, 32 (1967); JETP Lett. 91B, 24 (1967)] is usually stated as:
+<em>departure from thermal equilibrium</em> or <em>interactions out of thermal equilibrium</em> or some such. I've always had some trouble with the textbook
+arguments for it, but I think I've now had a personal epiphany.</p>
+
+<p>The textbook argument, e.g., <a href="https://ned.ipac.caltech.edu/level5/Sept03/Trodden/Trodden4_8.html">Trodden's notes</a>, considers the 
+expected baryon number in equilibrium:
+$$
+\langle B \rangle = \text{Tr}\left(e^{-\beta H} B\right) 
+$$
+Inserting an identity, \( (\text{CPT}) (\text{CPT})^{-1} \), using the cyclicity of the trace and the invariance of the Hamiltonian under CPT:
+$$
+  \begin{align}
+\langle B \rangle =& \text{Tr}\left((\text{CPT}) (\text{CPT})^{-1} e^{-\beta H} B\right)\\ 
+  =& \text{Tr}\left(e^{-\beta H} (\text{CPT})^{-1} B (\text{CPT}) \right)\\ 
+  =& - \text{Tr}\left(e^{-\beta H} B\right)\\ 
+  =& -\langle B \rangle
+  \end{align}
+$$
+  and thus \( \langle B \rangle = 0 \) in equilibrium.
+</p>
+
+<p>The thing that confused me was that it seemed that we almost begged the question. We started by assuming that \(H\) was the only relevant macroscopic
+parameter. We didn't include any chemical potential for baryon number in our ensemble. Suppose we took:
+$$
+\langle B \rangle = \text{Tr}\left(e^{-\beta H + \mu_B B} B\right) 
+$$
+The partition function now no longer commutes with CPT and we cannot conclude that \(\langle B \rangle = 0\). Try it. The above argument won't go through. Can we do that? I don't think so. Sakharov's
+first condition for baryogenesis was that \(B\) was not conserved. In which case, there is no chemical potential in the equilibrium ensemble.</p>
+
+<p>But what if we can give a chemical potential to some other conserved quantity? What? Well, \(B - L\) is a natural candidate, as unlike individual baryon and lepton number,
+  it is conserved. In that case, we could write the expectation of baryon number as,
+$$
+\langle B \rangle = \text{Tr}\left(e^{-\beta H + \mu_{B - L} (B - L)} B\right) 
+$$
+Because of the chemical potential, we cannot conclude that \(\langle B \rangle = 0\). Is this a loophole to Sakharov's conditions? No, we've in fact rediscovered <em>leptogenesis</em>! 
+We give a chemical potential for \(B - L\) and equilibration redistributes the charges such that \( \langle B \rangle \neq 0\). We convert a \(B- L\) asymmetry to a baryon asymmetry.
+</p>
+
+<p>Did this require a departure from thermal equilibrium? Well, under standard cosmology, there are no chemical potentials after reheating, as the inflaton decays into a hot thermal bath with no chemical potentials. Creating a chemical potential for \(B-L\) from scratch requires an out-of-equilibrium process. Thus Sakharov's third condition holds.</p>
+
+<p>What if we don't assume that there are no chemical potentials after inflation? Maybe inflation can produce a chemical potential for \(B-L\)? Is that a loophole? No, we've in fact discovered <em>inflationary</em> baryogenesis and changed the era in which baryogenesis occurs.</p>
+
+<p>What if we don't assume inflation at all? In that case, indeed, we can input what we like as an initial condition, e.g., an equilibrium state with non-zero baryon number.</p>
+
+<p>Tags: <a href='tag_baryogenesis.html'>baryogenesis</a>, <a href='tag_statistical-mechanics.html'>statistical-mechanics</a>, <a href='tag_physics.html'>physics</a></p>
+
+<!-- text end -->
 <h3><a class="ablack" href="ai--misogyny.html">
 AI & Misogyny
 </a></h3>
@@ -33,6 +89,7 @@ Instead of sacrificing anything and everything to the whims of men like Mark Zuc
 </blockquote>
 
 <p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_ai.html'>ai</a>, <a href='tag_society.html'>society</a></p>
+
 
 <!-- text end -->
 <h3><a class="ablack" href="17-papers-26-sigmas-and-1-event.html">
@@ -79,6 +136,7 @@ I think that's a defensible point of view.</p>
 <p>Tags: <a href='tag_dark-matter.html'>dark-matter</a>, <a href='tag_statistics.html'>statistics</a>, <a href='tag_physics.html'>physics</a></p>
 
 
+
 <!-- text end -->
 <h3><a class="ablack" href="tall-tales-and-wee-stories.html">
 Tall Tales and Wee Stories
@@ -101,6 +159,7 @@ Andrew Fowlie
 
 
 
+
 <!-- text end -->
 <h3><a class="ablack" href="dreaming-is-for-free.html">
 Dreaming is for free
@@ -114,6 +173,7 @@ Andrew Fowlie
 <p class="dropcap">Read a heartbreaking <a href="https://news.sky.com/story/guinea-landslide-kills-30-people-after-mound-of-waste-collapses-at-landfill-site-13576442">story</a> about a landslide at landfill site that killed 30 people in Guinea. Was appalled to realize that these occurrences are so common in the global south that they have their own <a href="https://en.wikipedia.org/wiki/Garbage_landslide">Wikipedia entry</a>. What an awful metaphor for the world we've created. Don't let anyone tell you a better world isn't possible.</p>
 
 <p>Tags: <a href='tag_world.html'>world</a>, <a href='tag_tragedy.html'>tragedy</a></p>
+
 
 
 
@@ -141,6 +201,7 @@ it was in English and family friendly. What with the spate of remakes, I wasn't 
 
 
 
+
 <!-- text end -->
 <h3><a class="ablack" href="the-machine-stops.html">
 The Machine Stops
@@ -156,6 +217,7 @@ However, the book focusses on human connections and alienation and thus perhaps 
 communication and experiences. I found the Machine's preference for $n$-th hand information intriguing: first-hand and second-hand sources were considered partisan and unreliable. The society thus prefers depersonalised, smooth, generic lectures and historical accounts. Any of this sound familiar?</p>
 
 <p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_ai.html'>ai</a>, <a href='tag_sci-fi.html'>sci-fi</a></p>
+
 
 
 
@@ -197,41 +259,6 @@ the exact way we tip the board etc. If we knew them all, though, we could in pri
 no way for a ball to classically go through a superposition of two routes. Thus, this kind of mechanical model cannot be extended to cover multi-qubit correlations, as shown by Bell-type inequalities.</p>
 
 <p>Tags: <a href='tag_quantum-mechanics.html'>quantum-mechanics</a></p>
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-<h3><a class="ablack" href="is-qbism-bayesian.html">
-Is QBism Bayesian?
-</a></h3>
-<!-- bashblog_timestamp: #202608040239.46# -->
-<div class="subtitle">August 04, 2026 &mdash; 
-Andrew Fowlie
-</div>
-<!-- text begin -->
-
-<p>I've been exploring QBism, an interpretation of Quantum Mechanics (QM) based on or inspired by Bayesian inference. The appeal being that mysteries about the ontic or epistemic
-nature of the wavefunction and about the collapse of the wavefunction could be resolved in this perspective.</p>
-
-<p>I found it confusing and incoherent. There is nothing mathematically Bayesian about it. We don't describe beliefs with probability theory alone, as we use a wavefunction, and we don't update them using Bayes' theorem alone, as we need the Born rule. It 
-is, though, Bayesian in spirit, in that the wavefunction is interpreted personally and epistemically: it isn't real or ontic, it something that we create in our heads to describe a quantum state. The collapse of a wavefunction isn't
-real either, it's just an update we do in our heads, analogous to Bayesian updating from prior to posterior. In later works this is explicitly stated and the B is said to stand for Bruno de Finetti rather than Bayes, as much like de Finetti said that probabilities didn't exist, QBism says wavefunctions don't exist in a physical, ontic way.</p>
-
-<p>Sounds wonderful at first glance, until you ask a few more questions. Why are we using wavefunctions to describe our epistemic state (cf. probabilities)? Why do we use the Born rule to associate
-probabilities with outcomes? If the wavefunction is epistemic, what is it that we are ignorant about? If the measurement and update are all in our heads, what determines which random
-outcome we observe?</p>
-
-<p>I found the answers to these questions vague and handwavy, as they involve 'agents', 'agent experiences', and 'normative rules'.</p>
-
-<p>Tags: <a href='tag_quantum-mechanics.html'>quantum-mechanics</a>, <a href='tag_bayes.html'>bayes</a></p>
-
 
 
 

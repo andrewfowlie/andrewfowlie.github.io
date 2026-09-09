@@ -2,9 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>/home/andrew$</title><link>https://andrewfowlie.github.io/blog/index.html</link>
 <description>Some thoughts on physics, statistics, computing & technology</description><language>en</language>
-<lastBuildDate>Tue, 08 Sep 2026 16:30:49 +0800</lastBuildDate>
-<pubDate>Tue, 08 Sep 2026 16:30:49 +0800</pubDate>
+<lastBuildDate>Wed, 09 Sep 2026 11:47:06 +0800</lastBuildDate>
+<pubDate>Wed, 09 Sep 2026 11:47:06 +0800</pubDate>
 <atom:link href="https://andrewfowlie.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Baryogenesis, finally
+</title><description><![CDATA[
+
+<p>Sakharov's third condition for baryogenesis [A.D. Sakharov, Zh. Eksp. Teor. Fiz. Pis'ma 5, 32 (1967); JETP Lett. 91B, 24 (1967)] is usually stated as:
+<em>departure from thermal equilibrium</em> or <em>interactions out of thermal equilibrium</em> or some such. I've always had some trouble with the textbook
+arguments for it, but I think I've now had a personal epiphany.</p>
+
+<p>The textbook argument, e.g., <a href="https://ned.ipac.caltech.edu/level5/Sept03/Trodden/Trodden4_8.html">Trodden's notes</a>, considers the 
+expected baryon number in equilibrium:
+$$
+\langle B \rangle = \text{Tr}\left(e^{-\beta H} B\right) 
+$$
+Inserting an identity, \( (\text{CPT}) (\text{CPT})^{-1} \), using the cyclicity of the trace and the invariance of the Hamiltonian under CPT:
+$$
+  \begin{align}
+\langle B \rangle =& \text{Tr}\left((\text{CPT}) (\text{CPT})^{-1} e^{-\beta H} B\right)\\ 
+  =& \text{Tr}\left(e^{-\beta H} (\text{CPT})^{-1} B (\text{CPT}) \right)\\ 
+  =& - \text{Tr}\left(e^{-\beta H} B\right)\\ 
+  =& -\langle B \rangle
+  \end{align}
+$$
+  and thus \( \langle B \rangle = 0 \) in equilibrium.
+</p>
+
+<p>The thing that confused me was that it seemed that we almost begged the question. We started by assuming that \(H\) was the only relevant macroscopic
+parameter. We didn't include any chemical potential for baryon number in our ensemble. Suppose we took:
+$$
+\langle B \rangle = \text{Tr}\left(e^{-\beta H + \mu_B B} B\right) 
+$$
+The partition function now no longer commutes with CPT and we cannot conclude that \(\langle B \rangle = 0\). Try it. The above argument won't go through. Can we do that? I don't think so. Sakharov's
+first condition for baryogenesis was that \(B\) was not conserved. In which case, there is no chemical potential in the equilibrium ensemble.</p>
+
+<p>But what if we can give a chemical potential to some other conserved quantity? What? Well, \(B - L\) is a natural candidate, as unlike individual baryon and lepton number,
+  it is conserved. In that case, we could write the expectation of baryon number as,
+$$
+\langle B \rangle = \text{Tr}\left(e^{-\beta H + \mu_{B - L} (B - L)} B\right) 
+$$
+Because of the chemical potential, we cannot conclude that \(\langle B \rangle = 0\). Is this a loophole to Sakharov's conditions? No, we've in fact rediscovered <em>leptogenesis</em>! 
+We give a chemical potential for \(B - L\) and equilibration redistributes the charges such that \( \langle B \rangle \neq 0\). We convert a \(B- L\) asymmetry to a baryon asymmetry.
+</p>
+
+<p>Did this require a departure from thermal equilibrium? Well, under standard cosmology, there are no chemical potentials after reheating, as the inflaton decays into a hot thermal bath with no chemical potentials. Creating a chemical potential for \(B-L\) from scratch requires an out-of-equilibrium process. Thus Sakharov's third condition holds.</p>
+
+<p>What if we don't assume that there are no chemical potentials after inflation? Maybe inflation can produce a chemical potential for \(B-L\)? Is that a loophole? No, we've in fact discovered <em>inflationary</em> baryogenesis and changed the era in which baryogenesis occurs.</p>
+
+<p>What if we don't assume inflation at all? In that case, indeed, we can input what we like as an initial condition, e.g., an equilibrium state with non-zero baryon number.</p>
+
+<p>Tags: <a href='tag_baryogenesis.html'>baryogenesis</a>, <a href='tag_statistical-mechanics.html'>statistical-mechanics</a>, <a href='tag_physics.html'>physics</a></p>
+
+<!-- text end -->
+]]></description><link>https://andrewfowlie.github.io/blog/baryogensis-finally.html</link>
+<guid>https://andrewfowlie.github.io/blog/./baryogensis-finally.html</guid>
+<dc:creator>Andrew Fowlie</dc:creator>
+<pubDate>Wed, 09 Sep 2026 09:57:22 +0800</pubDate></item>
 <item><title>
 AI & Misogyny
 </title><description><![CDATA[
@@ -22,6 +77,7 @@ Instead of sacrificing anything and everything to the whims of men like Mark Zuc
 </blockquote>
 
 <p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_ai.html'>ai</a>, <a href='tag_society.html'>society</a></p>
+
 
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/ai--misogyny.html</link>
@@ -67,6 +123,7 @@ I think that's a defensible point of view.</p>
 <p>Tags: <a href='tag_dark-matter.html'>dark-matter</a>, <a href='tag_statistics.html'>statistics</a>, <a href='tag_physics.html'>physics</a></p>
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/17-papers-26-sigmas-and-1-event.html</link>
 <guid>https://andrewfowlie.github.io/blog/./17-papers-26-sigmas-and-1-event.html</guid>
@@ -88,6 +145,7 @@ Tall Tales and Wee Stories
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/tall-tales-and-wee-stories.html</link>
 <guid>https://andrewfowlie.github.io/blog/./tall-tales-and-wee-stories.html</guid>
@@ -100,6 +158,7 @@ Dreaming is for free
 <p class="dropcap">Read a heartbreaking <a href="https://news.sky.com/story/guinea-landslide-kills-30-people-after-mound-of-waste-collapses-at-landfill-site-13576442">story</a> about a landslide at landfill site that killed 30 people in Guinea. Was appalled to realize that these occurrences are so common in the global south that they have their own <a href="https://en.wikipedia.org/wiki/Garbage_landslide">Wikipedia entry</a>. What an awful metaphor for the world we've created. Don't let anyone tell you a better world isn't possible.</p>
 
 <p>Tags: <a href='tag_world.html'>world</a>, <a href='tag_tragedy.html'>tragedy</a></p>
+
 
 
 
@@ -126,6 +185,7 @@ it was in English and family friendly. What with the spate of remakes, I wasn't 
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/wall-e-in-rep.html</link>
 <guid>https://andrewfowlie.github.io/blog/./wall-e-in-rep.html</guid>
@@ -140,6 +200,7 @@ However, the book focusses on human connections and alienation and thus perhaps 
 communication and experiences. I found the Machine's preference for $n$-th hand information intriguing: first-hand and second-hand sources were considered partisan and unreliable. The society thus prefers depersonalised, smooth, generic lectures and historical accounts. Any of this sound familiar?</p>
 
 <p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_ai.html'>ai</a>, <a href='tag_sci-fi.html'>sci-fi</a></p>
+
 
 
 
@@ -190,6 +251,7 @@ no way for a ball to classically go through a superposition of two routes. Thus,
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/stern-gerlach-analogy-for-a-qubit-measurement.html</link>
 <guid>https://andrewfowlie.github.io/blog/./stern-gerlach-analogy-for-a-qubit-measurement.html</guid>
@@ -213,6 +275,7 @@ outcome we observe?</p>
 <p>I found the answers to these questions vague and handwavy, as they involve 'agents', 'agent experiences', and 'normative rules'.</p>
 
 <p>Tags: <a href='tag_quantum-mechanics.html'>quantum-mechanics</a>, <a href='tag_bayes.html'>bayes</a></p>
+
 
 
 
@@ -255,42 +318,10 @@ frantic, with rapid scene switches, character aliases, and twists, and no explan
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/neuromancer.html</link>
 <guid>https://andrewfowlie.github.io/blog/./neuromancer.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
 <pubDate>Thu, 30 Jul 2026 14:34:44 +0800</pubDate></item>
-<item><title>
-Cyperpunk 2026
-</title><description><![CDATA[
-
-<p>Tell me we are not living in a world predicted by cyperpunk.</p>
-
-<blockquote>
- The book [Neuromancer] established the filthy setting of an environmentally damaged, alienated, dystopian society dominated by global computer networks in which characters battle “artificial intelligences, monopoly capitalism and a world culture as ethnically eclectic as it is politically apathetic and alienated,” in the words of Webster’s New World Dictionary of Computer Terms.
-</blockquote>
-<p>
-From <a href="https://www.britannica.com/topic/Neuromancer">Encyclopedia Britannica</a> entry on <em>Neuromancer</em> by William Gibson.
-</p>
-<p>Tags: <a href='tag_sci-fi.html'>sci-fi</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-]]></description><link>https://andrewfowlie.github.io/blog/cyperpunk-2026.html</link>
-<guid>https://andrewfowlie.github.io/blog/./cyperpunk-2026.html</guid>
-<dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Fri, 24 Jul 2026 15:53:01 +0800</pubDate></item>
 </channel></rss>

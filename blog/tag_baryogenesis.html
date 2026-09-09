@@ -1,0 +1,72 @@
+<link rel="stylesheet" href="prism.css">
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<link rel="stylesheet" href="style.css">
+<script src="prism.js"></script>
+<title>/home/andrew$ &mdash; Posts tagged "baryogenesis"</title>
+</head><body>
+<div id="divbodyholder">
+<div class="headerholder"><div class="header">
+<div id="title">
+<h1 class="nomargin"><a class="ablack" href="https://andrewfowlie.github.io/blog/index.html">/home/andrew$</a></h1>
+<div id="description">Some thoughts on physics, statistics, computing & technology</div>
+</div></div></div>
+<div id="divbody"><div class="content">
+<h3><a class="ablack" href="baryogensis-finally.html">
+Baryogenesis, finally
+</a></h3>
+<!-- bashblog_timestamp: #202609090957.22# -->
+<div class="subtitle">September 09, 2026 &mdash; 
+Andrew Fowlie
+</div>
+<!-- text begin -->
+
+<p>Sakharov's third condition for baryogenesis [A.D. Sakharov, Zh. Eksp. Teor. Fiz. Pis'ma 5, 32 (1967); JETP Lett. 91B, 24 (1967)] is usually stated as:
+<em>departure from thermal equilibrium</em> or <em>interactions out of thermal equilibrium</em> or some such. I've always had some trouble with the textbook
+arguments for it, but I think I've now had a personal epiphany.</p>
+
+<p>The textbook argument, e.g., <a href="https://ned.ipac.caltech.edu/level5/Sept03/Trodden/Trodden4_8.html">Trodden's notes</a>, considers the 
+expected baryon number in equilibrium:
+$$
+\langle B \rangle = \text{Tr}\left(e^{-\beta H} B\right) 
+$$
+Inserting an identity, \( (\text{CPT}) (\text{CPT})^{-1} \), using the cyclicity of the trace and the invariance of the Hamiltonian under CPT:
+$$
+  \begin{align}
+\langle B \rangle =& \text{Tr}\left((\text{CPT}) (\text{CPT})^{-1} e^{-\beta H} B\right)\\ 
+  =& \text{Tr}\left(e^{-\beta H} (\text{CPT})^{-1} B (\text{CPT}) \right)\\ 
+  =& - \text{Tr}\left(e^{-\beta H} B\right)\\ 
+  =& -\langle B \rangle
+  \end{align}
+$$
+  and thus \( \langle B \rangle = 0 \) in equilibrium.
+</p>
+
+<p>The thing that confused me was that it seemed that we almost begged the question. We started by assuming that \(H\) was the only relevant macroscopic
+parameter. We didn't include any chemical potential for baryon number in our ensemble. Suppose we took:
+$$
+\langle B \rangle = \text{Tr}\left(e^{-\beta H + \mu_B B} B\right) 
+$$
+The partition function now no longer commutes with CPT and we cannot conclude that \(\langle B \rangle = 0\). Try it. The above argument won't go through. Can we do that? I don't think so. Sakharov's
+first condition for baryogenesis was that \(B\) was not conserved. In which case, there is no chemical potential in the equilibrium ensemble.</p>
+
+<p>But what if we can give a chemical potential to some other conserved quantity? What? Well, \(B - L\) is a natural candidate, as unlike individual baryon and lepton number,
+  it is conserved. In that case, we could write the expectation of baryon number as,
+$$
+\langle B \rangle = \text{Tr}\left(e^{-\beta H + \mu_{B - L} (B - L)} B\right) 
+$$
+Because of the chemical potential, we cannot conclude that \(\langle B \rangle = 0\). Is this a loophole to Sakharov's conditions? No, we've in fact rediscovered <em>leptogenesis</em>! 
+We give a chemical potential for \(B - L\) and equilibration redistributes the charges such that \( \langle B \rangle \neq 0\). We convert a \(B- L\) asymmetry to a baryon asymmetry.
+</p>
+
+<p>Did this require a departure from thermal equilibrium? Well, under standard cosmology, there are no chemical potentials after reheating, as the inflaton decays into a hot thermal bath with no chemical potentials. Creating a chemical potential for \(B-L\) from scratch requires an out-of-equilibrium process. Thus Sakharov's third condition holds.</p>
+
+<p>What if we don't assume that there are no chemical potentials after inflation? Maybe inflation can produce a chemical potential for \(B-L\)? Is that a loophole? No, we've in fact discovered <em>inflationary</em> baryogenesis and changed the era in which baryogenesis occurs.</p>
+
+<p>What if we don't assume inflation at all? In that case, indeed, we can input what we like as an initial condition, e.g., an equilibrium state with non-zero baryon number.</p>
+
+<p>Tags: <a href='tag_baryogenesis.html'>baryogenesis</a>, <a href='tag_statistical-mechanics.html'>statistical-mechanics</a>, <a href='tag_physics.html'>physics</a></p>
+
+<!-- text end -->
+</div>
+</div></div>
+</body></html>
