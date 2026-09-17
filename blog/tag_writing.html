@@ -1,0 +1,54 @@
+<link rel="stylesheet" href="prism.css">
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<link rel="stylesheet" href="style.css">
+<script src="prism.js"></script>
+<title>/home/andrew$ &mdash; Posts tagged "writing"</title>
+</head><body>
+<div id="divbodyholder">
+<div class="headerholder"><div class="header">
+<div id="title">
+<h1 class="nomargin"><a class="ablack" href="https://andrewfowlie.github.io/blog/index.html">/home/andrew$</a></h1>
+<div id="description">Some thoughts on physics, statistics, computing & technology</div>
+</div></div></div>
+<div id="divbody"><div class="content">
+<h3><a class="ablack" href="double-reading-writing-and-descent.html">
+Double reading, writing and descent
+</a></h3>
+<!-- bashblog_timestamp: #202609171434.11# -->
+<div class="subtitle">September 17, 2026 &mdash; 
+Andrew Fowlie
+</div>
+<!-- text begin -->
+
+<p>There are several doubles in my title, for I've been reading two books, writing two sets of teaching notes, and thinking about double descent, the phenomenon in deep learning.</p>
+
+<p>On the reading, as planned I've started a more substantial novel, <em>Hard Times</em>, considered by some critics to be Dickens' most complete or perfect work, since it is compact and without the sprawling plots and character ensemble of Dickens' other celebrated works. I was worried it would lack warmth and affection, but so far I am thoroughly enjoying it and its connection to educational theory.</p>
+
+<p>I am also reading the wonderful <em>Mrs Frisby and the Rats of NIMH</em> with my daughter. This is everything a children's book should be, and I will write more when we have finished it.</p>
+
+<p>As for writing, I am continuing my <em>In Your Face For Anybody</em> series, and am partway through an introduction to chatbots, starting with ELIZA in the 1960s and ending with contemporary large language models. It is a work in progress <a href="gpt.pdf">[pdf]</a>, but I'm enjoying creating it. The series began with my notes on quantum mechanics and Bell's theorem <a href="quantum_lecture.pdf">[pdf]</a>.</p> 
+
+<p>As it's the beginning of term, I also dug up my data analysis booklet for our lab students <a href="data_analysis_book.pdf">[pdf]</a>. The booklet was inspired by one given to me in my first year as an undergraduate, though it's not as detailed or in depth, or perhaps as insightful. The ones we were given in 2005 were referred to as our red books and they were a superb practical guide to data analysis in the laboratory and some frequentist statistical concepts. I think they were written by Prof. Tom Shanks, more affectionately known as Dr. Tom at that time, though it may have been a different Tom.</p>
+
+<p>Last but not least: <em>Double Descent!</em> This is a remarkable phenomenon in data science, that at first seems rather mysterious. Consider linear regression on \(n\) data points using \(p\) basis functions with \(p\) coefficients,
+$$
+  y = \sum_{i=1}^p \theta_i f_i(x)
+$$
+We train our model on the \(n\) data points; select a point estimate for the parameters; and evaluate performance on a hold-out data set of another, say, \(m\) data points.</p>
+
+<p>What happens when we increase \(p\) starting at \(p \ll n\)? At first, the model is under-parameterised. It lacks flexibility to fit the data points; it is biased, but not wild, that is, it does not suffer from high variance. As we increase \(p\), the performance improves as the model is sufficiently flexible to fit the data. This is the first descent.</p>
+
+<p>As we increase \(p\) yet further, performance deteriorates. Our model becomes too wiggly; we are no longer primarily bias-dominated, but we suffer from variance. At \(p \approx n\), we perfectly fit the training data, but performance on the test data is poor, as we have overfit. This is the interpolation limit.</p>
+
+<p>In classical statistics, that would usually be the end of the story. We find the optimal balance between bias and variance, and that's that. Here comes the twist though. Keep on increasing \(p\) beyond \(n\). Something strange <em>can</em> happen. The system is overparameterized and underdetermined, and there are many ways of achieving a perfect fit to the training data. The performance on the hold-out data improves; this is the second descent.</p>
+
+<p>As we increase the number of basis functions, we are able to create combinations of basis functions that are <em>smooth</em> but perfect fits through the training data. Nothing in our training, however, favoured smoothness: we fitted to the training data without any regularization term. Why, then, are these smooth solutions selected? They are selected by the implicit bias of the gradient descent optimizer in this context. Whilst there are many solutions that perfectly fit the training data, the gradient descent algorithm is biased towards the solution that minimizes the \(L_2\)-norm of the parameters. That is a smooth solution.</p>
+
+<p>The long and short of it is that by increasing \(p\) we create more possibilities for smooth functions that fit the training data perfectly and generalise well. Since we are using point estimates, there is no explicit Occam-type penalty for increasing \(p\). These smooth interpolating functions, that weren't selected or available near the interpolation threshold, are selected by the implicit bias of the optimization algorithm, and being smooth functions that fit the training data, they typically generalise well.</p>
+
+<p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_writing.html'>writing</a>, <a href='tag_double-descent.html'>double-descent</a></p>
+
+<!-- text end -->
+</div>
+</div></div>
+</body></html>

@@ -11,6 +11,44 @@
 <div id="description">Some thoughts on physics, statistics, computing & technology</div>
 </div></div></div>
 <div id="divbody"><div class="content">
+<h3><a class="ablack" href="double-reading-writing-and-descent.html">
+Double reading, writing and descent
+</a></h3>
+<!-- bashblog_timestamp: #202609171434.11# -->
+<div class="subtitle">September 17, 2026 &mdash; 
+Andrew Fowlie
+</div>
+<!-- text begin -->
+
+<p>There are several doubles in my title, for I've been reading two books, writing two sets of teaching notes, and thinking about double descent, the phenomenon in deep learning.</p>
+
+<p>On the reading, as planned I've started a more substantial novel, <em>Hard Times</em>, considered by some critics to be Dickens' most complete or perfect work, since it is compact and without the sprawling plots and character ensemble of Dickens' other celebrated works. I was worried it would lack warmth and affection, but so far I am thoroughly enjoying it and its connection to educational theory.</p>
+
+<p>I am also reading the wonderful <em>Mrs Frisby and the Rats of NIMH</em> with my daughter. This is everything a children's book should be, and I will write more when we have finished it.</p>
+
+<p>As for writing, I am continuing my <em>In Your Face For Anybody</em> series, and am partway through an introduction to chatbots, starting with ELIZA in the 1960s and ending with contemporary large language models. It is a work in progress <a href="gpt.pdf">[pdf]</a>, but I'm enjoying creating it. The series began with my notes on quantum mechanics and Bell's theorem <a href="quantum_lecture.pdf">[pdf]</a>.</p> 
+
+<p>As it's the beginning of term, I also dug up my data analysis booklet for our lab students <a href="data_analysis_book.pdf">[pdf]</a>. The booklet was inspired by one given to me in my first year as an undergraduate, though it's not as detailed or in depth, or perhaps as insightful. The ones we were given in 2005 were referred to as our red books and they were a superb practical guide to data analysis in the laboratory and some frequentist statistical concepts. I think they were written by Prof. Tom Shanks, more affectionately known as Dr. Tom at that time, though it may have been a different Tom.</p>
+
+<p>Last but not least: <em>Double Descent!</em> This is a remarkable phenomenon in data science, that at first seems rather mysterious. Consider linear regression on \(n\) data points using \(p\) basis functions with \(p\) coefficients,
+$$
+  y = \sum_{i=1}^p \theta_i f_i(x)
+$$
+We train our model on the \(n\) data points; select a point estimate for the parameters; and evaluate performance on a hold-out data set of another, say, \(m\) data points.</p>
+
+<p>What happens when we increase \(p\) starting at \(p \ll n\)? At first, the model is under-parameterised. It lacks flexibility to fit the data points; it is biased, but not wild, that is, it does not suffer from high variance. As we increase \(p\), the performance improves as the model is sufficiently flexible to fit the data. This is the first descent.</p>
+
+<p>As we increase \(p\) yet further, performance deteriorates. Our model becomes too wiggly; we are no longer primarily bias-dominated, but we suffer from variance. At \(p \approx n\), we perfectly fit the training data, but performance on the test data is poor, as we have overfit. This is the interpolation limit.</p>
+
+<p>In classical statistics, that would usually be the end of the story. We find the optimal balance between bias and variance, and that's that. Here comes the twist though. Keep on increasing \(p\) beyond \(n\). Something strange <em>can</em> happen. The system is overparameterized and underdetermined, and there are many ways of achieving a perfect fit to the training data. The performance on the hold-out data improves; this is the second descent.</p>
+
+<p>As we increase the number of basis functions, we are able to create combinations of basis functions that are <em>smooth</em> but perfect fits through the training data. Nothing in our training, however, favoured smoothness: we fitted to the training data without any regularization term. Why, then, are these smooth solutions selected? They are selected by the implicit bias of the gradient descent optimizer in this context. Whilst there are many solutions that perfectly fit the training data, the gradient descent algorithm is biased towards the solution that minimizes the \(L_2\)-norm of the parameters. That is a smooth solution.</p>
+
+<p>The long and short of it is that by increasing \(p\) we create more possibilities for smooth functions that fit the training data perfectly and generalise well. Since we are using point estimates, there is no explicit Occam-type penalty for increasing \(p\). These smooth interpolating functions, that weren't selected or available near the interpolation threshold, are selected by the implicit bias of the optimization algorithm, and being smooth functions that fit the training data, they typically generalise well.</p>
+
+<p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_writing.html'>writing</a>, <a href='tag_double-descent.html'>double-descent</a></p>
+
+<!-- text end -->
 <h3><a class="ablack" href="ai--misogyny.html">
 AI & Misogyny
 </a></h3>
@@ -35,6 +73,7 @@ Instead of sacrificing anything and everything to the whims of men like Mark Zuc
 <p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_ai.html'>ai</a>, <a href='tag_society.html'>society</a></p>
 
 
+
 <!-- text end -->
 <h3><a class="ablack" href="tall-tales-and-wee-stories.html">
 Tall Tales and Wee Stories
@@ -54,6 +93,7 @@ Andrew Fowlie
 <p>I'm part way through another AI/tech/society book, and then I plan to tackle a classic: Dickens or Hardy, something like that. Connolly's book was amusing, but didn't feel altogether rewarding.</p>
 
 <p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_comedy.html'>comedy</a></p>
+
 
 
 
@@ -82,6 +122,7 @@ communication and experiences. I found the Machine's preference for $n$-th hand 
 
 
 
+
 <!-- text end -->
 <h3><a class="ablack" href="neuromancer.html">
 Neuromancer
@@ -100,6 +141,7 @@ frantic, with rapid scene switches, character aliases, and twists, and no explan
 <p>Whilst I didn't especially enjoy it as a novel, I recognized it as a masterpiece of science fiction, introducing the cyberpunk vision of the future that felt so eerily like our present. There is no sign of global governance, order, or rules; only mega-corporations that control big tech. Humans are somewhat redundant: the hyper-wealthy aristocratic Tessier-Ashpool family are cryogenically frozen, awakening only periodically to check that AIs are running their finances appropriately. On his hero's journey, our protagonist, Case, saves no one, averts no disasters, and is manipulated by AIs. I <em>did</em> see Case as our hero, though. He survives the ruthless criminal underworld of Chiba and chooses to take a step closer to the truth and personal meaning.</p>
 
 <p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_sci-fi.html'>sci-fi</a></p>
+
 
 
 
@@ -160,6 +202,7 @@ name. <em>Standard Fireworks: for a bonfire night you will forget!</em></p>
 
 
 
+
 <!-- text end -->
 <h3><a class="ablack" href="robot.html">
 Robot
@@ -180,6 +223,7 @@ agency and free-will. The robots in question aren't the mechanical sort of the A
 to follow their own instincts and will, which will somehow fulfill the Mechanism's wishes. I did not understand the plot entirely; but maybe I wasn't supposed to.</p>
 
 <p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_sci-fi.html'>sci-fi</a>, <a href='tag_ai.html'>ai</a></p>
+
 
 
 
@@ -257,6 +301,7 @@ crowd?''</blockquote>
 
 
 
+
 <!-- text end -->
 <h3><a class="ablack" href="short-stories.html">
 Short stories
@@ -285,6 +330,7 @@ with equality in distribution. These little problems are, to me, the short stori
   multiple strands to the story line or many characters entering.</p>
 
 <p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_short-stories.html'>short-stories</a>, <a href='tag_maths.html'>maths</a></p>
+
 
 
 
@@ -375,6 +421,7 @@ no longer think noble champions, even Oleksandr Usyk, can justify or redeem it.<
 
 
 
+
 <!-- text end -->
 <h3><a class="ablack" href="the-church-of-reason.html">
 The Church of Reason
@@ -415,6 +462,7 @@ less than the continuing body of reason itself.
 </blockquote>
 
 <p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_academia.html'>academia</a>, <a href='tag_philosophy.html'>philosophy</a></p>
+
 
 
 

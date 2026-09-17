@@ -2,9 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>/home/andrew$</title><link>https://andrewfowlie.github.io/blog/index.html</link>
 <description>Some thoughts on physics, statistics, computing & technology</description><language>en</language>
-<lastBuildDate>Wed, 09 Sep 2026 11:47:06 +0800</lastBuildDate>
-<pubDate>Wed, 09 Sep 2026 11:47:06 +0800</pubDate>
+<lastBuildDate>Thu, 17 Sep 2026 16:00:08 +0100</lastBuildDate>
+<pubDate>Thu, 17 Sep 2026 16:00:08 +0100</pubDate>
 <atom:link href="https://andrewfowlie.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Double reading, writing and descent
+</title><description><![CDATA[
+
+<p>There are several doubles in my title, for I've been reading two books, writing two sets of teaching notes, and thinking about double descent, the phenomenon in deep learning.</p>
+
+<p>On the reading, as planned I've started a more substantial novel, <em>Hard Times</em>, considered by some critics to be Dickens' most complete or perfect work, since it is compact and without the sprawling plots and character ensemble of Dickens' other celebrated works. I was worried it would lack warmth and affection, but so far I am thoroughly enjoying it and its connection to educational theory.</p>
+
+<p>I am also reading the wonderful <em>Mrs Frisby and the Rats of NIMH</em> with my daughter. This is everything a children's book should be, and I will write more when we have finished it.</p>
+
+<p>As for writing, I am continuing my <em>In Your Face For Anybody</em> series, and am partway through an introduction to chatbots, starting with ELIZA in the 1960s and ending with contemporary large language models. It is a work in progress <a href="gpt.pdf">[pdf]</a>, but I'm enjoying creating it. The series began with my notes on quantum mechanics and Bell's theorem <a href="quantum_lecture.pdf">[pdf]</a>.</p> 
+
+<p>As it's the beginning of term, I also dug up my data analysis booklet for our lab students <a href="data_analysis_book.pdf">[pdf]</a>. The booklet was inspired by one given to me in my first year as an undergraduate, though it's not as detailed or in depth, or perhaps as insightful. The ones we were given in 2005 were referred to as our red books and they were a superb practical guide to data analysis in the laboratory and some frequentist statistical concepts. I think they were written by Prof. Tom Shanks, more affectionately known as Dr. Tom at that time, though it may have been a different Tom.</p>
+
+<p>Last but not least: <em>Double Descent!</em> This is a remarkable phenomenon in data science, that at first seems rather mysterious. Consider linear regression on \(n\) data points using \(p\) basis functions with \(p\) coefficients,
+$$
+  y = \sum_{i=1}^p \theta_i f_i(x)
+$$
+We train our model on the \(n\) data points; select a point estimate for the parameters; and evaluate performance on a hold-out data set of another, say, \(m\) data points.</p>
+
+<p>What happens when we increase \(p\) starting at \(p \ll n\)? At first, the model is under-parameterised. It lacks flexibility to fit the data points; it is biased, but not wild, that is, it does not suffer from high variance. As we increase \(p\), the performance improves as the model is sufficiently flexible to fit the data. This is the first descent.</p>
+
+<p>As we increase \(p\) yet further, performance deteriorates. Our model becomes too wiggly; we are no longer primarily bias-dominated, but we suffer from variance. At \(p \approx n\), we perfectly fit the training data, but performance on the test data is poor, as we have overfit. This is the interpolation limit.</p>
+
+<p>In classical statistics, that would usually be the end of the story. We find the optimal balance between bias and variance, and that's that. Here comes the twist though. Keep on increasing \(p\) beyond \(n\). Something strange <em>can</em> happen. The system is overparameterized and underdetermined, and there are many ways of achieving a perfect fit to the training data. The performance on the hold-out data improves; this is the second descent.</p>
+
+<p>As we increase the number of basis functions, we are able to create combinations of basis functions that are <em>smooth</em> but perfect fits through the training data. Nothing in our training, however, favoured smoothness: we fitted to the training data without any regularization term. Why, then, are these smooth solutions selected? They are selected by the implicit bias of the gradient descent optimizer in this context. Whilst there are many solutions that perfectly fit the training data, the gradient descent algorithm is biased towards the solution that minimizes the \(L_2\)-norm of the parameters. That is a smooth solution.</p>
+
+<p>The long and short of it is that by increasing \(p\) we create more possibilities for smooth functions that fit the training data perfectly and generalise well. Since we are using point estimates, there is no explicit Occam-type penalty for increasing \(p\). These smooth interpolating functions, that weren't selected or available near the interpolation threshold, are selected by the implicit bias of the optimization algorithm, and being smooth functions that fit the training data, they typically generalise well.</p>
+
+<p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_writing.html'>writing</a>, <a href='tag_double-descent.html'>double-descent</a></p>
+
+<!-- text end -->
+]]></description><link>https://andrewfowlie.github.io/blog/double-reading-writing-and-descent.html</link>
+<guid>https://andrewfowlie.github.io/blog/./double-reading-writing-and-descent.html</guid>
+<dc:creator>Andrew Fowlie</dc:creator>
+<pubDate>Thu, 17 Sep 2026 14:34:11 +0100</pubDate></item>
 <item><title>
 Baryogenesis, finally
 </title><description><![CDATA[
@@ -55,11 +92,12 @@ We give a chemical potential for \(B - L\) and equilibration redistributes the c
 
 <p>Tags: <a href='tag_baryogenesis.html'>baryogenesis</a>, <a href='tag_statistical-mechanics.html'>statistical-mechanics</a>, <a href='tag_physics.html'>physics</a></p>
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/baryogensis-finally.html</link>
 <guid>https://andrewfowlie.github.io/blog/./baryogensis-finally.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 09 Sep 2026 09:57:22 +0800</pubDate></item>
+<pubDate>Wed, 09 Sep 2026 09:57:22 +0100</pubDate></item>
 <item><title>
 AI & Misogyny
 </title><description><![CDATA[
@@ -79,11 +117,12 @@ Instead of sacrificing anything and everything to the whims of men like Mark Zuc
 <p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_ai.html'>ai</a>, <a href='tag_society.html'>society</a></p>
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/ai--misogyny.html</link>
 <guid>https://andrewfowlie.github.io/blog/./ai--misogyny.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Tue, 08 Sep 2026 16:23:29 +0800</pubDate></item>
+<pubDate>Tue, 08 Sep 2026 16:23:29 +0100</pubDate></item>
 <item><title>
 17 papers, 2.6 sigmas, and 1 event
 </title><description><![CDATA[
@@ -124,11 +163,12 @@ I think that's a defensible point of view.</p>
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/17-papers-26-sigmas-and-1-event.html</link>
 <guid>https://andrewfowlie.github.io/blog/./17-papers-26-sigmas-and-1-event.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Fri, 04 Sep 2026 15:09:07 +0800</pubDate></item>
+<pubDate>Fri, 04 Sep 2026 15:09:07 +0100</pubDate></item>
 <item><title>
 Tall Tales and Wee Stories
 </title><description><![CDATA[
@@ -146,11 +186,12 @@ Tall Tales and Wee Stories
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/tall-tales-and-wee-stories.html</link>
 <guid>https://andrewfowlie.github.io/blog/./tall-tales-and-wee-stories.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Tue, 01 Sep 2026 16:35:08 +0800</pubDate></item>
+<pubDate>Tue, 01 Sep 2026 16:35:08 +0100</pubDate></item>
 <item><title>
 Dreaming is for free
 </title><description><![CDATA[
@@ -163,11 +204,12 @@ Dreaming is for free
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/dreaming-is-for-free.html</link>
 <guid>https://andrewfowlie.github.io/blog/./dreaming-is-for-free.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 26 Aug 2026 15:34:30 +0800</pubDate></item>
+<pubDate>Wed, 26 Aug 2026 15:34:30 +0100</pubDate></item>
 <item><title>
 WALL-E in rep
 </title><description><![CDATA[
@@ -186,11 +228,12 @@ it was in English and family friendly. What with the spate of remakes, I wasn't 
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/wall-e-in-rep.html</link>
 <guid>https://andrewfowlie.github.io/blog/./wall-e-in-rep.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 26 Aug 2026 15:12:12 +0800</pubDate></item>
+<pubDate>Wed, 26 Aug 2026 15:12:12 +0100</pubDate></item>
 <item><title>
 The Machine Stops
 </title><description><![CDATA[
@@ -209,11 +252,12 @@ communication and experiences. I found the Machine's preference for $n$-th hand 
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/the-machine-stops.html</link>
 <guid>https://andrewfowlie.github.io/blog/./the-machine-stops.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Fri, 21 Aug 2026 04:32:32 +0800</pubDate></item>
+<pubDate>Fri, 21 Aug 2026 04:32:32 +0100</pubDate></item>
 <item><title>
 Mechanical analogy for qubit measurement
 </title><description><![CDATA[
@@ -252,11 +296,12 @@ no way for a ball to classically go through a superposition of two routes. Thus,
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/stern-gerlach-analogy-for-a-qubit-measurement.html</link>
 <guid>https://andrewfowlie.github.io/blog/./stern-gerlach-analogy-for-a-qubit-measurement.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 05 Aug 2026 11:54:33 +0800</pubDate></item>
+<pubDate>Wed, 05 Aug 2026 11:54:33 +0100</pubDate></item>
 <item><title>
 Is QBism Bayesian?
 </title><description><![CDATA[
@@ -288,40 +333,10 @@ outcome we observe?</p>
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/is-qbism-bayesian.html</link>
 <guid>https://andrewfowlie.github.io/blog/./is-qbism-bayesian.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Tue, 04 Aug 2026 02:39:46 +0800</pubDate></item>
-<item><title>
-Neuromancer
-</title><description><![CDATA[
-
-<p class="dropcap">Read <em>Neuromancer</em> by William Gibson (1984). A seminal, genre-defining work of cyberpunk fiction. High-tech; low-life. The book is extraordinarily fast-paced and
-frantic, with rapid scene switches, character aliases, and twists, and no explanatory text on the technologies or lexicon. This makes it a challenging read. </p>
-
-<img class="center" src="https://cdn.shopify.com/s/files/1/0625/6679/3413/files/Neuromancer.jpg?v=1716611145&width=600&crop=center">
-
-<p>Whilst I didn't especially enjoy it as a novel, I recognized it as a masterpiece of science fiction, introducing the cyberpunk vision of the future that felt so eerily like our present. There is no sign of global governance, order, or rules; only mega-corporations that control big tech. Humans are somewhat redundant: the hyper-wealthy aristocratic Tessier-Ashpool family are cryogenically frozen, awakening only periodically to check that AIs are running their finances appropriately. On his hero's journey, our protagonist, Case, saves no one, averts no disasters, and is manipulated by AIs. I <em>did</em> see Case as our hero, though. He survives the ruthless criminal underworld of Chiba and chooses to take a step closer to the truth and personal meaning.</p>
-
-<p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_sci-fi.html'>sci-fi</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-]]></description><link>https://andrewfowlie.github.io/blog/neuromancer.html</link>
-<guid>https://andrewfowlie.github.io/blog/./neuromancer.html</guid>
-<dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Thu, 30 Jul 2026 14:34:44 +0800</pubDate></item>
+<pubDate>Tue, 04 Aug 2026 02:39:46 +0100</pubDate></item>
 </channel></rss>
