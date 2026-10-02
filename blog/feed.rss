@@ -2,9 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>/home/andrew$</title><link>https://andrewfowlie.github.io/blog/index.html</link>
 <description>Some thoughts on physics, statistics, computing & technology</description><language>en</language>
-<lastBuildDate>Thu, 17 Sep 2026 16:00:08 +0100</lastBuildDate>
-<pubDate>Thu, 17 Sep 2026 16:00:08 +0100</pubDate>
+<lastBuildDate>Fri, 02 Oct 2026 15:11:25 +0100</lastBuildDate>
+<pubDate>Fri, 02 Oct 2026 15:11:25 +0100</pubDate>
 <atom:link href="https://andrewfowlie.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Hard Times 
+</title><description><![CDATA[
+
+<p class="dropcap">Read <em>Hard Times</em> by Charles Dickens over the holidays. Whilst I thoroughly enjoyed it, I don't consider it amongst my favourites of Dickens' novels. On a personal note, I was glad to have the stamina to read a classic and that my focus hasn't been entirely sapped by smartphones and the internet.</p>
+
+<img src="https://standardebooks.org/images/covers/charles-dickens_hard-times/f8fa0e99d3e7c0e5ecd30d53d427d036cd361f12/cover.avif" class="center">
+
+<p>The book is set in the fictional industrial town of Coketown in the north-east of England and revolves around the factory owner, Mr. Bounderby; the utilitarian schoolmaster, Mr. Gradgrind, and his family; and an honest hand at the factory, Stephen Blackpool. Times are hard for everyone, though in different ways. Mr. Bounderby legitimizes his status and treatment of the workers by mythologizing himself in every breath and creating a ridiculous and false rags-to-riches story. Mr. Gradgrind, so committed to a utilitarian approach to education and life, deprives himself and his family of feeling and emotion. Blackpool, though honest and hardworking, becomes ostracized from the workers, wrongfully accused of robbery, and dies after falling into a dangerous disused mine shaft. The fatalistic plotlines reminded me of Thomas Hardy, as characters seemed doomed from the start.</p>
+
+<p>Dickens succeeds in satirizing Bounderby and Gradgrind, and through them the utilitarian philosophy they represent, though fails to grapple with the economic and class relations that led to such hard times for all. Dickens was a reformist and his writing was his activism: he thought that through storytelling he'd change society. If we felt how Stephen Blackpool felt, we'd improve the lives of factory workers. Dickens attributed hard times to personal or idiosyncratic failings of factory owners, which could be remedied by moral suasion. He wasn't a Marxist, and didn't connect the hard times, and moral failings, to class interests and class morality, and the economic structure of the industrial town.</p>
+
+<p>I can't end without mentioning Mr. Sleary and the travelling circus, the antidote to Gradgrind and Bounderby. They are, perhaps, the only characters who aren't emotionally or morally diminished by hard times, though they experience material hardship. They aren't formally educated by Gradgrind's standards but they have their fancies - their imagination, silliness, affection and feeling - which we shouldn't forget to value in our own lives.</p>
+
+<p>I obtained my copy of the book through <a href="https://standardebooks.org/">Standard Ebooks</a>, a volunteer project to create beautiful digital editions of public domain books.</p>
+
+<p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_dickens.html'>dickens</a></p>
+
+
+
+
+
+<!-- text end -->
+]]></description><link>https://andrewfowlie.github.io/blog/hard-times-.html</link>
+<guid>https://andrewfowlie.github.io/blog/./hard-times-.html</guid>
+<dc:creator>Andrew Fowlie</dc:creator>
+<pubDate>Fri, 02 Oct 2026 14:42:18 +0100</pubDate></item>
 <item><title>
 Double reading, writing and descent
 </title><description><![CDATA[
@@ -36,6 +63,11 @@ We train our model on the \(n\) data points; select a point estimate for the par
 <p>The long and short of it is that by increasing \(p\) we create more possibilities for smooth functions that fit the training data perfectly and generalise well. Since we are using point estimates, there is no explicit Occam-type penalty for increasing \(p\). These smooth interpolating functions, that weren't selected or available near the interpolation threshold, are selected by the implicit bias of the optimization algorithm, and being smooth functions that fit the training data, they typically generalise well.</p>
 
 <p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_writing.html'>writing</a>, <a href='tag_double-descent.html'>double-descent</a></p>
+
+
+
+
+
 
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/double-reading-writing-and-descent.html</link>
@@ -93,6 +125,11 @@ We give a chemical potential for \(B - L\) and equilibration redistributes the c
 <p>Tags: <a href='tag_baryogenesis.html'>baryogenesis</a>, <a href='tag_statistical-mechanics.html'>statistical-mechanics</a>, <a href='tag_physics.html'>physics</a></p>
 
 
+
+
+
+
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/baryogensis-finally.html</link>
 <guid>https://andrewfowlie.github.io/blog/./baryogensis-finally.html</guid>
@@ -115,6 +152,11 @@ Instead of sacrificing anything and everything to the whims of men like Mark Zuc
 </blockquote>
 
 <p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_ai.html'>ai</a>, <a href='tag_society.html'>society</a></p>
+
+
+
+
+
 
 
 
@@ -164,6 +206,11 @@ I think that's a defensible point of view.</p>
 
 
 
+
+
+
+
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/17-papers-26-sigmas-and-1-event.html</link>
 <guid>https://andrewfowlie.github.io/blog/./17-papers-26-sigmas-and-1-event.html</guid>
@@ -187,6 +234,11 @@ Tall Tales and Wee Stories
 
 
 
+
+
+
+
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/tall-tales-and-wee-stories.html</link>
 <guid>https://andrewfowlie.github.io/blog/./tall-tales-and-wee-stories.html</guid>
@@ -199,6 +251,11 @@ Dreaming is for free
 <p class="dropcap">Read a heartbreaking <a href="https://news.sky.com/story/guinea-landslide-kills-30-people-after-mound-of-waste-collapses-at-landfill-site-13576442">story</a> about a landslide at landfill site that killed 30 people in Guinea. Was appalled to realize that these occurrences are so common in the global south that they have their own <a href="https://en.wikipedia.org/wiki/Garbage_landslide">Wikipedia entry</a>. What an awful metaphor for the world we've created. Don't let anyone tell you a better world isn't possible.</p>
 
 <p>Tags: <a href='tag_world.html'>world</a>, <a href='tag_tragedy.html'>tragedy</a></p>
+
+
+
+
+
 
 
 
@@ -229,6 +286,11 @@ it was in English and family friendly. What with the spate of remakes, I wasn't 
 
 
 
+
+
+
+
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/wall-e-in-rep.html</link>
 <guid>https://andrewfowlie.github.io/blog/./wall-e-in-rep.html</guid>
@@ -243,6 +305,11 @@ However, the book focusses on human connections and alienation and thus perhaps 
 communication and experiences. I found the Machine's preference for $n$-th hand information intriguing: first-hand and second-hand sources were considered partisan and unreliable. The society thus prefers depersonalised, smooth, generic lectures and historical accounts. Any of this sound familiar?</p>
 
 <p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_ai.html'>ai</a>, <a href='tag_sci-fi.html'>sci-fi</a></p>
+
+
+
+
+
 
 
 
@@ -297,46 +364,14 @@ no way for a ball to classically go through a superposition of two routes. Thus,
 
 
 
+
+
+
+
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/stern-gerlach-analogy-for-a-qubit-measurement.html</link>
 <guid>https://andrewfowlie.github.io/blog/./stern-gerlach-analogy-for-a-qubit-measurement.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
 <pubDate>Wed, 05 Aug 2026 11:54:33 +0100</pubDate></item>
-<item><title>
-Is QBism Bayesian?
-</title><description><![CDATA[
-
-<p>I've been exploring QBism, an interpretation of Quantum Mechanics (QM) based on or inspired by Bayesian inference. The appeal being that mysteries about the ontic or epistemic
-nature of the wavefunction and about the collapse of the wavefunction could be resolved in this perspective.</p>
-
-<p>I found it confusing and incoherent. There is nothing mathematically Bayesian about it. We don't describe beliefs with probability theory alone, as we use a wavefunction, and we don't update them using Bayes' theorem alone, as we need the Born rule. It 
-is, though, Bayesian in spirit, in that the wavefunction is interpreted personally and epistemically: it isn't real or ontic, it something that we create in our heads to describe a quantum state. The collapse of a wavefunction isn't
-real either, it's just an update we do in our heads, analogous to Bayesian updating from prior to posterior. In later works this is explicitly stated and the B is said to stand for Bruno de Finetti rather than Bayes, as much like de Finetti said that probabilities didn't exist, QBism says wavefunctions don't exist in a physical, ontic way.</p>
-
-<p>Sounds wonderful at first glance, until you ask a few more questions. Why are we using wavefunctions to describe our epistemic state (cf. probabilities)? Why do we use the Born rule to associate
-probabilities with outcomes? If the wavefunction is epistemic, what is it that we are ignorant about? If the measurement and update are all in our heads, what determines which random
-outcome we observe?</p>
-
-<p>I found the answers to these questions vague and handwavy, as they involve 'agents', 'agent experiences', and 'normative rules'.</p>
-
-<p>Tags: <a href='tag_quantum-mechanics.html'>quantum-mechanics</a>, <a href='tag_bayes.html'>bayes</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-]]></description><link>https://andrewfowlie.github.io/blog/is-qbism-bayesian.html</link>
-<guid>https://andrewfowlie.github.io/blog/./is-qbism-bayesian.html</guid>
-<dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Tue, 04 Aug 2026 02:39:46 +0100</pubDate></item>
 </channel></rss>
