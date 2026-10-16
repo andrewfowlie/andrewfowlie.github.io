@@ -1,0 +1,56 @@
+<link rel="stylesheet" href="prism.css">
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<link rel="stylesheet" href="style.css">
+<script src="prism.js"></script>
+<title>/home/andrew$ &mdash; Posts tagged "pdfs"</title>
+</head><body>
+<div id="divbodyholder">
+<div class="headerholder"><div class="header">
+<div id="title">
+<h1 class="nomargin"><a class="ablack" href="https://andrewfowlie.github.io/blog/index.html">/home/andrew$</a></h1>
+<div id="description">Some thoughts on physics, statistics, computing & technology</div>
+</div></div></div>
+<div id="divbody"><div class="content">
+<h3><a class="ablack" href="pdfs-after-all-these-years.html">
+PDFs after all these years
+</a></h3>
+<!-- bashblog_timestamp: #202610161542.23# -->
+<div class="subtitle">October 16, 2026 &mdash; 
+Andrew Fowlie
+</div>
+<!-- text begin -->
+
+<p>I've only just realized that for years I've misunderstood, or perhaps had the wrong mental model, for the proton parton distribution functions (PDFs) 
+and the structure of the proton. The PDF for a parton species tells us the number density of partons of that species with a fraction \(x\) of the longitudinal (or strictly speaking light-cone) momentum of the proton.</p>
+
+<p>There are various sum rules that PDFs must satisfy. For example, the fractions must sum (in expectation) to one,
+$$
+  \sum_i \int_0^1 x f_i(x) \,\text{d}x = 1,
+$$
+and there should be 2 up valence-quarks in the proton,
+$$
+  \int_0^1 \left(f_u(x) - f_{\bar u}(x)\right)\,\text{d}x = 2
+$$
+Now what's that formula about? Well, we don't distinguish between valence and sea quarks in the PDFs. The up quark could be created in the quark sea,
+popping in and out in pairs \(u\bar u\). The above formula says that the number of sea + valence up quarks minus  the number of sea anti-up quarks equals 2.
+</p>
+
+<p>The PDFs depend on a scale, however, called \(\mu\), and we write them as \(f(x, \mu)\). What's the meaning of that scale? I'd always thought of this scale as the scale at which we <em>probed</em> the
+proton. That we were observing the proton in some way that interfered with it or made it reveal different structure or that the proton was physically changing
+because of our probing it.</p>
+
+<p>This probably won't lead to any mathematical errors, but it did leave me confused about what the structure of the proton really was. I think I almost
+saw it quantum mechanically, that you can't look at it without disturbing it, and that it reacted to the scale that you probed, \(\mu\).</p>
+
+<p>The idea of the proton changing as we prod it is a terrible mental model; let's build a better one. What actually matters here is what we mean by a parton. We know that inside a proton, as well as the valence quarks $uud$, there's a soup of partons popping into and out of existence; these are the sea partons. 
+The partons are surrounded by this mess all the time. We can simplify things by saying that any mess around a parton, at energy less than \(\mu\), is just part of that parton; they are its dressing. Anything mess above that scale counts as extra partons. The PDFs depend on that choice; of course they do! We are just saying here that parton distribution functions depend on how we define a parton.</p>
+
+<p>Thus the hard scale is just something we pick to define what we mean by a parton. In order to make our calculations as accurate as possible, we are best to pick it to be a scale that minimizes higher-order logarithms in perturbative calculations. Formally, though, our calculations, which involve PDFs and hard scattering elements, shouldn't depend on our choice of scale, up to higher-order corrections. The DGLAP equations ensure that the scale-dependence of PDFs cancels with that of the hard-scattering elements up to higher-order corrections.</p>
+
+<p>Tags: <a href='tag_pdfs.html'>pdfs</a>, <a href='tag_physics.html'>physics</a>, <a href='tag_proton.html'>proton</a></p>
+
+
+<!-- text end -->
+</div>
+</div></div>
+</body></html>

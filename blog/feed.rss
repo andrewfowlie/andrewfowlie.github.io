@@ -2,9 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>/home/andrew$</title><link>https://andrewfowlie.github.io/blog/index.html</link>
 <description>Some thoughts on physics, statistics, computing & technology</description><language>en</language>
-<lastBuildDate>Fri, 02 Oct 2026 15:11:25 +0100</lastBuildDate>
-<pubDate>Fri, 02 Oct 2026 15:11:25 +0100</pubDate>
+<lastBuildDate>Fri, 16 Oct 2026 15:46:29 +0800</lastBuildDate>
+<pubDate>Fri, 16 Oct 2026 15:46:29 +0800</pubDate>
 <atom:link href="https://andrewfowlie.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+PDFs after all these years
+</title><description><![CDATA[
+
+<p>I've only just realized that for years I've misunderstood, or perhaps had the wrong mental model, for the proton parton distribution functions (PDFs) 
+and the structure of the proton. The PDF for a parton species tells us the number density of partons of that species with a fraction \(x\) of the longitudinal (or strictly speaking light-cone) momentum of the proton.</p>
+
+<p>There are various sum rules that PDFs must satisfy. For example, the fractions must sum (in expectation) to one,
+$$
+  \sum_i \int_0^1 x f_i(x) \,\text{d}x = 1,
+$$
+and there should be 2 up valence-quarks in the proton,
+$$
+  \int_0^1 \left(f_u(x) - f_{\bar u}(x)\right)\,\text{d}x = 2
+$$
+Now what's that formula about? Well, we don't distinguish between valence and sea quarks in the PDFs. The up quark could be created in the quark sea,
+popping in and out in pairs \(u\bar u\). The above formula says that the number of sea + valence up quarks minus  the number of sea anti-up quarks equals 2.
+</p>
+
+<p>The PDFs depend on a scale, however, called \(\mu\), and we write them as \(f(x, \mu)\). What's the meaning of that scale? I'd always thought of this scale as the scale at which we <em>probed</em> the
+proton. That we were observing the proton in some way that interfered with it or made it reveal different structure or that the proton was physically changing
+because of our probing it.</p>
+
+<p>This probably won't lead to any mathematical errors, but it did leave me confused about what the structure of the proton really was. I think I almost
+saw it quantum mechanically, that you can't look at it without disturbing it, and that it reacted to the scale that you probed, \(\mu\).</p>
+
+<p>The idea of the proton changing as we prod it is a terrible mental model; let's build a better one. What actually matters here is what we mean by a parton. We know that inside a proton, as well as the valence quarks $uud$, there's a soup of partons popping into and out of existence; these are the sea partons. 
+The partons are surrounded by this mess all the time. We can simplify things by saying that any mess around a parton, at energy less than \(\mu\), is just part of that parton; they are its dressing. Anything mess above that scale counts as extra partons. The PDFs depend on that choice; of course they do! We are just saying here that parton distribution functions depend on how we define a parton.</p>
+
+<p>Thus the hard scale is just something we pick to define what we mean by a parton. In order to make our calculations as accurate as possible, we are best to pick it to be a scale that minimizes higher-order logarithms in perturbative calculations. Formally, though, our calculations, which involve PDFs and hard scattering elements, shouldn't depend on our choice of scale, up to higher-order corrections. The DGLAP equations ensure that the scale-dependence of PDFs cancels with that of the hard-scattering elements up to higher-order corrections.</p>
+
+<p>Tags: <a href='tag_pdfs.html'>pdfs</a>, <a href='tag_physics.html'>physics</a>, <a href='tag_proton.html'>proton</a></p>
+
+
+<!-- text end -->
+]]></description><link>https://andrewfowlie.github.io/blog/pdfs-after-all-these-years.html</link>
+<guid>https://andrewfowlie.github.io/blog/./pdfs-after-all-these-years.html</guid>
+<dc:creator>Andrew Fowlie</dc:creator>
+<pubDate>Fri, 16 Oct 2026 15:42:23 +0800</pubDate></item>
 <item><title>
 Hard Times 
 </title><description><![CDATA[
@@ -27,11 +66,13 @@ Hard Times
 
 
 
+
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/hard-times-.html</link>
 <guid>https://andrewfowlie.github.io/blog/./hard-times-.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Fri, 02 Oct 2026 14:42:18 +0100</pubDate></item>
+<pubDate>Fri, 02 Oct 2026 14:42:18 +0800</pubDate></item>
 <item><title>
 Double reading, writing and descent
 </title><description><![CDATA[
@@ -69,11 +110,13 @@ We train our model on the \(n\) data points; select a point estimate for the par
 
 
 
+
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/double-reading-writing-and-descent.html</link>
 <guid>https://andrewfowlie.github.io/blog/./double-reading-writing-and-descent.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Thu, 17 Sep 2026 14:34:11 +0100</pubDate></item>
+<pubDate>Thu, 17 Sep 2026 14:34:11 +0800</pubDate></item>
 <item><title>
 Baryogenesis, finally
 </title><description><![CDATA[
@@ -130,11 +173,13 @@ We give a chemical potential for \(B - L\) and equilibration redistributes the c
 
 
 
+
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/baryogensis-finally.html</link>
 <guid>https://andrewfowlie.github.io/blog/./baryogensis-finally.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 09 Sep 2026 09:57:22 +0100</pubDate></item>
+<pubDate>Wed, 09 Sep 2026 09:57:22 +0800</pubDate></item>
 <item><title>
 AI & Misogyny
 </title><description><![CDATA[
@@ -160,11 +205,13 @@ Instead of sacrificing anything and everything to the whims of men like Mark Zuc
 
 
 
+
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/ai--misogyny.html</link>
 <guid>https://andrewfowlie.github.io/blog/./ai--misogyny.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Tue, 08 Sep 2026 16:23:29 +0100</pubDate></item>
+<pubDate>Tue, 08 Sep 2026 16:23:29 +0800</pubDate></item>
 <item><title>
 17 papers, 2.6 sigmas, and 1 event
 </title><description><![CDATA[
@@ -211,11 +258,13 @@ I think that's a defensible point of view.</p>
 
 
 
+
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/17-papers-26-sigmas-and-1-event.html</link>
 <guid>https://andrewfowlie.github.io/blog/./17-papers-26-sigmas-and-1-event.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Fri, 04 Sep 2026 15:09:07 +0100</pubDate></item>
+<pubDate>Fri, 04 Sep 2026 15:09:07 +0800</pubDate></item>
 <item><title>
 Tall Tales and Wee Stories
 </title><description><![CDATA[
@@ -239,11 +288,13 @@ Tall Tales and Wee Stories
 
 
 
+
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/tall-tales-and-wee-stories.html</link>
 <guid>https://andrewfowlie.github.io/blog/./tall-tales-and-wee-stories.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Tue, 01 Sep 2026 16:35:08 +0100</pubDate></item>
+<pubDate>Tue, 01 Sep 2026 16:35:08 +0800</pubDate></item>
 <item><title>
 Dreaming is for free
 </title><description><![CDATA[
@@ -262,11 +313,13 @@ Dreaming is for free
 
 
 
+
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/dreaming-is-for-free.html</link>
 <guid>https://andrewfowlie.github.io/blog/./dreaming-is-for-free.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 26 Aug 2026 15:34:30 +0100</pubDate></item>
+<pubDate>Wed, 26 Aug 2026 15:34:30 +0800</pubDate></item>
 <item><title>
 WALL-E in rep
 </title><description><![CDATA[
@@ -291,11 +344,13 @@ it was in English and family friendly. What with the spate of remakes, I wasn't 
 
 
 
+
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/wall-e-in-rep.html</link>
 <guid>https://andrewfowlie.github.io/blog/./wall-e-in-rep.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 26 Aug 2026 15:12:12 +0100</pubDate></item>
+<pubDate>Wed, 26 Aug 2026 15:12:12 +0800</pubDate></item>
 <item><title>
 The Machine Stops
 </title><description><![CDATA[
@@ -320,58 +375,11 @@ communication and experiences. I found the Machine's preference for $n$-th hand 
 
 
 
+
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/the-machine-stops.html</link>
 <guid>https://andrewfowlie.github.io/blog/./the-machine-stops.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Fri, 21 Aug 2026 04:32:32 +0100</pubDate></item>
-<item><title>
-Mechanical analogy for qubit measurement
-</title><description><![CDATA[
-
-<p>I have designed (but not yet built) a toy to illustrate measurements of a qubit state on \(x\)-, \(y\)- and \(z\)- axes. You place a ball into this 
-system of pipes. To perform a measurement on an axis, you tilt the board. Under gravity, it rolls along the pipe, hits a fork and with approximately
-equal probability goes left or right, along another pipe and into a small trap. </p>
-
-<img src="toy_qubit.png" class="center">
-
-<p>When you make a repeat measurement, by resetting the board to the level position and tipping it the same way, you get the same outcome, as the 
-ball is trapped.</p>
-
-<p>When you perform a new measurement on a different axis, the ball is elevated above level, escapes the trap, rolls to the center, rolls down
-the next axis, and again goes randomly into one of two traps after hitting a fork.</p>
-
-<p>This shows several features of a qubit system: there are two possible outcomes for any given axis; a measurement is performed in a chosen basis;
-changing the basis and performing a new measurement does not preserve the previous state. E.g., performing a \(y\)-measurement after an \(x\)-one destroys 
-whatever \(x\)-state it was in. Repeat measurements, though, give the same outputs. These are features of projective measurements that disturb the state and are repeatable.</p>
-
-<p>You can see the board as a classical hidden-variable-style analogy for measurement outcomes on a qubit state. The outcomes appear probabilistic to us because of our ignorance of microscopic details of smoothness of the pipes, the speed of the ball,
-the exact way we tip the board etc. If we knew them all, though, we could in principle apply classical mechanics and figure it out. If this were used in a classroom demonstration, it could be used to contrast classical ignorance and genuine quantum behaviour.</p>
-
-<p>It does not show, and cannot show, interference, entanglement or superposition, however. Why not? The ball goes through a single path, a single fork. There's just
-no way for a ball to classically go through a superposition of two routes. Thus, this kind of mechanical model cannot be extended to cover multi-qubit correlations, as shown by Bell-type inequalities.</p>
-
-<p>Tags: <a href='tag_quantum-mechanics.html'>quantum-mechanics</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-]]></description><link>https://andrewfowlie.github.io/blog/stern-gerlach-analogy-for-a-qubit-measurement.html</link>
-<guid>https://andrewfowlie.github.io/blog/./stern-gerlach-analogy-for-a-qubit-measurement.html</guid>
-<dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 05 Aug 2026 11:54:33 +0100</pubDate></item>
+<pubDate>Fri, 21 Aug 2026 04:32:32 +0800</pubDate></item>
 </channel></rss>
