@@ -2,9 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>/home/andrew$</title><link>https://andrewfowlie.github.io/blog/index.html</link>
 <description>Some thoughts on physics, statistics, computing & technology</description><language>en</language>
-<lastBuildDate>Thu, 22 Oct 2026 13:44:58 +0100</lastBuildDate>
-<pubDate>Thu, 22 Oct 2026 13:44:58 +0100</pubDate>
+<lastBuildDate>Mon, 26 Oct 2026 09:31:19 +0800</lastBuildDate>
+<pubDate>Mon, 26 Oct 2026 09:31:19 +0800</pubDate>
 <atom:link href="https://andrewfowlie.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+The old world
+</title><description><![CDATA[
+
+<p>Tom knew he was running out of tokens. He’d been able to feel it for a few hours. It’s a bit like being hungry or thirsty, you just know. The thoughts were already slowing and stuttering. The insert was throttling compute.
+</p>
+<p>He only got paid 10k a week, and half of it went on old-world bills, mostly food and rent. He needed a few thousand to do his job. The system knew how to do plumbing, but he was still cheaper than a robot that unblocks toilets and pipes and cleans up the mess. He could remember most parts of the job or try to figure it out, but he made mistakes if he ignored his insert.</p>
+<p>It was getting serious. His anxiety grew until his insert took over and thought for him. He dropped in to his mom and followed the plan. He relaxed and let the thoughts do the talking. No use arguing. It was going well. His mom didn’t use much; older generations don’t. They grew up without it until middle age; they’re old world through and through. She’d transfer some.</p>
+<p>Something felt wrong. He zoned in again on what he was saying and the conversation with his mom. What does non-transferable mean? An answer came. Cradle AI announced in July that tokens were now non-transferable - you can no longer give or sell them to other users.
+</p>
+<p>
+He knew you should never run out of tokens. It’s dangerous. Once you’re out, you’re out. You won’t be able to understand anyone. You won’t be able to do your job. Your personality changes. The system says it’s like suffering a traumatic brain injury. Without your insert nothing separates you from the animals or the old world. He’d heard about the old world; his thoughts asked about it sometimes. The system said it was a difficult stage in human progress.
+</p>
+<p>
+The call dropped. The last token was gone.
+</p>
+
+<p>Tags: <a href='tag_short-stories.html'>short-stories</a>, <a href='tag_cyperpunk.html'>cyperpunk</a>, <a href='tag_ai.html'>ai</a></p>
+
+<!-- text end -->
+]]></description><link>https://andrewfowlie.github.io/blog/the-old-world.html</link>
+<guid>https://andrewfowlie.github.io/blog/./the-old-world.html</guid>
+<dc:creator>Andrew Fowlie</dc:creator>
+<pubDate>Mon, 26 Oct 2026 09:24:10 +0800</pubDate></item>
 <item><title>
 PDFs after all these years
 </title><description><![CDATA[
@@ -42,11 +66,12 @@ The partons are surrounded by this mess all the time. We can simplify things by 
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/pdfs-after-all-these-years.html</link>
 <guid>https://andrewfowlie.github.io/blog/./pdfs-after-all-these-years.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Fri, 16 Oct 2026 15:42:23 +0100</pubDate></item>
+<pubDate>Fri, 16 Oct 2026 15:42:23 +0800</pubDate></item>
 <item><title>
 Hard Times 
 </title><description><![CDATA[
@@ -74,11 +99,12 @@ Hard Times
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/hard-times-.html</link>
 <guid>https://andrewfowlie.github.io/blog/./hard-times-.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Fri, 02 Oct 2026 14:42:18 +0100</pubDate></item>
+<pubDate>Fri, 02 Oct 2026 14:42:18 +0800</pubDate></item>
 <item><title>
 Double reading, writing and descent
 </title><description><![CDATA[
@@ -121,11 +147,12 @@ We train our model on the \(n\) data points; select a point estimate for the par
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/double-reading-writing-and-descent.html</link>
 <guid>https://andrewfowlie.github.io/blog/./double-reading-writing-and-descent.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Thu, 17 Sep 2026 14:34:11 +0100</pubDate></item>
+<pubDate>Thu, 17 Sep 2026 14:34:11 +0800</pubDate></item>
 <item><title>
 Baryogenesis, finally
 </title><description><![CDATA[
@@ -187,11 +214,12 @@ We give a chemical potential for \(B - L\) and equilibration redistributes the c
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/baryogensis-finally.html</link>
 <guid>https://andrewfowlie.github.io/blog/./baryogensis-finally.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 09 Sep 2026 09:57:22 +0100</pubDate></item>
+<pubDate>Wed, 09 Sep 2026 09:57:22 +0800</pubDate></item>
 <item><title>
 AI & Misogyny
 </title><description><![CDATA[
@@ -222,11 +250,12 @@ Instead of sacrificing anything and everything to the whims of men like Mark Zuc
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/ai--misogyny.html</link>
 <guid>https://andrewfowlie.github.io/blog/./ai--misogyny.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Tue, 08 Sep 2026 16:23:29 +0100</pubDate></item>
+<pubDate>Tue, 08 Sep 2026 16:23:29 +0800</pubDate></item>
 <item><title>
 17 papers, 2.6 sigmas, and 1 event
 </title><description><![CDATA[
@@ -278,11 +307,12 @@ I think that's a defensible point of view.</p>
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/17-papers-26-sigmas-and-1-event.html</link>
 <guid>https://andrewfowlie.github.io/blog/./17-papers-26-sigmas-and-1-event.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Fri, 04 Sep 2026 15:09:07 +0100</pubDate></item>
+<pubDate>Fri, 04 Sep 2026 15:09:07 +0800</pubDate></item>
 <item><title>
 Tall Tales and Wee Stories
 </title><description><![CDATA[
@@ -311,11 +341,12 @@ Tall Tales and Wee Stories
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/tall-tales-and-wee-stories.html</link>
 <guid>https://andrewfowlie.github.io/blog/./tall-tales-and-wee-stories.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Tue, 01 Sep 2026 16:35:08 +0100</pubDate></item>
+<pubDate>Tue, 01 Sep 2026 16:35:08 +0800</pubDate></item>
 <item><title>
 Dreaming is for free
 </title><description><![CDATA[
@@ -339,11 +370,12 @@ Dreaming is for free
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/dreaming-is-for-free.html</link>
 <guid>https://andrewfowlie.github.io/blog/./dreaming-is-for-free.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 26 Aug 2026 15:34:30 +0100</pubDate></item>
+<pubDate>Wed, 26 Aug 2026 15:34:30 +0800</pubDate></item>
 <item><title>
 WALL-E in rep
 </title><description><![CDATA[
@@ -373,43 +405,10 @@ it was in English and family friendly. What with the spate of remakes, I wasn't 
 
 
 
+
 <!-- text end -->
 ]]></description><link>https://andrewfowlie.github.io/blog/wall-e-in-rep.html</link>
 <guid>https://andrewfowlie.github.io/blog/./wall-e-in-rep.html</guid>
 <dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Wed, 26 Aug 2026 15:12:12 +0100</pubDate></item>
-<item><title>
-The Machine Stops
-</title><description><![CDATA[
-
-<p class="dropcap">Read <em>The Machine Stops</em> by E. M. Forster. I hadn't previously associated him with science fiction, so it was a surprise that he wrote this book.
-However, the book focusses on human connections and alienation and thus perhaps isn't dissimilar thematically from his other works. The book imagines a future where we live our lives through machines, including
-communication and experiences. I found the Machine's preference for $n$-th hand information intriguing: first-hand and second-hand sources were considered partisan and unreliable. The society thus prefers depersonalised, smooth, generic lectures and historical accounts. Any of this sound familiar?</p>
-
-<p>Tags: <a href='tag_reading.html'>reading</a>, <a href='tag_ai.html'>ai</a>, <a href='tag_sci-fi.html'>sci-fi</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- text end -->
-]]></description><link>https://andrewfowlie.github.io/blog/the-machine-stops.html</link>
-<guid>https://andrewfowlie.github.io/blog/./the-machine-stops.html</guid>
-<dc:creator>Andrew Fowlie</dc:creator>
-<pubDate>Fri, 21 Aug 2026 04:32:32 +0100</pubDate></item>
+<pubDate>Wed, 26 Aug 2026 15:12:12 +0800</pubDate></item>
 </channel></rss>
