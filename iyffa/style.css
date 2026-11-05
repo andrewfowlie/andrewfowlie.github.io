@@ -1,0 +1,175 @@
+@font-face {
+    font-family: "Alegreya";
+    src: url("fonts/alegreya.ttf") format("truetype");
+    font-weight: 400 900;
+    font-style: normal;
+}
+
+:root {
+    --ink: #242235;
+    --muted: #706d7c;
+    --accent: #7C3AED;
+    --accent-light: #f1eaff;
+    --paper: #fbfaf8;
+    --border: #e9e5ee;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 1048px;
+    margin: 0 auto;
+    padding: 64px 32px 100px;
+    background: var(--paper);
+    color: var(--ink);
+    font-size: 28px;
+    font-family: "Alegreya", serif;
+}
+
+#title-block-header {
+    border-bottom: 2px solid var(--border);
+    text-align: center;
+    margin-bottom: 1.5em;
+}
+
+h1, h2 {
+    font-family: "Alegreya", serif;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+h1 {
+    font-size: clamp(2em, 6vw, 3em);
+}
+
+h2 {
+    font-size: 2.5rem;
+    margin-top: 1.5em;
+    padding-bottom: 0.5em;
+    border-bottom: 2px solid var(--border);
+}
+.subtitle {
+    color: var(--muted);
+    font-size: 32px;
+    margin-top: 1.0rem;
+    margin-bottom: 2.0rem;
+    font-weight: bold;
+}
+
+.author {
+    color: var(--ink);
+    font-size: 28px;
+    margin-top: 0rem;
+    margin-bottom: 1.5rem;
+
+}
+
+/* Content */
+
+p {
+    margin: 1em 0;
+}
+
+a {
+    color: #6546A0;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #5522a8;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+}
+hr {
+    border: 0;
+    border-top: 1px solid var(--border);
+    margin: 2.5em 0;
+}
+
+/* PDF and resource links */
+
+ul {
+    padding-left: 1.3em;
+}
+
+li {
+    padding-left: 0.3em;
+    margin: 0.5em 0;
+}
+
+li::marker {
+    color: var(--accent);
+}
+
+.pdf-card {
+    margin: 1.5em 0;
+    padding: 0.5em 1em;
+    background: var(--accent-light);
+    border-left: 4px solid var(--accent);
+    border-radius: 5px;
+    margin-top: 1em;
+    margin-bottom: 0;
+}
+
+.pdf-card .pdf-label {
+    color: var(--accent);
+    font-size: 1.0rem;
+    font-weight: bold;
+    letter-spacing: 0.12em;
+    margin-bottom: 0.25em;
+}
+
+.pdf-card p {
+    margin: 0;
+}
+
+.pdf-card a {
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.pdf-card a:hover {
+    color: #5522a8;
+    text-decoration: underline;
+}
+
+.pdf-card p.pdf-links {
+    display: flex;
+    gap: 1.2em;
+    margin: 0;
+}
+
+.pdf-links a {
+    font-size: 1.75rem;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.pdf-links a:hover {
+    text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+    body {
+        padding: 32px 20px 60px;
+        font-size: 21px;
+    }
+
+    .subtitle,
+    .author {
+        font-size: 24px;
+    }
+
+    h2 {
+        font-size: 1.8rem;
+    }
+
+    .pdf-links {
+        flex-wrap: wrap;
+        gap: 0.5em 1em;
+    }
+}
