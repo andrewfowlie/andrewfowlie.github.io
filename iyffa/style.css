@@ -173,3 +173,27 @@ li::marker {
         gap: 0.5em 1em;
     }
 }
+
+#TOC {
+    padding: 0.5em 1em;
+    background: var(--accent-light);
+    border-left: 4px solid var(--accent);
+    border-radius: 5px;
+    margin-top: 1em;
+    margin-bottom: 0;
+}
+
+#TOC ul {
+    list-style: none;
+    padding-left: 1.2em;
+}
+
+#TOC a {
+    color: #303744;
+    text-decoration: none;
+}
+
+#TOC a:hover {
+    color: #7C3AED;
+    text-decoration: underline;
+}
