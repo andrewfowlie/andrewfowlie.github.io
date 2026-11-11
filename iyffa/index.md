@@ -27,7 +27,8 @@ and watch [Sidney Coleman’s Dirac Lecture: “Quantum Mechanics in Your Face�
 <div class="pdf-card">
   <div class="pdf-label">SLIDEDECK</div>
   <p class="pdf-links">
-    Coming soon.
+    <a href="docs/gpt.pdf">PDF ↗</a>
+    <a href="docs/gpt.zip">LaTeX source ↓</a>
   </p>
 </div>
 
