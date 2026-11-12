@@ -61,3 +61,12 @@ I introduce vector calculus for undergraduates by working through the question _
 </div>
 
 I've written this "little red book" from memory and as a tribute to a similar one given to me as an undergraduate at the University of Durham in 2005 by, I believe, Dr. Tom. We were constantly referring to them during our lab work and report writing. Of course, the errors present in this work are my own. I hope this version will stand students in good stead, as Dr.  Tom's one did for me. It is intended to be used by today's undergraduate students during laboratory sessions.
+
+Subsequent information, for which I am indebted to Prof. Tom
+Shanks, led me to understand that the original “little red book”
+was written by Prof. Ifan Hughes and Prof. Tom Hase. Their
+booklet became the basis of their textbook,
+
+> Ifan Hughes and Tom Hase. _Measurements and their Uncertainties: A practical guide to modern error analysis._ Oxford University Press, 2010. ISBN: 978-0-19-956632-7
+
+which I thoroughly recommend to you.
